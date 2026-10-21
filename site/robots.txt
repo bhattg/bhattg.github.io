@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhattg.github.io/sitemap.xml

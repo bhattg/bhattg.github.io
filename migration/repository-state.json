@@ -1,0 +1,19 @@
+{
+  "repository": "bhattg/bhattg.github.io",
+  "remote_default_branch": "master",
+  "prior_master_commit": "25c30de2b4ce3e3f23559384699bb4b9865d6473",
+  "local_branch": "codex/google-sites-migration",
+  "prior_pages": {
+    "build_type": "legacy",
+    "source": {
+      "branch": "master",
+      "path": "/"
+    },
+    "https_enforced": true
+  },
+  "prepared_pages_build_type": "workflow",
+  "remote_mutations_performed": true,
+  "owner_approved_publication": true,
+  "approval_date": "2026-10-21",
+  "pages_build_type": "workflow"
+}

@@ -1,0 +1,404 @@
+[
+  {
+    "url": "http://prateekjain.org/",
+    "status": "200",
+    "final_url": "http://www.prateekjain.org/",
+    "error": ""
+  },
+  {
+    "url": "http://web.iitd.ac.in/~sumeet/",
+    "status": "200",
+    "final_url": "https://web.iitd.ac.in//~sumeet/",
+    "error": ""
+  },
+  {
+    "url": "https://akarsh-prabhakara.github.io/",
+    "status": "200",
+    "final_url": "https://akarsh-prabhakara.github.io/",
+    "error": ""
+  },
+  {
+    "url": "https://aniketrege.github.io/about/",
+    "status": "404",
+    "final_url": "https://aniketrege.github.io/about/",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.08199",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2005.08199",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.04976",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2010.04976",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.05602",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2102.05602",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.06408",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2305.06408",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2401.06692",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2401.06692",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.08199",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2403.08199",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2412.17684",
+    "status": "200",
+    "final_url": "https://arxiv.org/abs/2412.17684",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2205.13147.pdf",
+    "status": "200",
+    "final_url": "https://arxiv.org/pdf/2205.13147",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2206.09273.pdf",
+    "status": "200",
+    "final_url": "https://arxiv.org/pdf/2206.09273",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2311.14948.pdf",
+    "status": "200",
+    "final_url": "https://arxiv.org/pdf/2311.14948",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2404.00530.pdf",
+    "status": "200",
+    "final_url": "https://arxiv.org/pdf/2404.00530",
+    "error": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2410.15002",
+    "status": "200",
+    "final_url": "https://arxiv.org/pdf/2410.15002",
+    "error": ""
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
+    "status": "200",
+    "final_url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
+    "error": ""
+  },
+  {
+    "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+    "status": "403",
+    "final_url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+    "error": ""
+  },
+  {
+    "url": "https://drive.google.com/file/d/1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB/view?usp=sharing",
+    "status": "200",
+    "final_url": "https://drive.google.com/file/d/1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB/view?usp=sharing",
+    "error": ""
+  },
+  {
+    "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing",
+    "status": "200",
+    "final_url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing",
+    "error": ""
+  },
+  {
+    "url": "https://eecs.iisc.ac.in/people/prathosh-a-p/",
+    "status": "200",
+    "final_url": "https://eecs.iisc.ac.in/people/prathosh-a-p/",
+    "error": ""
+  },
+  {
+    "url": "https://elahe.web.illinois.edu/",
+    "status": "200",
+    "final_url": "https://elahe.web.illinois.edu/",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/EfficientTraining/LabelBench",
+    "status": "200",
+    "final_url": "https://github.com/EfficientTraining/LabelBench",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+    "status": "200",
+    "final_url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+    "status": "200",
+    "final_url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/Hritikbansal/dove",
+    "status": "200",
+    "final_url": "https://github.com/Hritikbansal/jpo",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/RAIVNLab/MRL",
+    "status": "200",
+    "final_url": "https://github.com/RAIVNLab/MRL",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/akarsh-prabhakara/RadarHD",
+    "status": "200",
+    "final_url": "https://github.com/akarsh-prabhakara/RadarHD",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/bhattg/CAL",
+    "status": "200",
+    "final_url": "https://github.com/bhattg/CAL",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+    "status": "200",
+    "final_url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/vsahil/MIMETIC-2",
+    "status": "200",
+    "final_url": "https://github.com/vsahil/MIMETIC-2",
+    "error": ""
+  },
+  {
+    "url": "https://homes.cs.washington.edu/~ali/",
+    "status": "200",
+    "final_url": "https://homes.cs.washington.edu/~ali/",
+    "error": ""
+  },
+  {
+    "url": "https://homes.cs.washington.edu/~kusupati/",
+    "status": "404",
+    "final_url": "https://homes.cs.washington.edu/~kusupati/",
+    "error": ""
+  },
+  {
+    "url": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf",
+    "status": "404",
+    "final_url": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf",
+    "error": ""
+  },
+  {
+    "url": "https://icml.cc/virtual/2021/11181",
+    "status": "200",
+    "final_url": "https://icml.cc/virtual/2021/11181",
+    "error": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/10161429",
+    "status": "202",
+    "final_url": "https://ieeexplore.ieee.org/document/10161429",
+    "error": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/9534469/",
+    "status": "202",
+    "final_url": "https://ieeexplore.ieee.org/document/9534469/",
+    "error": ""
+  },
+  {
+    "url": "https://mattwallingford.github.io/",
+    "status": "200",
+    "final_url": "https://mattwallingford.github.io/",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=9njZa1fm35",
+    "status": "200",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3D9njZa1fm35",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=AzMnkF0jRT",
+    "status": "200",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DAzMnkF0jRT",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=PFhbXayclU",
+    "status": "200",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DPFhbXayclU",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=TqDt58rmpE",
+    "status": "200",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DTqDt58rmpE",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=cgmo3v18sx",
+    "status": "200",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dcgmo3v18sx",
+    "error": ""
+  },
+  {
+    "url": "https://openreview.net/pdf?id=T55dLSgsEf",
+    "status": "403",
+    "final_url": "https://openreview.net/pdf?id=T55dLSgsEf",
+    "error": ""
+  },
+  {
+    "url": "https://people.ece.uw.edu/bilmes",
+    "status": "200",
+    "final_url": "https://people.ece.uw.edu/bilmes/",
+    "error": ""
+  },
+  {
+    "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+    "status": "200",
+    "final_url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+    "error": ""
+  },
+  {
+    "url": "https://rafaelvalle.github.io/",
+    "status": "200",
+    "final_url": "https://rafaelvalle.github.io/",
+    "error": ""
+  },
+  {
+    "url": "https://rishubhsingh.github.io/",
+    "status": "200",
+    "final_url": "https://rishubhsingh.github.io/",
+    "error": ""
+  },
+  {
+    "url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ",
+    "status": "200",
+    "final_url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ",
+    "error": ""
+  },
+  {
+    "url": "https://scholar.google.com/citations?hl=ja&user=HP4M0MkAAAAJ&view_op=list_works&sortby=pubdate",
+    "status": "200",
+    "final_url": "https://scholar.google.com/citations?hl=ja&user=HP4M0MkAAAAJ&view_op=list_works&sortby=pubdate",
+    "error": ""
+  },
+  {
+    "url": "https://scholar.google.com/citations?user=4x3DhzAAAAAJ&hl=en",
+    "status": "200",
+    "final_url": "https://scholar.google.com/citations?user=4x3DhzAAAAAJ&hl=en",
+    "error": ""
+  },
+  {
+    "url": "https://scholar.google.com/citations?user=62ElavIAAAAJ&hl=en",
+    "status": "200",
+    "final_url": "https://scholar.google.com/citations?user=62ElavIAAAAJ&hl=en",
+    "error": ""
+  },
+  {
+    "url": "https://scholarworks.umass.edu/scil/vol4/iss1/38/",
+    "status": "301",
+    "final_url": "https://scholarworks.umass.edu/items/82235a46-aa90-4ecb-9bb2-257b37499579",
+    "error": ""
+  },
+  {
+    "url": "https://sham.seas.harvard.edu/",
+    "status": "200",
+    "final_url": "https://sham.seas.harvard.edu/",
+    "error": ""
+  },
+  {
+    "url": "https://sites.google.com/view/hbansal",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/hbansal",
+    "error": ""
+  },
+  {
+    "url": "https://sites.google.com/view/mostofa-patwary",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/mostofa-patwary",
+    "error": ""
+  },
+  {
+    "url": "https://sites.google.com/view/prathosh/home",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/prathosh/home",
+    "error": ""
+  },
+  {
+    "url": "https://swarunkumar.com/",
+    "status": "200",
+    "final_url": "https://swarunkumar.com/",
+    "error": ""
+  },
+  {
+    "url": "https://twitter.com/BhattGantavya",
+    "status": "200",
+    "final_url": "https://twitter.com/BhattGantavya",
+    "error": ""
+  },
+  {
+    "url": "https://unsplash.com/@gbhatt_2",
+    "status": "401",
+    "final_url": "https://unsplash.com/.within.website?redir=%2F%40gbhatt_2",
+    "error": ""
+  },
+  {
+    "url": "https://users.ece.cmu.edu/~agr/",
+    "status": "200",
+    "final_url": "https://users.ece.cmu.edu/~agr/",
+    "error": ""
+  },
+  {
+    "url": "https://vkramanuj.github.io/",
+    "status": "200",
+    "final_url": "https://vkramanuj.github.io/",
+    "error": ""
+  },
+  {
+    "url": "https://web.iitd.ac.in/~sumeet/",
+    "status": "200",
+    "final_url": "https://web.iitd.ac.in/~sumeet/",
+    "error": ""
+  },
+  {
+    "url": "https://wise.ece.cmu.edu/about.html",
+    "status": "200",
+    "final_url": "https://wise.ece.cmu.edu/about.html",
+    "error": ""
+  },
+  {
+    "url": "https://www.aclweb.org/anthology/2020.acl-srw.33/",
+    "status": "200",
+    "final_url": "https://aclanthology.org/2020.acl-srw.33/",
+    "error": ""
+  },
+  {
+    "url": "https://www.linkedin.com/in/arnavdas",
+    "status": "405",
+    "final_url": "https://www.linkedin.com/in/arnavdas",
+    "error": ""
+  },
+  {
+    "url": "https://www.linkedin.com/in/bhattgantavya/",
+    "status": "405",
+    "final_url": "https://www.linkedin.com/in/bhattgantavya/",
+    "error": ""
+  }
+]

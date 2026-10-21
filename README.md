@@ -1,31 +1,40 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Gantavya Bhatt — personal academic website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Lightweight static HTML/CSS for **https://bhattg.github.io/**, migrated from the public Google Site. No package installation, Ruby, Jekyll, or JavaScript framework is required. The page content and direct navigation links work without JavaScript.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+The design combines a compact academic profile, warm ivory background, espresso text, cinnamon accents, and restrained serif headings. A matching night theme uses deep espresso, warm ivory text, and amber accents. The header switch remembers the visitor’s choice; the first visit follows the system color preference. All publications appear in simple image-and-text rows on the homepage, with a standalone publication index and separate photography collections. Photography has a distinct italic serif style and an overview of six visual themes, rather than repeating the 2023 gallery. Highlights of 2024 and 2025 add 35 curated photos from the owner’s Unsplash profile, grouped by verified upload year and shown earliest to latest under month headings.
 
-# Instructions
+## Preview and edit
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+```sh
+python3 scripts/build.py
+python3 scripts/check.py
+python3 -m http.server 4173 --bind 127.0.0.1 --directory site
+```
 
-See more info at https://academicpages.github.io/
+Open http://127.0.0.1:4173/.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+- Edit biography, news, publication text, links, and gallery captions in `data/content.json`.
+- Edit the overview’s introduction and six image selections in `data/photography-overview.json`. Each image references the verified photo inventory used by the annual galleries. The annual `photos` lists render in ascending `posted_at` order.
+- Edit the 2024 and 2025 introductions, selections, source captions, locations, and image provenance in `data/unsplash-highlights.json`. The original Google Sites copy, including the replaced 2024 placeholder, remains archived in `data/content.json`.
+- Edit typography and layout in `site/assets/style.css`. Shared `--type-*`, `--leading-*`, and font-family variables at the top define the same text styles for every page and both themes.
+- Edit shared layout in `scripts/build.py`, then rebuild.
+- Replace `site/assets/gantavya-bhatt-cv.pdf` to update the CV.
+- `data/link-repairs.json` records verified corrections to inherited links. Original copy and URLs remain in the content data and migration inventory.
+- Commit the generated `site/` along with the source changes. CI regenerates it before deployment.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Deployment
 
-# Changelog -- bugfixes and enhancements
+Repository: `bhattg/bhattg.github.io`. Existing default branch: `master`.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+The workflow `.github/workflows/pages.yml` validates pull requests. A push to `master` or a manual run on `master` builds, validates, uploads only `site/`, and deploys through the `github-pages` environment.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+Pages is configured to use **GitHub Actions**. Only `site/` is uploaded in the public deployment artifact; source data and audit records remain repository files. The owner approved publication on October 21, 2026, after reviewing the complete local preview. The prior Jekyll template remains in Git history.
+
+Use a normal fast-forward or pull request merge, preserving the existing repository history. Do not force-push. Check that `master` has not advanced before merging. After the successful Pages run, verify the public home page, gallery navigation, CV, and 404 page.
+
+## Migration record
+
+See `MIGRATION_REPORT.md` for scope, page mapping, fidelity notes, link repairs, verification, and limitations. `migration/` contains the machine-readable source inventory and audit evidence and is excluded from the deployed artifact.
+
+The downloaded photographs, portrait, research figures, and CV retain their original ownership. No new license is applied to those assets.

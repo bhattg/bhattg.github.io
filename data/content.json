@@ -1,0 +1,1772 @@
+{
+  "name": "Gantavya Bhatt",
+  "url": "https://bhattg.github.io/",
+  "email": "gbhatt2@uw.edu",
+  "role": "PhD candidate",
+  "affiliation": "University of Washington, Seattle",
+  "profile_image": "assets/images/5b19fc65dc371471.jpg",
+  "landscape_image": "assets/images/d0b6324da9cbadfc.jpg",
+  "social": [
+    {
+      "label": "LinkedIN",
+      "url": "https://www.linkedin.com/in/bhattgantavya/"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/BhattGantavya"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:gbhatt2@uw.edu"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ"
+    },
+    {
+      "label": "CV",
+      "url": "https://drive.google.com/file/d/1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB/view?usp=sharing"
+    }
+  ],
+  "cv": "assets/gantavya-bhatt-cv.pdf",
+  "biography": [
+    "I am a final year PhD candidate at the University of Washington, Seattle, where I am working with <a href=\"https://people.ece.uw.edu/bilmes\">Prof. Jeffery A. Bilmes</a>. I like to work on improving the data efficiency of large-scale models for both training and inference using submodular optimization. In Summer&#x27;25, I interned at NVIDIA - Applied Deep Learning Research, working with <a href=\"https://scholar.google.com/citations?user=62ElavIAAAAJ&amp;hl=en\">Mohammad Shoeybi</a> and <a href=\"https://sites.google.com/view/mostofa-patwary\">Mostafa Patwary</a>. In summer &#x27;24, I interned at NVIDIA&#x27;s Applied Deep Learning Research Team with <a href=\"https://rafaelvalle.github.io/\">Rafael Valle</a> and <a href=\"https://scholar.google.com/citations?user=4x3DhzAAAAAJ&amp;hl=en\">Kevin Shih</a>.",
+    "I am on the Industry Job Market. If you think I can be a good fit for your research roles, please don&#x27;t hesitate to reach out!",
+    "Before joining the PhD program, I completed my undergraduate degree at IIT Delhi, in Electrical Engineering, where I worked with <a href=\"http://web.iitd.ac.in/~sumeet/\">Dr Sumeet Agarwal</a> and <a href=\"https://eecs.iisc.ac.in/people/prathosh-a-p/\">Dr Prathosh AP</a>. I&#x27;m also an avid photographer (Checkout my <a href=\"https://unsplash.com/@gbhatt_2\">Unsplash</a>) and hiker! When not working, I can be found messing around with my camera, Google Earth, or hiking in North Cascades National Park."
+  ],
+  "news": [
+    {
+      "text": "[May 2026] I've passed my candidacy exam, and I am on the Industry Job Market!",
+      "html": "[May 2026] I&#x27;ve passed my candidacy exam, and I am on the Industry Job Market!"
+    },
+    {
+      "text": "[May 2026] Excited about new work on a new class of submodular functions.",
+      "html": "[May 2026] Excited about new work on a new class of submodular functions."
+    },
+    {
+      "text": "[Mar 2026] Nemotron 3 Super is out now!",
+      "html": "[Mar 2026] <a href=\"https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\">Nemotron 3 Super</a> is out now!"
+    },
+    {
+      "text": "[Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR'26",
+      "html": "[Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR&#x27;26"
+    },
+    {
+      "text": "[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR'26",
+      "html": "[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR&#x27;26"
+    }
+  ],
+  "publications": [
+    {
+      "source_id": "h.53f95037ef6378db_0",
+      "title": "Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features",
+      "title_html": "Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Gantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes",
+          "text": "Gantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In International Conference on Learning Representations (ICLR&#x27;26)",
+          "text": "[Poster] In International Conference on Learning Representations (ICLR'26)"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] DATA-FM workshop at ICLR&#x27;26",
+          "text": "[Poster] DATA-FM workshop at ICLR'26"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://openreview.net/forum?id=cgmo3v18sx\">openreview</a>",
+          "text": "openreview"
+        }
+      ],
+      "image": "assets/images/ef0fb89f55878e13.png",
+      "links": [
+        {
+          "label": "openreview",
+          "url": "https://openreview.net/forum?id=cgmo3v18sx"
+        }
+      ]
+    },
+    {
+      "source_id": "h.7738f255780fc0ec_7",
+      "title": "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+      "title_html": "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Tingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu",
+          "text": "Tingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR&#x27;26)",
+          "text": "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'26)"
+        }
+      ],
+      "image": "assets/images/81895e9a29fb2dbe.png",
+      "links": []
+    },
+    {
+      "source_id": "h.5b347a2139e1e201_4",
+      "title": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning",
+      "title_html": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes",
+          "text": "Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR&#x27;25)",
+          "text": "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'25)"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In DMLR workshop at ICML&#x27;24",
+          "text": "[Poster] In DMLR workshop at ICML'24"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://arxiv.org/abs/2412.17684\">arxiv</a>",
+          "text": "arxiv"
+        }
+      ],
+      "image": "assets/images/c08084b0311b15cd.png",
+      "links": [
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/abs/2412.17684"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4e79c054878cd571_0",
+      "title": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+      "title_html": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Hritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover",
+          "text": "Hritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] Findings of ACL&#x27;25.",
+          "text": "[Poster] Findings of ACL'25."
+        },
+        {
+          "type": "p",
+          "html": "[Oral] In DMLR workshop at ICML&#x27;24",
+          "text": "[Oral] In DMLR workshop at ICML'24"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In MHFAI Alignment workshop at ICML&#x27;24",
+          "text": "[Poster] In MHFAI Alignment workshop at ICML'24"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://arxiv.org/pdf/2404.00530.pdf\">arxiv</a>/<a href=\"https://openreview.net/forum?id=PFhbXayclU\">openreview (DMLR)</a>/<a href=\"https://openreview.net/forum?id=AzMnkF0jRT\">openreview (MHFAI)</a>/<a href=\"https://github.com/Hritikbansal/dove\">code</a>",
+          "text": "arxiv/openreview (DMLR)/openreview (MHFAI)/code"
+        }
+      ],
+      "image": "assets/images/01dea4aff5f9c579.png",
+      "links": [
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/pdf/2404.00530.pdf"
+        },
+        {
+          "label": "openreview (DMLR)",
+          "url": "https://openreview.net/forum?id=PFhbXayclU"
+        },
+        {
+          "label": "openreview (MHFAI)",
+          "url": "https://openreview.net/forum?id=AzMnkF0jRT"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/Hritikbansal/dove"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4cdc637ec1fc326a_0",
+      "title": "Deep Submodular Peripteral Networks",
+      "title_html": "Deep Submodular Peripteral Networks",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Gantavya Bhatt*, Arnav Das*, Jeff Bilmes",
+          "text": "Gantavya Bhatt*, Arnav Das*, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "[Spotlight] In Neural Information Processing Systems (NeurIPS&#x27;24)",
+          "text": "[Spotlight] In Neural Information Processing Systems (NeurIPS'24)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://arxiv.org/abs/2403.08199\">arxiv</a>",
+          "text": "arxiv"
+        }
+      ],
+      "image": "assets/images/96094e84eade988e.png",
+      "links": [
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/abs/2403.08199"
+        }
+      ]
+    },
+    {
+      "source_id": "h.72e4d390ecc1523a_0",
+      "title": "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models",
+      "title_html": "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Gantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak",
+          "text": "Gantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] Accepted at ACL&#x27;24 (Findings)",
+          "text": "[Poster] Accepted at ACL'24 (Findings)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://arxiv.org/abs/2401.06692\">arxiv</a>",
+          "text": "arxiv"
+        }
+      ],
+      "image": "assets/images/2d56a2e85c39d736.png",
+      "links": [
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/abs/2401.06692"
+        }
+      ]
+    },
+    {
+      "source_id": "h.1804aeb8dc3e5ed1_0",
+      "title": "Effective Backdoor Mitigation Depends on the Pre-training Objective",
+      "title_html": "Effective Backdoor Mitigation Depends on the Pre-training Objective",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff Bilmes",
+          "text": "Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "In Transactions of Machine Learning Research (Jan&#x27;25 edition, TMLR)",
+          "text": "In Transactions of Machine Learning Research (Jan'25 edition, TMLR)"
+        },
+        {
+          "type": "p",
+          "html": "[Best Paper Award 🏆] In BUGS workshop at NeurIPS&#x27;23",
+          "text": "[Best Paper Award 🏆] In BUGS workshop at NeurIPS'23"
+        },
+        {
+          "type": "p",
+          "html": "Under review",
+          "text": "Under review"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://openreview.net/forum?id=TqDt58rmpE\">pdf</a> / <a href=\"https://arxiv.org/pdf/2311.14948.pdf\">arxiv</a>",
+          "text": "pdf / arxiv"
+        }
+      ],
+      "image": "assets/images/c5d07ecc0141cef2.png",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://openreview.net/forum?id=TqDt58rmpE"
+        },
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/pdf/2311.14948.pdf"
+        }
+      ]
+    },
+    {
+      "source_id": "h.487bddf4726e1af_0",
+      "title": "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold",
+      "title_html": "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Sahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar",
+          "text": "Sahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar"
+        },
+        {
+          "type": "p",
+          "html": "[Invited Talk] RegML workshop at NeurIPS 2024",
+          "text": "[Invited Talk] RegML workshop at NeurIPS 2024"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024",
+          "text": "[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024"
+        },
+        {
+          "type": "p",
+          "html": "In Transactions of Machine Learning Research (Dec&#x27;2025 edition, TMLR)",
+          "text": "In Transactions of Machine Learning Research (Dec'2025 edition, TMLR)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://arxiv.org/pdf/2410.15002\">pdf</a>/<a href=\"https://github.com/vsahil/MIMETIC-2\">code</a>",
+          "text": "pdf/code"
+        }
+      ],
+      "image": "assets/images/28b275e64994846c.png",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://arxiv.org/pdf/2410.15002"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/vsahil/MIMETIC-2"
+        }
+      ]
+    },
+    {
+      "source_id": "h.fff6899108fae8d_0",
+      "title": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+      "title_html": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Jifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak",
+          "text": "Jifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak"
+        },
+        {
+          "type": "p",
+          "html": "In Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS&#x27;23.",
+          "text": "In Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS'23."
+        },
+        {
+          "type": "p",
+          "html": "Accepted at DMLR&#x27;24",
+          "text": "Accepted at DMLR'24"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://openreview.net/forum?id=TqDt58rmpE\">pdf</a> / <a href=\"https://arxiv.org/pdf/2311.14948.pdf\">arxiv</a> / <a href=\"https://github.com/EfficientTraining/LabelBench\">code</a>",
+          "text": "pdf / arxiv / code"
+        }
+      ],
+      "image": "assets/images/8f63500d186b3de4.png",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://openreview.net/forum?id=TqDt58rmpE"
+        },
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/pdf/2311.14948.pdf"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/EfficientTraining/LabelBench"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4563ee7aa6c787ad_47",
+      "title": "Accelerating Batch Active Learning Using Continual Learning Techniques",
+      "title_html": "Accelerating Batch Active Learning Using Continual Learning Techniques",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Arnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff Bilmes",
+          "text": "Arnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "In Transactions of Machine Learning Research (Dec&#x27;23 edition, TMLR)",
+          "text": "In Transactions of Machine Learning Research (Dec'23 edition, TMLR)"
+        },
+        {
+          "type": "p",
+          "html": "In DMLR workshop at ICML&#x27;23",
+          "text": "In DMLR workshop at ICML'23"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://openreview.net/pdf?id=T55dLSgsEf\">pdf</a> / <a href=\"https://arxiv.org/abs/2305.06408\">arxiv</a> / <a href=\"https://github.com/bhattg/CAL\">code</a>",
+          "text": "pdf / arxiv / code"
+        }
+      ],
+      "image": "assets/images/ec04b464c4591feb.png",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://openreview.net/pdf?id=T55dLSgsEf"
+        },
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/abs/2305.06408"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/bhattg/CAL"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4563ee7aa6c787ad_7",
+      "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+      "title_html": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "<a href=\"https://akarsh-prabhakara.github.io/\">Akarsh Prabhakara</a>, <a href=\"https://wise.ece.cmu.edu/about.html\">Tao Jin</a>, <a href=\"https://www.linkedin.com/in/arnavdas\">Arnav Das</a>*, Gantavya Bhatt*, Lilly Kumari, <a href=\"https://elahe.web.illinois.edu/\">Elahe Soltanaghei</a>, <a href=\"https://people.ece.uw.edu/bilmes/p/pgs/index.html\">Jeff Bilmes</a>, <a href=\"https://swarunkumar.com/\">Swarun Kumar</a>, <a href=\"https://users.ece.cmu.edu/~agr/\">Anthony Rowe</a>",
+          "text": "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe"
+        },
+        {
+          "type": "p",
+          "html": "In Annual International Conference On Mobile Computing And Networking ACM MobiCom &#x27;23",
+          "text": "In Annual International Conference On Mobile Computing And Networking ACM MobiCom '23"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://dl.acm.org/doi/abs/10.1145/3570361.3614077\">pdf</a> / <a href=\"https://dl.acm.org/doi/abs/10.1145/3570361.3614077\">arxiv</a> / <a href=\"https://github.com/akarsh-prabhakara/RadarHD\">code</a>",
+          "text": "pdf / arxiv / code"
+        }
+      ],
+      "image": "assets/images/8ff89a73176a029d.png",
+      "links": [
+        {
+          "label": "Akarsh Prabhakara",
+          "url": "https://akarsh-prabhakara.github.io/"
+        },
+        {
+          "label": "Tao Jin",
+          "url": "https://wise.ece.cmu.edu/about.html"
+        },
+        {
+          "label": "Arnav Das",
+          "url": "https://www.linkedin.com/in/arnavdas"
+        },
+        {
+          "label": "Elahe Soltanaghei",
+          "url": "https://elahe.web.illinois.edu/"
+        },
+        {
+          "label": "Jeff Bilmes",
+          "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html"
+        },
+        {
+          "label": "Swarun Kumar",
+          "url": "https://swarunkumar.com/"
+        },
+        {
+          "label": "Anthony Rowe",
+          "url": "https://users.ece.cmu.edu/~agr/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077"
+        },
+        {
+          "label": "arxiv",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/akarsh-prabhakara/RadarHD"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4563ee7aa6c787ad_14",
+      "title": "High Resolution Point Clouds from mmWave Radar",
+      "title_html": "High Resolution Point Clouds from mmWave Radar",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "<a href=\"https://akarsh-prabhakara.github.io/\">Akarsh Prabhakara</a>, <a href=\"https://wise.ece.cmu.edu/about.html\">Tao Jin</a>, <a href=\"https://www.linkedin.com/in/arnavdas\">Arnav Das</a>*, Gantavya Bhatt*, Lilly Kumari, <a href=\"https://elahe.web.illinois.edu/\">Elahe Soltanaghei</a>, <a href=\"https://people.ece.uw.edu/bilmes/p/pgs/index.html\">Jeff Bilmes</a>, <a href=\"https://swarunkumar.com/\">Swarun Kumar</a>, <a href=\"https://users.ece.cmu.edu/~agr/\">Anthony Rowe</a>",
+          "text": "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe"
+        },
+        {
+          "type": "p",
+          "html": "In IEEE International Conference on Robotics and Automation (ICRA&#x27;23)",
+          "text": "In IEEE International Conference on Robotics and Automation (ICRA'23)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://ieeexplore.ieee.org/document/10161429\">pdf</a> / <a href=\"https://arxiv.org/pdf/2206.09273.pdf\">arxiv</a> / <a href=\"https://github.com/akarsh-prabhakara/RadarHD\">code</a>",
+          "text": "pdf / arxiv / code"
+        }
+      ],
+      "image": "assets/images/b5dd6bfddcf12e38.png",
+      "links": [
+        {
+          "label": "Akarsh Prabhakara",
+          "url": "https://akarsh-prabhakara.github.io/"
+        },
+        {
+          "label": "Tao Jin",
+          "url": "https://wise.ece.cmu.edu/about.html"
+        },
+        {
+          "label": "Arnav Das",
+          "url": "https://www.linkedin.com/in/arnavdas"
+        },
+        {
+          "label": "Elahe Soltanaghei",
+          "url": "https://elahe.web.illinois.edu/"
+        },
+        {
+          "label": "Jeff Bilmes",
+          "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html"
+        },
+        {
+          "label": "Swarun Kumar",
+          "url": "https://swarunkumar.com/"
+        },
+        {
+          "label": "Anthony Rowe",
+          "url": "https://users.ece.cmu.edu/~agr/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ieeexplore.ieee.org/document/10161429"
+        },
+        {
+          "label": "arxiv",
+          "url": "https://arxiv.org/pdf/2206.09273.pdf"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/akarsh-prabhakara/RadarHD"
+        }
+      ]
+    },
+    {
+      "source_id": "h.2e8c5763b8fdd1a1_7",
+      "title": "Matryoshka Representation Learning",
+      "title_html": "<a href=\"https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf\">Matryoshka Representation</a> Learning",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "<a href=\"https://homes.cs.washington.edu/~kusupati/\">Aditya Kusupati</a>*, Gantavya Bhatt*, <a href=\"https://aniketrege.github.io/about/\">Aniket Rege*</a>, <a href=\"https://mattwallingford.github.io/\">Matthew Wallingford</a>, Aditya Sinha, <a href=\"https://vkramanuj.github.io/\">Vivek Ramanujan</a>, William Howard-Snyder, Kaifeng Chen, <a href=\"https://sham.seas.harvard.edu/\">Sham Kakade</a>, <a href=\"http://prateekjain.org/\">Prateek Jain</a>, and <a href=\"https://homes.cs.washington.edu/~ali/\">Ali Farhadi</a>",
+          "text": "Aditya Kusupati*, Gantavya Bhatt*, Aniket Rege*, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi"
+        },
+        {
+          "type": "p",
+          "html": "[Poster] In Neural Information Processing Systems (NeurIPS&#x27;22)",
+          "text": "[Poster] In Neural Information Processing Systems (NeurIPS'22)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://openreview.net/forum?id=9njZa1fm35\">pdf</a> / <a href=\"https://arxiv.org/pdf/2205.13147.pdf\">arXiv</a> / <a href=\"https://github.com/RAIVNLab/MRL\">code</a>",
+          "text": "pdf / arXiv / code"
+        }
+      ],
+      "image": "assets/images/6aa86a049732f065.png",
+      "links": [
+        {
+          "label": "Matryoshka Representation",
+          "url": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf"
+        },
+        {
+          "label": "Aditya Kusupati",
+          "url": "https://homes.cs.washington.edu/~kusupati/"
+        },
+        {
+          "label": "Aniket Rege*",
+          "url": "https://aniketrege.github.io/about/"
+        },
+        {
+          "label": "Matthew Wallingford",
+          "url": "https://mattwallingford.github.io/"
+        },
+        {
+          "label": "Vivek Ramanujan",
+          "url": "https://vkramanuj.github.io/"
+        },
+        {
+          "label": "Sham Kakade",
+          "url": "https://sham.seas.harvard.edu/"
+        },
+        {
+          "label": "Prateek Jain",
+          "url": "http://prateekjain.org/"
+        },
+        {
+          "label": "Ali Farhadi",
+          "url": "https://homes.cs.washington.edu/~ali/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://openreview.net/forum?id=9njZa1fm35"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/pdf/2205.13147.pdf"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/RAIVNLab/MRL"
+        }
+      ]
+    },
+    {
+      "source_id": "h.4563ee7aa6c787ad_21",
+      "title": "Tighter m-DPP Coreset Sample Complexity Bounds",
+      "title_html": "Tighter m-DPP Coreset Sample Complexity Bounds",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "Gantavya Bhatt, Jeff Bilmes",
+          "text": "Gantavya Bhatt, Jeff Bilmes"
+        },
+        {
+          "type": "p",
+          "html": "[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML&#x27;21)",
+          "text": "[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML'21)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://icml.cc/virtual/2021/11181\">pdf</a> / <a href=\"https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing\">arXiv</a>",
+          "text": "pdf / arXiv"
+        }
+      ],
+      "image": "assets/images/05c9d5cbe3ade8f1.png",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://icml.cc/virtual/2021/11181"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "source_id": "h.316e9314c5605864_42",
+      "title": "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting Models",
+      "title_html": "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting Models",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "<a href=\"https://sites.google.com/view/hbansal\">Hritik Bansal</a>*, Gantavya Bhatt*, <a href=\"https://scholar.google.com/citations?hl=ja&amp;user=HP4M0MkAAAAJ&amp;view_op=list_works&amp;sortby=pubdate\">Pankaj Malhotra</a> and <a href=\"https://sites.google.com/view/prathosh/home\">Prathosh AP</a>",
+          "text": "Hritik Bansal*, Gantavya Bhatt*, Pankaj Malhotra and Prathosh AP"
+        },
+        {
+          "type": "p",
+          "html": "In International joint Conference on Neural Networks (IJCNN&#x27;21)",
+          "text": "In International joint Conference on Neural Networks (IJCNN'21)"
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://ieeexplore.ieee.org/document/9534469/\">pdf</a> / <a href=\"https://arxiv.org/abs/2102.05602\">arXiv</a> / <a href=\"https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization\">code</a>",
+          "text": "pdf / arXiv / code"
+        }
+      ],
+      "image": "assets/images/527d3128ce2e8511.png",
+      "links": [
+        {
+          "label": "Hritik Bansal",
+          "url": "https://sites.google.com/view/hbansal"
+        },
+        {
+          "label": "Pankaj Malhotra",
+          "url": "https://scholar.google.com/citations?hl=ja&user=HP4M0MkAAAAJ&view_op=list_works&sortby=pubdate"
+        },
+        {
+          "label": "Prathosh AP",
+          "url": "https://sites.google.com/view/prathosh/home"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ieeexplore.ieee.org/document/9534469/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2102.05602"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization"
+        }
+      ]
+    },
+    {
+      "source_id": "h.24d73fe912104495_0",
+      "title": "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?",
+      "title_html": "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "<a href=\"https://sites.google.com/view/hbansal\">Hritik Bansal</a>*, Gantavya Bhatt* and <a href=\"https://web.iitd.ac.in/~sumeet/\">Sumeet Agarwal</a>",
+          "text": "Hritik Bansal*, Gantavya Bhatt* and Sumeet Agarwal"
+        },
+        {
+          "type": "p",
+          "html": "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "text": "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38."
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://scholarworks.umass.edu/scil/vol4/iss1/38/\">pdf</a> / <a href=\"https://arxiv.org/abs/2010.04976\">arXiv</a> / <a href=\"https://github.com/Hritikbansal/RNNs_SVA_OOD\">code</a>",
+          "text": "pdf / arXiv / code"
+        }
+      ],
+      "image": "assets/images/42c41f03a61959fe.png",
+      "links": [
+        {
+          "label": "Hritik Bansal",
+          "url": "https://sites.google.com/view/hbansal"
+        },
+        {
+          "label": "Sumeet Agarwal",
+          "url": "https://web.iitd.ac.in/~sumeet/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://scholarworks.umass.edu/scil/vol4/iss1/38/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2010.04976"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD"
+        }
+      ]
+    },
+    {
+      "source_id": "h.20a81397e91533b7_0",
+      "title": "Decay RNN",
+      "title_html": "Decay RNN",
+      "paragraphs": [
+        {
+          "type": "p",
+          "html": "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?",
+          "text": "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?"
+        },
+        {
+          "type": "p",
+          "html": "Gantavya Bhatt*, <a href=\"https://sites.google.com/view/hbansal\">Hritik Bansal</a>*, <a href=\"https://rishubhsingh.github.io/\">Rishubh Singh</a>* and <a href=\"https://web.iitd.ac.in/~sumeet/\">Sumeet Agarwal</a>",
+          "text": "Gantavya Bhatt*, Hritik Bansal*, Rishubh Singh* and Sumeet Agarwal"
+        },
+        {
+          "type": "p",
+          "html": "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "text": "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38."
+        },
+        {
+          "type": "p",
+          "html": "<a href=\"https://www.aclweb.org/anthology/2020.acl-srw.33/\">pdf</a> / <a href=\"https://arxiv.org/abs/2005.08199\">arXiv</a> / <a href=\"https://github.com/bhattg/Decay-RNN-ACL-SRW2020\">code</a>",
+          "text": "pdf / arXiv / code"
+        }
+      ],
+      "image": "assets/images/8894160967d93cfc.png",
+      "links": [
+        {
+          "label": "Hritik Bansal",
+          "url": "https://sites.google.com/view/hbansal"
+        },
+        {
+          "label": "Rishubh Singh",
+          "url": "https://rishubhsingh.github.io/"
+        },
+        {
+          "label": "Sumeet Agarwal",
+          "url": "https://web.iitd.ac.in/~sumeet/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://www.aclweb.org/anthology/2020.acl-srw.33/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2005.08199"
+        },
+        {
+          "label": "code",
+          "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020"
+        }
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "slug": "photography",
+      "title": "Highlights of 2023",
+      "source_url": "https://sites.google.com/view/gbhatt/photography",
+      "events": [
+        {
+          "type": "h1",
+          "html": "Highlights of 2023",
+          "text": "Highlights of 2023"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/864adde64505dc19.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Alpine vegetation with Milky Way in the background.",
+          "text": "Alpine vegetation with Milky Way in the background."
+        },
+        {
+          "type": "p",
+          "html": "Sunrise, Mount Rainier National Park, Washington",
+          "text": "Sunrise, Mount Rainier National Park, Washington"
+        },
+        {
+          "type": "p",
+          "html": "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.",
+          "text": "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones."
+        },
+        {
+          "type": "p",
+          "html": "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.",
+          "text": "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me."
+        },
+        {
+          "type": "p",
+          "html": "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.",
+          "text": "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall."
+        },
+        {
+          "type": "p",
+          "html": "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th.",
+          "text": "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th."
+        },
+        {
+          "type": "p",
+          "html": "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here&#x27;s a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!",
+          "text": "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!"
+        },
+        {
+          "type": "h2",
+          "html": "When cloud cover was 0% - Stargazing",
+          "text": "When cloud cover was 0% - Stargazing"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/d2e8f91aa0d4e0ea.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Milkyway rising, Little Tahoma and Mount Rainier",
+          "text": "Milkyway rising, Little Tahoma and Mount Rainier"
+        },
+        {
+          "type": "p",
+          "html": "Sunrise, Mount Rainier National Park, Washington",
+          "text": "Sunrise, Mount Rainier National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/935ce3a6211ac0e3.png",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280"
+        },
+        {
+          "type": "p",
+          "html": "In persuit for Perseids Meteor Shower",
+          "text": "In persuit for Perseids Meteor Shower"
+        },
+        {
+          "type": "p",
+          "html": "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington",
+          "text": "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington"
+        },
+        {
+          "type": "h2",
+          "html": "On the top of a rock- Mountains",
+          "text": "On the top of a rock- Mountains"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/63117b6cdba16909.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280"
+        },
+        {
+          "type": "p",
+          "html": "It is all about the layers",
+          "text": "It is all about the layers"
+        },
+        {
+          "type": "p",
+          "html": "North Rim, Grand Canyon National Park, Arizona",
+          "text": "North Rim, Grand Canyon National Park, Arizona"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/5b5cd54a4493c5b8.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Edge of Earth shadow",
+          "text": "Edge of Earth shadow"
+        },
+        {
+          "type": "p",
+          "html": "North Rim, Grand Canyon National Park, Arizona",
+          "text": "North Rim, Grand Canyon National Park, Arizona"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/97e89e29abfc4a46.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Angels Landing Trail",
+          "text": "Classic Angels Landing Trail"
+        },
+        {
+          "type": "p",
+          "html": "Zion National Park, Utah",
+          "text": "Zion National Park, Utah"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/d3c9cf3073bff47e.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Molar Tooth and fall Colors on Cutthroat Peak",
+          "text": "Molar Tooth and fall Colors on Cutthroat Peak"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/db0a23b62559048f.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Liberty Bells at Washington Pass, SR-20",
+          "text": "Classic Liberty Bells at Washington Pass, SR-20"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c459df1faf9acd9b.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Triplet Peak, Cascades Mountain Range",
+          "text": "Triplet Peak, Cascades Mountain Range"
+        },
+        {
+          "type": "p",
+          "html": "Sahale Arm, North Cascades National Park, Washington",
+          "text": "Sahale Arm, North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/2cb68fd0e73e1edc.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Majestic Mount Shuksan",
+          "text": "Majestic Mount Shuksan"
+        },
+        {
+          "type": "p",
+          "html": "Tomyhoi Peak Climber Trail, Washington",
+          "text": "Tomyhoi Peak Climber Trail, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/71485cbbc23c5004.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "text": "Hinkhouse Peak from Cutthroat Peak North Ridge"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "h2",
+          "html": "Life in a Metro - Cityscapes",
+          "text": "Life in a Metro - Cityscapes"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/18b8227ac1484e9a.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Downtown LA, as seen from mount hollywood trail on a clear sunset.",
+          "text": "Downtown LA, as seen from mount hollywood trail on a clear sunset."
+        },
+        {
+          "type": "p",
+          "html": "Los Angeles, California",
+          "text": "Los Angeles, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/b29ce9839f95faff.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Downtown Los Angeles from Griffiths Observatory",
+          "text": "Downtown Los Angeles from Griffiths Observatory"
+        },
+        {
+          "type": "p",
+          "html": "Los Angeles, California",
+          "text": "Los Angeles, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c4d183e0c2d2ec5b.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Market Street and Ferry Building on a sunny afternoon",
+          "text": "Market Street and Ferry Building on a sunny afternoon"
+        },
+        {
+          "type": "p",
+          "html": "San Francisco, California",
+          "text": "San Francisco, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/bf32ba3609046e8e.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280"
+        },
+        {
+          "type": "p",
+          "html": "A very cold Februrary evening with creamy sunset colors",
+          "text": "A very cold Februrary evening with creamy sunset colors"
+        },
+        {
+          "type": "p",
+          "html": "Seattle, Washington",
+          "text": "Seattle, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/0b3daf17cfbfa026.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Dr. Jose Rizal Park Skyline",
+          "text": "Classic Dr. Jose Rizal Park Skyline"
+        },
+        {
+          "type": "p",
+          "html": "Seattle, Washington",
+          "text": "Seattle, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/3ec02beb25f79365.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Iconic Brooklyn Bridge",
+          "text": "Iconic Brooklyn Bridge"
+        },
+        {
+          "type": "p",
+          "html": "Brooklyn, New York",
+          "text": "Brooklyn, New York"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/5fa5f1cde714a3e7.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Empire State Building amongst the Manhattan Skyline",
+          "text": "Empire State Building amongst the Manhattan Skyline"
+        },
+        {
+          "type": "p",
+          "html": "Top of the Rock, Manhattan, New York",
+          "text": "Top of the Rock, Manhattan, New York"
+        }
+      ],
+      "backgrounds": []
+    },
+    {
+      "slug": "photography/highlights-of-2023",
+      "title": "Highlights of 2023",
+      "source_url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+      "events": [
+        {
+          "type": "h1",
+          "html": "Highlights of 2023",
+          "text": "Highlights of 2023"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/864adde64505dc19.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Alpine vegetation with Milky Way in the background.",
+          "text": "Alpine vegetation with Milky Way in the background."
+        },
+        {
+          "type": "p",
+          "html": "Sunrise, Mount Rainier National Park, Washington",
+          "text": "Sunrise, Mount Rainier National Park, Washington"
+        },
+        {
+          "type": "p",
+          "html": "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.",
+          "text": "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones."
+        },
+        {
+          "type": "p",
+          "html": "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.",
+          "text": "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me."
+        },
+        {
+          "type": "p",
+          "html": "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.",
+          "text": "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall."
+        },
+        {
+          "type": "p",
+          "html": "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th.",
+          "text": "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th."
+        },
+        {
+          "type": "p",
+          "html": "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here&#x27;s a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!",
+          "text": "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!"
+        },
+        {
+          "type": "h2",
+          "html": "When cloud cover was 0% - Stargazing",
+          "text": "When cloud cover was 0% - Stargazing"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/d2e8f91aa0d4e0ea.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Milkyway rising, Little Tahoma and Mount Rainier",
+          "text": "Milkyway rising, Little Tahoma and Mount Rainier"
+        },
+        {
+          "type": "p",
+          "html": "Sunrise, Mount Rainier National Park, Washington",
+          "text": "Sunrise, Mount Rainier National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/935ce3a6211ac0e3.png",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280"
+        },
+        {
+          "type": "p",
+          "html": "In persuit for Perseids Meteor Shower",
+          "text": "In persuit for Perseids Meteor Shower"
+        },
+        {
+          "type": "p",
+          "html": "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington",
+          "text": "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington"
+        },
+        {
+          "type": "h2",
+          "html": "On the top of a rock- Mountains",
+          "text": "On the top of a rock- Mountains"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/63117b6cdba16909.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280"
+        },
+        {
+          "type": "p",
+          "html": "It is all about the layers",
+          "text": "It is all about the layers"
+        },
+        {
+          "type": "p",
+          "html": "North Rim, Grand Canyon National Park, Arizona",
+          "text": "North Rim, Grand Canyon National Park, Arizona"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/5b5cd54a4493c5b8.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Edge of Earth shadow",
+          "text": "Edge of Earth shadow"
+        },
+        {
+          "type": "p",
+          "html": "North Rim, Grand Canyon National Park, Arizona",
+          "text": "North Rim, Grand Canyon National Park, Arizona"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/97e89e29abfc4a46.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Angels Landing Trail",
+          "text": "Classic Angels Landing Trail"
+        },
+        {
+          "type": "p",
+          "html": "Zion National Park, Utah",
+          "text": "Zion National Park, Utah"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/d3c9cf3073bff47e.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Molar Tooth and fall Colors on Cutthroat Peak",
+          "text": "Molar Tooth and fall Colors on Cutthroat Peak"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/db0a23b62559048f.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Liberty Bells at Washington Pass, SR-20",
+          "text": "Classic Liberty Bells at Washington Pass, SR-20"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c459df1faf9acd9b.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Triplet Peak, Cascades Mountain Range",
+          "text": "Triplet Peak, Cascades Mountain Range"
+        },
+        {
+          "type": "p",
+          "html": "Sahale Arm, North Cascades National Park, Washington",
+          "text": "Sahale Arm, North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/2cb68fd0e73e1edc.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Majestic Mount Shuksan",
+          "text": "Majestic Mount Shuksan"
+        },
+        {
+          "type": "p",
+          "html": "Tomyhoi Peak Climber Trail, Washington",
+          "text": "Tomyhoi Peak Climber Trail, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/71485cbbc23c5004.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "text": "Hinkhouse Peak from Cutthroat Peak North Ridge"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "h2",
+          "html": "Life in a Metro - Cityscapes",
+          "text": "Life in a Metro - Cityscapes"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/18b8227ac1484e9a.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Downtown LA, as seen from mount hollywood trail on a clear sunset.",
+          "text": "Downtown LA, as seen from mount hollywood trail on a clear sunset."
+        },
+        {
+          "type": "p",
+          "html": "Los Angeles, California",
+          "text": "Los Angeles, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/b29ce9839f95faff.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Downtown Los Angeles from Griffiths Observatory",
+          "text": "Downtown Los Angeles from Griffiths Observatory"
+        },
+        {
+          "type": "p",
+          "html": "Los Angeles, California",
+          "text": "Los Angeles, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c4d183e0c2d2ec5b.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Market Street and Ferry Building on a sunny afternoon",
+          "text": "Market Street and Ferry Building on a sunny afternoon"
+        },
+        {
+          "type": "p",
+          "html": "San Francisco, California",
+          "text": "San Francisco, California"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/bf32ba3609046e8e.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280"
+        },
+        {
+          "type": "p",
+          "html": "A very cold Februrary evening with creamy sunset colors",
+          "text": "A very cold Februrary evening with creamy sunset colors"
+        },
+        {
+          "type": "p",
+          "html": "Seattle, Washington",
+          "text": "Seattle, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/0b3daf17cfbfa026.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Dr. Jose Rizal Park Skyline",
+          "text": "Classic Dr. Jose Rizal Park Skyline"
+        },
+        {
+          "type": "p",
+          "html": "Seattle, Washington",
+          "text": "Seattle, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/3ec02beb25f79365.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Iconic Brooklyn Bridge",
+          "text": "Iconic Brooklyn Bridge"
+        },
+        {
+          "type": "p",
+          "html": "Brooklyn, New York",
+          "text": "Brooklyn, New York"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/5fa5f1cde714a3e7.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Empire State Building amongst the Manhattan Skyline",
+          "text": "Empire State Building amongst the Manhattan Skyline"
+        },
+        {
+          "type": "p",
+          "html": "Top of the Rock, Manhattan, New York",
+          "text": "Top of the Rock, Manhattan, New York"
+        }
+      ],
+      "backgrounds": []
+    },
+    {
+      "slug": "photography/mountains-by-the-day",
+      "title": "Mountains by the Day",
+      "source_url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+      "events": [
+        {
+          "type": "h1",
+          "html": "Mountains by the Day",
+          "text": "Mountains by the Day"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c2dc1b476a60aeda.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vq0HCv7W6G_UhFci39r68p0A3zwrlgzDgS5ODbXTjG9SBzOLIevV8cuE0K1kV75rJj2iGgHi2P058Y-hZLoHKLUa_6gwcF1-YjfnpZJ84HvsnK3fh-MzSoX-5Oxf7mzcVMxLlsHH3fkkYBxnGP5mY_2-b_gtivwov8W9Z8Y7Gh6bAoYpliguDR89XDYdIil32j-AhVXK9DCGICmnPucjzuJ7T6geU3PX7vI_ECtAE=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Mount Rainier",
+          "text": "Mount Rainier"
+        },
+        {
+          "type": "p",
+          "html": "Tacoma, Washington",
+          "text": "Tacoma, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/926083d0e6dbef67.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sdGX6Pdtqz5XxMn8C7hYo-JXGt19a2L8RC7KmKGF3eWUJF4YGv8-IB02WT36VcxPsxMjupjZER8IYIz3mgd1zE51J-El9y8TnMsUGi22NHpwTkrW9CN9KV0F46j-PS1VfgyPM46Q4p5gYjNsLnicHNMMDa1qSiTSED7Gty6tahbvXuzm3BboPjpfCby8xnfgjaZacIyD23OgOeLYOVCor8LzxduIC3Ttft4NOx=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Early Winter Spires on a clear spring morning",
+          "text": "Early Winter Spires on a clear spring morning"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/f28ddba136d85db2.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tTKW2OK65bTLqpIMKn5G_zvIFPskYAofPolTplhyCi717p5NKzgd7nQFHKHI9qqlJsDF7J9Fy8GaXqOkBDHj1Ur5jStxCG5BPSDmXMavj3ADHrI0tgxh70_XU9dy9NxlryODv3WwwnbhMGz7roMQvnL6mULRk27yrnvcv2MU99lYfTIuFFRJ4dwLTJK2-jeIk_eoNtBk41bhaE3H-FPacU74pU18rFdxr_1kceODo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Classic Liberty Bells at Washington Pass, SR-20",
+          "text": "Classic Liberty Bells at Washington Pass, SR-20"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/756c1735dcfc51b2.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sLfgZTzznmBn93wYl5MNKom2IaYJHawLaS4Yq51IZxtrD3Kdgjly4oySXdCzHiRxpSfYxOXX9bpmaQzIRJ5l__QKUrxYtiJRQKE-ydgfbQz96KDFpN5_8hrNvddVuQzEvFCHroExEZzT5RMJm-m9qryHghwEdflNRhlrG0KNma_6jowwFvbjptYErbg7TZ6sENfJI378ooS1aZ1Qj_pGB34DPGW040itgWWtyk=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Mount Shuksan from Huntoon Point",
+          "text": "Mount Shuksan from Huntoon Point"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c658fdb5ff55815c.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72t6gvBc5epfkI79zPWxsZJPC0PfuZx03M07glOuA_kProd7lTxuv04iyer1aVMl8ygi77eot1pNfFhkR9QYJ-xePgFB-KG5Anm7KuqnZvHT0NKStJi4JdUyeYh5yuuk6gNaq9ea40yuYHXSXGSW_XyqOWJ6PCRiU4LTAC7fkU3mdRYDdvtWKSTF781L9DBn575_m2CJgBli70WpCL6E9tBcxhDT5NWIO5PYl3T6YnA=w1280"
+        },
+        {
+          "type": "p",
+          "html": "A zoomed in view on Whitehorse Mountain",
+          "text": "A zoomed in view on Whitehorse Mountain"
+        },
+        {
+          "type": "p",
+          "html": "Darrington, Washington",
+          "text": "Darrington, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/86e521badfde2673.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sK18fOPRmRLVoSUaewKv5lNdvNzvbMPIQrqQ6qc0a9X5m-MGaqidwY5FxPprjhSf_yLXVCKw6dOLTKSG66tUE84hRXP5pJygYGcgSo6XJDP7cP6DXqFTkXhIyE4yz0RNmVnrmVTIV_js1AS1VYEg0G9BG4jth0J0z_yXJiM-IDnxvtt801J383p3lqAdoOVS34XjQuVES1IrqVZaVPAxG85ScjlXKxs5Mjn0LctCw=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Whitehorse Mountain",
+          "text": "Whitehorse Mountain"
+        },
+        {
+          "type": "p",
+          "html": "Darrington, Washington",
+          "text": "Darrington, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/8d9ce31a9afbcf97.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vIXfDOy5vXcQmujgqwKwrXv_sWRs4HbWXBGVD4yEwdy52lWbJOZXKrod2FZPabKheRjHOS4IYns02JNEq5z88msrp6vHXbDn8C38QSmZgwEleqLiFZxnyBJFUQe1S06M3CzKmufyLtrGH2q5ZujBz1fkEide6CWY7cLGPmwCXy8PEEoVOYW7czxb5xdK7-BCxJeLiHFczEnK034yyaH2tpYbyVCLQ4VKrMuRVq=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Jagged Grand Tetons",
+          "text": "Jagged Grand Tetons"
+        },
+        {
+          "type": "p",
+          "html": "Grand Teton National Park, Wyoming",
+          "text": "Grand Teton National Park, Wyoming"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/c459df1faf9acd9b.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Triplet Peak",
+          "text": "Triplet Peak"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/a54703de4c466648.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v0d7mYnv3mL0jyI24NbnU1bZa4-w9ZRNPZYIzHNICIVe6HaHTUMWSynoAyJahCYTn2YC6vBaxTB3NuQWF3K7svZ6eNKLLj73x0YWCi_1d9igN3mBX7rbhoZTFBbn5seoeP0lnQF0BTiGmCvEdjutDb_LlWGQmQs8Etq8ty21WDy0OP8iq3ZuNUu5fO=w1280"
+        },
+        {
+          "type": "p",
+          "html": "The Brothers from Seattle",
+          "text": "The Brothers from Seattle"
+        },
+        {
+          "type": "p",
+          "html": "The Brothers Wilderness, Washington",
+          "text": "The Brothers Wilderness, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/71485cbbc23c5004.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "text": "Hinkhouse Peak from Cutthroat Peak North Ridge"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/2c96f9e14d8f1463.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tTir-ScWIt_D1m1_a0_OyVRL5Xo-FbVJleGYfJ_98MObBmLxoFD080mIu3PjxscE7T0VlyDdYj7uLkuT_79HD4RnlBqs3zVU-Lw3F3H5lFAeu1IZKZE937cfFGHjUh7znh5mpIyszhzQ7qDy1uxR9XO9-1PzClHLSi8QDR0n9-60vwNWMWp5stnwZSRH5-rPnLoR6L4GlgaIcpsz_yaj4b1IoHYL67OxInBdv2Xgo=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Molar Tooth and Cutthroat Peaks",
+          "text": "Molar Tooth and Cutthroat Peaks"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/75eac21f415b8bf8.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72uDTKFIYtMIHkytcZPvymFtElXWV02_gBuiD9CbAjudmXSmJ3fEij5hetyaA5lUcESgtHg8TVDKgbUdl6922sAd3ylSTxSigO8ZhGla5Cj_QFFULQUhSM7p5eSgv24LoFgQY3R9phkiSUG1y9ovZ2AwgpsSx1OycfWWeZ5a88IjSpaLWrQqt_aqTEZglOE=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Dragontail Peak and Colchuck Lake",
+          "text": "Dragontail Peak and Colchuck Lake"
+        },
+        {
+          "type": "p",
+          "html": "Enchantments Region, Washington",
+          "text": "Enchantments Region, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/fe0786db65fc9e08.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v2nG72Cock_dNuyDsASmPJI2McD6xuEOLS8hIbGDvXNVC_H8_F8dVHIMFq8Xgk9l0naqjyIRayQq8m0PPzWNc5t_xG0tBLECX_qfOY1GzxK7DvyMcHZ4i2Ylm1N61SN8lyEWIpRoNQgGgv4-2vM-e9ycSCBgNLX9Q3nVNOwhwtGF8I_TMjyhIRROq0ZVPtfPlXGsUat9OlkqCqkJ7sqZJa2PZOf1ohlRDqHjJrzPQ=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Knife Edges of Triplet and Cascade Peak",
+          "text": "Knife Edges of Triplet and Cascade Peak"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        }
+      ],
+      "backgrounds": []
+    },
+    {
+      "slug": "photography/mountains-by-the-night",
+      "title": "Mountains by the Night",
+      "source_url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+      "events": [
+        {
+          "type": "h1",
+          "html": "Mountains by the Night",
+          "text": "Mountains by the Night"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/d74b4280fd1992ac.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tuQGvPmqbectLv4yLsrlrOrnFsRkZufh_K-Jf-376zFvxLbwUCTZzZzeOhepxwj490fexc1hV_3fi88qHXAhKg4a56KCJS7d832oUnU_cvF_3sgWNrfKqAGVsHaEuCPVSe7MZKtJK6keWYlDYgZ_Lg3f4q2HP3aY1v5-hP4sS0andTi8FdgsC1IlWcTct77MC-DffoPSnli5TxPwRtjt0zeComDhviIleWgrK5wUc=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Mount Rainier from Sunrise Visitor Center",
+          "text": "Mount Rainier from Sunrise Visitor Center"
+        },
+        {
+          "type": "p",
+          "html": "North Rainier National Park, Washington",
+          "text": "North Rainier National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/ce46fedacabc31aa.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72ssnDS-HGenxIHrVRC-QGFiBiZrPOXpIxob9m2hACcHDMG1mFfn-T1h0fhBjp1smZScYgW20u9nWfz4FMloauhBxInRSO3ZUVDYKkBeEjW6DUM5pKh_wjLngcZOXZSvCn7_TMwVvjSpz-zzSx42ZCCpjvmfPPuSHOWlaVhcekwqS8Qbak3TmlYmzzSm6jI=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Aurora over Colonial Peak from Diablo Lake",
+          "text": "Aurora over Colonial Peak from Diablo Lake"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/747610dc23bffeec.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vpobghUpHUmXkvGCAiG9aLUCNIZglDDr9_l4_hWjJlVUwusV_fZFinsTOaHOThzxW7UU5jGHLhdYxx7EaoufijHV21q5MXlpqIKB5F_l273Eu-Zf1qn3TPbE80uoaQ6X9Vwti7hkAH5qiPeAoa1aiZV6XHAIreMXfU5Yz4Tcsf8K_LA5vGqWPOp6QsxOd-WODKL4mt74ruLg01fHyxb6fifoJx7vki90J1rMKe7d8=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Aurora over Jack Mountain",
+          "text": "Aurora over Jack Mountain"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/f31433d7905726b8.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v-JazecYz7o5Knv50HOihXeYSjWOrHQxNrB2ljUUC-VewXQot7WAmqla3pOTz8dDk4a7PRF13lBWQqmw0sQ12NlJbqqBUsVzk9yZHsy7ckc0QJOprGh8hI7VRv1kaPcEt9eFRVydWaQN0vt005WdB-UUg_xAt9WAGeOykpsovlZE-5TOiooGtJn4Q_HbvLkwF4Pb_G4nEgY8JKTqZkClIg6CaHJuL4taI4B7Wi=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Milky way and Aurora over Liberty bells",
+          "text": "Milky way and Aurora over Liberty bells"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        },
+        {
+          "type": "img",
+          "src": "assets/images/bb71ff585a0b4cb8.jpg",
+          "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72v-vDGe7KKesAo1ZodUsy5TRa_-Otm5i_UhtRh6A_kB0esdiH7sD-DFzY7F4KG3qMvDzsB89A3znga0Yvu5Il5MGb8Uv5hUtKhHtGLtY99VGsf1bmGqtL_K_VJV_HeRyuzeGO2oyyeWVRwpd45EaNoxK5Aay0BEx5t5saZn3kfZb8GC501uoDv20FPsBOrd7qYPC5NeihMSiGSsZAyJaV3K83QSjoRO0DyBOoby=w1280"
+        },
+        {
+          "type": "p",
+          "html": "Northern Lights over Kangaroo Ridge",
+          "text": "Northern Lights over Kangaroo Ridge"
+        },
+        {
+          "type": "p",
+          "html": "North Cascades National Park, Washington",
+          "text": "North Cascades National Park, Washington"
+        }
+      ],
+      "backgrounds": []
+    },
+    {
+      "slug": "photography/highlights-of-2024",
+      "title": "Highlights of 2024",
+      "source_url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+      "events": [
+        {
+          "type": "h1",
+          "html": "Highlights of 2024",
+          "text": "Highlights of 2024"
+        },
+        {
+          "type": "p",
+          "html": "Stay tuned!",
+          "text": "Stay tuned!"
+        }
+      ],
+      "backgrounds": [
+        "assets/images/fad4325c76d9b60d.jpg"
+      ]
+    }
+  ],
+  "source_footer": "Last Updated at January 28nd, 2026"
+}

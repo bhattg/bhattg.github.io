@@ -1,0 +1,12 @@
+{
+  "requested": "https://drive.google.com/uc?export=download&id=1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB",
+  "status": "200",
+  "final_url": "https://drive.usercontent.google.com/download?id=1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB&export=download",
+  "mime": "application/octet-stream",
+  "error": "",
+  "valid_pdf": true,
+  "local_path": "assets/gantavya-bhatt-cv.pdf",
+  "pages": 4,
+  "bytes": 232037,
+  "sha256": "450b86052ea502b5c46e6457066db9731d6e69b13c7b720e1472bc28d0253691"
+}

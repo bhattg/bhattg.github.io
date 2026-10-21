@@ -1,0 +1,175 @@
+{
+  "date_basis": "Verified Unsplash created_at/upload timestamps in UTC; capture dates not available.",
+  "identical_timestamp_order": "Stable photo ID ordering; no finer capture/upload sequence is claimed.",
+  "2023": "Original order unchanged at the owner’s explicit request.",
+  "galleries": [
+    {
+      "year": 2024,
+      "photo_count": 19,
+      "month_counts": {
+        "2024-02": 1,
+        "2024-04": 5,
+        "2024-05": 3,
+        "2024-06": 3,
+        "2024-07": 2,
+        "2024-09": 2,
+        "2024-10": 2,
+        "2024-12": 1
+      },
+      "ordered_photos": [
+        {
+          "id": "dpsm9bW5n-s",
+          "posted_at": "2024-02-29T20:25:20Z"
+        },
+        {
+          "id": "l8QtNMlU6bE",
+          "posted_at": "2024-04-01T00:04:26Z"
+        },
+        {
+          "id": "sBBKIcMckmo",
+          "posted_at": "2024-04-01T00:10:21Z"
+        },
+        {
+          "id": "YP_EkwtavFQ",
+          "posted_at": "2024-04-05T18:21:51Z"
+        },
+        {
+          "id": "dBkQwFtyE-M",
+          "posted_at": "2024-04-07T21:58:11Z"
+        },
+        {
+          "id": "hMv2OAOdQ7A",
+          "posted_at": "2024-04-29T18:53:34Z"
+        },
+        {
+          "id": "kS9uGzbI-9A",
+          "posted_at": "2024-05-13T04:37:16Z"
+        },
+        {
+          "id": "vj15n7OJOpQ",
+          "posted_at": "2024-05-14T19:15:23Z"
+        },
+        {
+          "id": "W5dwIyupMew",
+          "posted_at": "2024-05-27T02:08:54Z"
+        },
+        {
+          "id": "CgQ1TZ0gDd8",
+          "posted_at": "2024-06-06T19:41:34Z"
+        },
+        {
+          "id": "Kdv_L0dPn54",
+          "posted_at": "2024-06-12T01:35:11Z"
+        },
+        {
+          "id": "ZoyNM1-Bkro",
+          "posted_at": "2024-06-17T00:31:43Z"
+        },
+        {
+          "id": "yfFO1pX6xjc",
+          "posted_at": "2024-07-17T02:59:49Z"
+        },
+        {
+          "id": "FaW-YX5FUjU",
+          "posted_at": "2024-07-28T23:31:49Z"
+        },
+        {
+          "id": "NMQY9JIa74E",
+          "posted_at": "2024-09-07T23:00:05Z"
+        },
+        {
+          "id": "ESniDFqi8GA",
+          "posted_at": "2024-09-17T19:38:02Z"
+        },
+        {
+          "id": "e3iPgBF5W7E",
+          "posted_at": "2024-10-15T18:12:17Z"
+        },
+        {
+          "id": "wh4uXle2-iY",
+          "posted_at": "2024-10-26T19:28:40Z"
+        },
+        {
+          "id": "Uxbo71YzQXs",
+          "posted_at": "2024-12-07T22:47:13Z"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "photo_count": 16,
+      "month_counts": {
+        "2025-01": 5,
+        "2025-04": 4,
+        "2025-05": 2,
+        "2025-10": 5
+      },
+      "ordered_photos": [
+        {
+          "id": "FTZ6T5xoOro",
+          "posted_at": "2025-01-02T22:59:01Z"
+        },
+        {
+          "id": "PNMeq40XDxE",
+          "posted_at": "2025-01-02T22:59:01Z"
+        },
+        {
+          "id": "ZHpaQNSrYa4",
+          "posted_at": "2025-01-02T22:59:01Z"
+        },
+        {
+          "id": "JNcFRkCRs-g",
+          "posted_at": "2025-01-09T22:50:04Z"
+        },
+        {
+          "id": "zt68IJIbLJA",
+          "posted_at": "2025-01-13T07:23:14Z"
+        },
+        {
+          "id": "5YVZEZVVKgI",
+          "posted_at": "2025-04-08T19:57:07Z"
+        },
+        {
+          "id": "uIWlxKCnTxs",
+          "posted_at": "2025-04-08T19:57:07Z"
+        },
+        {
+          "id": "EBjLlGmCgcs",
+          "posted_at": "2025-04-12T22:31:42Z"
+        },
+        {
+          "id": "emod5U60ZCs",
+          "posted_at": "2025-04-12T22:31:42Z"
+        },
+        {
+          "id": "EHqT-MqDg20",
+          "posted_at": "2025-05-05T00:46:02Z"
+        },
+        {
+          "id": "IEFJx8OKrNw",
+          "posted_at": "2025-05-05T00:46:02Z"
+        },
+        {
+          "id": "-dGq_CltHUM",
+          "posted_at": "2025-10-12T20:36:14Z"
+        },
+        {
+          "id": "3yEpYo0WaII",
+          "posted_at": "2025-10-12T20:36:14Z"
+        },
+        {
+          "id": "LCPvPscVC-k",
+          "posted_at": "2025-10-12T20:36:14Z"
+        },
+        {
+          "id": "LvKwp8ja7qE",
+          "posted_at": "2025-10-12T20:36:14Z"
+        },
+        {
+          "id": "mmcSaJrRuCM",
+          "posted_at": "2025-10-12T20:36:14Z"
+        }
+      ]
+    }
+  ]
+}

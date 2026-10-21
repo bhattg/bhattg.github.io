@@ -1,0 +1,62 @@
+[
+  {
+    "theme": "light",
+    "token": "ink",
+    "contrast": 12.36
+  },
+  {
+    "theme": "light",
+    "token": "muted",
+    "contrast": 5.04
+  },
+  {
+    "theme": "light",
+    "token": "accent",
+    "contrast": 6.22
+  },
+  {
+    "theme": "light",
+    "token": "heading",
+    "contrast": 10.8
+  },
+  {
+    "theme": "light",
+    "token": "note",
+    "contrast": 7.45
+  },
+  {
+    "theme": "light",
+    "token": "venue",
+    "contrast": 5.99
+  },
+  {
+    "theme": "dark",
+    "token": "ink",
+    "contrast": 11.43
+  },
+  {
+    "theme": "dark",
+    "token": "muted",
+    "contrast": 6.97
+  },
+  {
+    "theme": "dark",
+    "token": "accent",
+    "contrast": 7.61
+  },
+  {
+    "theme": "dark",
+    "token": "heading",
+    "contrast": 13.13
+  },
+  {
+    "theme": "dark",
+    "token": "note",
+    "contrast": 8.78
+  },
+  {
+    "theme": "dark",
+    "token": "venue",
+    "contrast": 7.47
+  }
+]

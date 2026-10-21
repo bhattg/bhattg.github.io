@@ -1,0 +1,29 @@
+[
+  {
+    "original": "https://aniketrege.github.io/about/",
+    "replacement": "https://aniketrege.github.io/",
+    "reason": "Original author page returns 404; author's current homepage verified."
+  },
+  {
+    "original": "https://homes.cs.washington.edu/~kusupati/",
+    "replacement": "https://adityakusupati.com/",
+    "reason": "Original author page returns 404; current author homepage verified."
+  },
+  {
+    "original": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf",
+    "replacement": "https://arxiv.org/abs/2205.13147",
+    "reason": "Original paper PDF returns 404; verified Matryoshka Representation Learning record, also linked in the source publication entry."
+  },
+  {
+    "publication": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+    "original": "https://openreview.net/forum?id=TqDt58rmpE",
+    "replacement": "https://data.mlr.press/assets/pdf/v01-7.pdf",
+    "reason": "The source LabelBench PDF link incorrectly points to the backdoor paper; replaced with the verified journal PDF."
+  },
+  {
+    "publication": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+    "original": "https://arxiv.org/pdf/2311.14948.pdf",
+    "replacement": "https://arxiv.org/abs/2306.09910",
+    "reason": "The source LabelBench arXiv link incorrectly points to the backdoor paper; replaced with the arXiv record linked by the project repository."
+  }
+]

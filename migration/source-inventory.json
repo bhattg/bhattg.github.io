@@ -1,0 +1,2868 @@
+[
+  {
+    "requested": "https://sites.google.com/view/gbhatt/",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "root",
+    "title": "Gantavya Bhatt",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "LinkedIN",
+        "url": "https://www.linkedin.com/in/bhattgantavya/",
+        "navigation": false
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/BhattGantavya",
+        "navigation": false
+      },
+      {
+        "text": "Email",
+        "url": "mailto:gbhatt2@uw.edu",
+        "navigation": false
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ",
+        "navigation": false
+      },
+      {
+        "text": "CV",
+        "url": "https://drive.google.com/file/d/1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB/view?usp=sharing",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/#h.p_NWAWRf3tSU-h",
+        "navigation": false
+      },
+      {
+        "text": "Prof. Jeffery A. Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes",
+        "navigation": false
+      },
+      {
+        "text": "Mohammad Shoeybi",
+        "url": "https://scholar.google.com/citations?user=62ElavIAAAAJ&hl=en",
+        "navigation": false
+      },
+      {
+        "text": "Mostafa Patwary",
+        "url": "https://sites.google.com/view/mostofa-patwary",
+        "navigation": false
+      },
+      {
+        "text": "Rafael Valle",
+        "url": "https://rafaelvalle.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Kevin Shih",
+        "url": "https://scholar.google.com/citations?user=4x3DhzAAAAAJ&hl=en",
+        "navigation": false
+      },
+      {
+        "text": "Dr Sumeet Agarwal",
+        "url": "http://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "Dr Prathosh AP",
+        "url": "https://eecs.iisc.ac.in/people/prathosh-a-p/",
+        "navigation": false
+      },
+      {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/@gbhatt_2",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/#h.p_AlR-Uz4qunNC",
+        "navigation": false
+      },
+      {
+        "text": "Nemotron 3 Super",
+        "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/#h.jxikun9gant8",
+        "navigation": false
+      },
+      {
+        "text": "openreview",
+        "url": "https://openreview.net/forum?id=cgmo3v18sx",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2412.17684",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2404.00530.pdf",
+        "navigation": false
+      },
+      {
+        "text": "openreview (DMLR)",
+        "url": "https://openreview.net/forum?id=PFhbXayclU",
+        "navigation": false
+      },
+      {
+        "text": "openreview (MHFAI)",
+        "url": "https://openreview.net/forum?id=AzMnkF0jRT",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/dove",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2403.08199",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2401.06692",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=TqDt58rmpE",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2311.14948.pdf",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://arxiv.org/pdf/2410.15002",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/vsahil/MIMETIC-2",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=TqDt58rmpE",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2311.14948.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/EfficientTraining/LabelBench",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/pdf?id=T55dLSgsEf",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2305.06408",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/bhattg/CAL",
+        "navigation": false
+      },
+      {
+        "text": "Akarsh Prabhakara",
+        "url": "https://akarsh-prabhakara.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Tao Jin",
+        "url": "https://wise.ece.cmu.edu/about.html",
+        "navigation": false
+      },
+      {
+        "text": "Arnav Das",
+        "url": "https://www.linkedin.com/in/arnavdas",
+        "navigation": false
+      },
+      {
+        "text": "Elahe Soltanaghei",
+        "url": "https://elahe.web.illinois.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Jeff Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+        "navigation": false
+      },
+      {
+        "text": "Swarun Kumar",
+        "url": "https://swarunkumar.com/",
+        "navigation": false
+      },
+      {
+        "text": "Anthony Rowe",
+        "url": "https://users.ece.cmu.edu/~agr/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/akarsh-prabhakara/RadarHD",
+        "navigation": false
+      },
+      {
+        "text": "Akarsh Prabhakara",
+        "url": "https://akarsh-prabhakara.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Tao Jin",
+        "url": "https://wise.ece.cmu.edu/about.html",
+        "navigation": false
+      },
+      {
+        "text": "Arnav Das",
+        "url": "https://www.linkedin.com/in/arnavdas",
+        "navigation": false
+      },
+      {
+        "text": "Elahe Soltanaghei",
+        "url": "https://elahe.web.illinois.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Jeff Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+        "navigation": false
+      },
+      {
+        "text": "Swarun Kumar",
+        "url": "https://swarunkumar.com/",
+        "navigation": false
+      },
+      {
+        "text": "Anthony Rowe",
+        "url": "https://users.ece.cmu.edu/~agr/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://ieeexplore.ieee.org/document/10161429",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2206.09273.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/akarsh-prabhakara/RadarHD",
+        "navigation": false
+      },
+      {
+        "text": "Matryoshka Representation",
+        "url": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf",
+        "navigation": false
+      },
+      {
+        "text": "Aditya Kusupati",
+        "url": "https://homes.cs.washington.edu/~kusupati/",
+        "navigation": false
+      },
+      {
+        "text": "Aniket Rege*",
+        "url": "https://aniketrege.github.io/about/",
+        "navigation": false
+      },
+      {
+        "text": "Matthew Wallingford",
+        "url": "https://mattwallingford.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Vivek Ramanujan",
+        "url": "https://vkramanuj.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Sham Kakade",
+        "url": "https://sham.seas.harvard.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Prateek Jain",
+        "url": "http://prateekjain.org/",
+        "navigation": false
+      },
+      {
+        "text": "Ali Farhadi",
+        "url": "https://homes.cs.washington.edu/~ali/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=9njZa1fm35",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/pdf/2205.13147.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/RAIVNLab/MRL",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://icml.cc/virtual/2021/11181",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Pankaj Malhotra",
+        "url": "https://scholar.google.com/citations?hl=ja&user=HP4M0MkAAAAJ&view_op=list_works&sortby=pubdate",
+        "navigation": false
+      },
+      {
+        "text": "Prathosh AP",
+        "url": "https://sites.google.com/view/prathosh/home",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://ieeexplore.ieee.org/document/9534469/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2102.05602",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Sumeet Agarwal",
+        "url": "https://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://scholarworks.umass.edu/scil/vol4/iss1/38/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2010.04976",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Rishubh Singh",
+        "url": "https://rishubhsingh.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Sumeet Agarwal",
+        "url": "https://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://www.aclweb.org/anthology/2020.acl-srw.33/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2005.08199",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tmqZQP_KjNg0t3qGi-UzQ4CwbsgIcAS81BqYZcAdqyA7JIFaw1d18iGEcqXukoe9vBjn-VpvohpupRxwAO-cL-kMHm-7VqVc8ECjJiGGgfzNeq26JbwPW1fXuslQHeLkx9NNtLueKa5Nfayvd65yQNHk_CxzdtK7wRO3qlm8ZvJGpQ7UgolKYlUKVrexjA5HsY5H0--B6ux9c_0Z9gN3OpIErTQ6ZqOXMiUP3dm-g=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sZezBt4JrZ3DdEGrQKbUQlSbEZ1jubuhB35dD8NNIfi9xwxHCQSXfPzSSLJhUZVx7-qdJfLRrapvFHM0rgn_Wn25Qs43Lqh4LH8CaQ83bMTD6UD4Y3Qv54Z97ibTD8_oR9tThUlDCamd-3tHQVEoooWvC-4EVN3Bl63FyJamklYVipkF8wnSIwYfWY=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72uM7RDFTJkEXGgTNsxuVhO7_d33QL5w82lZxkfNcjT8BQDWacYL-pojQnLfsXSBDLr615KqMAFfi_2jDZR7dUri1dT0UpWngYgViltsOHe234hpZ1IgG8KKwcmEndz9Iker_A3NBe_Q1DpDc1wQJt-dVKq5lkWFFIlFqydxC8lMavZdjhRKv_9rHRtAdZr-RCMaFyflHCKZDlOkaPLwglZzkvPjf2AXA_mjLXic=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72unkpsuwJcYFiLBA9eUnhIN0gKoCWCTsvIwQAYV0eV9ZrLrKGMAwSlm1yY3pc47ZzkfnZFGa3omiks28PCskcY1PBmw18q7UA7q7I632WICR_RNj23edT-7QPvZZsZTmSPrmYDIMGpyDlQIhysDZhgXZlEOCY9MQfunyNJ--ojRCjZ0ta3HfbUTDA1koQ2YpY2-3seXixyHR06s97Gta27vcdz-V5YAQFWjnFQINDQ=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72u5gBd1HXk9kzC-ZVKCQPUjBFtnkUbWgIhCLheuG4QKEZ2Bh0SXfCVMxw6ufjzglU5FPZjv5ca68dh1Tvq1nabCDmOdaxUdvVzpNgbzculMXNReVhKFMUxDxsfxuYDut1VoZNyxSqOAtG2ntlHQfSlLwQtmUbVuPVINOmlY6Ae43isBp5CtANPts62vdejzTEt9yxLIg_Nv5g5qt6npFnvHzawvsFtJtui8ZIWLvrM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tw04DAZAxjkTjkUToZmbe5hSOwAHD0zP8zGYq7VHNroWjkBf6RJG-K3faQchrxE_V9rO1tHURsW_KZhOYUeSvSJJlzM4CGAcGNd5qKN_rVoFYD1xbtGYCPfszgI7VfcjNQg0_id28t7oq5Wz0yqu4l06VL-4yFYlOCcm5ndBDq3L8X5Duf2uEJrrP8q7DHueLc157MD-NYPbe3pMXpD461bBR_uvdJ5gbdSIWj2rg=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vz9-DYE_SIW60RZHaQ-SthrR2EILErUWsmJOFwbcQLa2smPHZVSDjR1uiBSeHEp3J8hMcyst0-c2wvBGbkLCqY6MrcPnfUmTNjhRcbCgZLZc3SyfvNunf1x6KEPRSthI33qAxG2lHaYUtZ7K9hRCS38L3fn56TLLyRgeaV5UIVnLTw2twm03IJOcNaKoCWmNJc2zx13FfKoIalNA3Zeh1DoiqGDE4vhadF78ji=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72syIiR4LL5e0CTzOihewSm2iFxM42ehVAlV9epjDklMW-wWmWIZ1gLC6W8tWFICqTxtjT7I2x_9WJSqPiMzoOyDGtLS-GtQMV-HKC_U2OpR3Ujhiui8pPkc1PyfHIPFqFOVORRFuBRsuooQAPQ3pV3KC77dVr5z1x7FBalaDlgCjRGYps3H4hDljpWtNuYL850D_7MKU1RWG0o_QuWmPeZbmEClS_wp4DofAp72=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vwvzH3zBj8NyFg4CShjMXbsD1dJAQgYRIr1ak_vXs7koRxPcnPwlCmI6TT-ZjYW1aIDV6LJVMgakS3vlkYAH9_KiydS3NqBL_C8UvwSybuFj3ZAThH4OxPftEukn8URkE09emSUFSXne8TJgiNRVsMYwckurz09Z3cEVZFe6QlM1TdM7I_uIxcNq40p0SGqv5QlYmWziU8S6DAq-DJkm25i3am619JNGdpssCjwjc=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tSG78BmjnxnY8O2AVnAQN9p4Qm9WkWt_sW41Ab8AF90f5SE0fAfGvjSnQAgPcz1Us8UT0Gcpf38dgHVRvs_8x4U14fd-QpdG6ebQ7OtCyD3S59f5wjOmaXlwODNu3MpjDj78NfFv5NrtvQ29BrzcpTluwWph1_vUJPmiN6JHgPC39Hx2bCSmp3EYDRg2dHBFOuHAgjIIEp7M5AbQqFI55Qm8hEGwzO8zWxdBNDYdo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sEtQczRnwKSKFG_n8sC_LcUFsfLR1zdn2nW6QawjdtUbFPMXmYICwMls_nNBRdvUOhzmsDJMoHmNNErVHjuGWVjjrfWwpb33chxB2N9HHIt0v_bFzzRZuW_dRQvzc6NZtxg58RpUAj7DadZJr8j_fpJA-M72Oej4oOeVFgYgxNWKRs1GxGcSaZbVKrccOlP2CenlTMEkY8uw-yAtAe8jOoFSqYZOz2ZK1RMbVa=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8O7kbEUPv4h8D2_D1xJhv-44IAXneLhenDRAoBbtU-2zOfW8aBa3iyFDFjKzxKcBU_BiLDNhpk0Sqoy_SeSq9J0l5rpVqBNuSvmrdKQUfWc1zvz4xQTcvrrF5kk6cMAtX_sVE724paiN_1nUt-yA6LPQK6S2xWaA7J-7Yx58WPgGPp1uOMKn3m2wpZs1UlVq_msg9TTAL4RXsznjzl71GxluCDDD-v6cQ_vP8nUM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72taxq6if9OV6HkTXHSqpgD4B8lot-odMekUn9ZC18MSOcq024VaUrOPU95vVp9_6nuWCXh48lJeEo2vnmD9PyMep3Ou9LUc5wyu27K6MiXR8FpeXrTOGc2wkXGoVqSVY7PAQgFBoNoZZfe7c6-KRlau7ix0MgP2T47Q8NL__H7yN8z5ggg-7vPT3GiIGSIWX9md1-H0_RyNVBe6thJgwYKXI9_ZNiNvdw-m7IK2FbM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72utYQe28oJ5zjuw81aeOWB6WtAwZp7yOiBTf3vYChGRyASB02Gt8kuv-hGM7h-np0qHTsNZz_NTftyvQ1qa_I_4O-KI_KzwIjPmYxcaluUYVqBFvBBDYjws8N7tN5HSniKwJZTABsM-iSf96PUVmuK5guQmVDyUFS81nPbYXbFnX0N2mKcsJdBMgGuqQObaNWDAwd9m7OJ9J7RjZ0x3PZ_HJvXkqktM3ZP1IUecQmA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vDZ8PTHdSh78UbrJQvZGZ6IEwW5a8EMIn94RPfJYrVy1QbzYPBvU4u2xvk2OXxxvAQNZPwCntQSgLJxLVnertcqBOT2Z9y-80zF5Jnni0tOU6Bc5ELfNIWucWu84fANV4ERk1OAsJ9Heej4D0qXXLARKoHfu1i1ZFBxWPXfLJ-rjdfmqfEdCZpLzqnPqudbA1K3GD488dG9kSRbxU6bwg-ILjEmCG-yQt15JnxgMk=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tJCJgoXTfh_fucsrKNK6WXQX2YH4a_b_eb0vQ1uxmsrV4qJ-chyPKNLUJnWlUAx8a4EWfzJk8-QFqdow1VXyO70w5pvMWaBUbuKjhJG-IJ64hrd2VfG3Q6OnlR_dw4Tq1NLlErQC7Jr8ybpRuAZuS6wUMc03f-wdshrvsny-MV_11qfH5fQrYuvcDAWueEHWdkOkhcQayJwEDVJJQ-9RK-aVYGLrNxbGoIDrKU=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vazpr9hIcCQ8B3FFFXB5E-mKLt4q0XvbASLZ0Yg_BSMRX8if2d-YXU6P-sRCzy0vczRwokfhyViLl5SpVb-4Yx1uztcBZuozWfMhuiWmxojJsQzHdAwd7NsBjGHU4UUPFdBFh4XJh9d5SXDVvkYV60j8H7bMrRj01iO7JjCXYZ86G9AKskl7k1XiqBvnrAGZmJYCuz-pJtvlI3zC6_WIewNkZ6lf-UHnhQ1_9G=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8JwxnayAYzmt7OZuWJoENLM7QkDeOdknEvP9Pxam_niwLfCcW9PUoz_t3VXSyFX8G4mBe447F4Pnv5d5JnJE3S1zu2YyVAvmRv34XlZ4GcgPSWodw_WPZQBi2S2br9SSS5L7TBOp53EBmI9JDjJcPlTDN32bU2GWG4Zech9nfrGHn56k58b2WCaW_EbE2JrqcFKE9fay-NyhR=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uMOEfkqweAopwo45iSwk2v0Qu1wTMPggqvkAGeSKM5CRpHc3_Ho3ncVhN2572BTarCti88Z56ez-aY9W7TFcxElkfFyRe1Tsj1i6J8i8k0dXGtMLgEIIdXIDnAtqJT2c1Ce4z3XkDuj-AT6k5IScyB_4BI2IJ9HPDHIsp4qOi-Gogyw7InYnYCWi84lng=w16383"
+    ],
+    "sections": [
+      {
+        "id": "h.316e9314c5605864_10",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.316e9314c5605864_17",
+        "text": "LinkedIN | Twitter | Email | Google Scholar | CVAbout me:I am a final year PhD candidate at the University of Washington, Seattle, where I am working with Prof. Jeffery A. Bilmes. I like to work on improving the data efficiency of large-scale models for both training and inference using submodular optimization. In Summer'25, I interned at NVIDIA - Applied Deep Learning Research, working with Mohammad Shoeybi and Mostafa Patwary. In summer '24, I interned at NVIDIA's Applied Deep Learning Research Team with Rafael Valle and Kevin Shih. I am on the Industry Job Market. If you think I can be a good fit for your research roles, please don't hesitate to reach out! Before joining the PhD program, I completed my undergraduate degree at IIT Delhi, in Electrical Engineering, where I worked with Dr Sumeet Agarwal and Dr Prathosh AP. I'm also an avid photographer (Checkout my Unsplash) and hiker! When not working, I can be found messing around with my camera, Google Earth, or hiking in North Cascades National Park.",
+        "paragraphs": [
+          "LinkedIN | Twitter | Email | Google Scholar | CV",
+          "About me:",
+          "I am a final year PhD candidate at the University of Washington, Seattle, where I am working with Prof. Jeffery A. Bilmes. I like to work on improving the data efficiency of large-scale models for both training and inference using submodular optimization. In Summer'25, I interned at NVIDIA - Applied Deep Learning Research, working with Mohammad Shoeybi and Mostafa Patwary. In summer '24, I interned at NVIDIA's Applied Deep Learning Research Team with Rafael Valle and Kevin Shih.",
+          "I am on the Industry Job Market. If you think I can be a good fit for your research roles, please don't hesitate to reach out!",
+          "Before joining the PhD program, I completed my undergraduate degree at IIT Delhi, in Electrical Engineering, where I worked with Dr Sumeet Agarwal and Dr Prathosh AP. I'm also an avid photographer (Checkout my Unsplash) and hiker! When not working, I can be found messing around with my camera, Google Earth, or hiking in North Cascades National Park."
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tmqZQP_KjNg0t3qGi-UzQ4CwbsgIcAS81BqYZcAdqyA7JIFaw1d18iGEcqXukoe9vBjn-VpvohpupRxwAO-cL-kMHm-7VqVc8ECjJiGGgfzNeq26JbwPW1fXuslQHeLkx9NNtLueKa5Nfayvd65yQNHk_CxzdtK7wRO3qlm8ZvJGpQ7UgolKYlUKVrexjA5HsY5H0--B6ux9c_0Z9gN3OpIErTQ6ZqOXMiUP3dm-g=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_34",
+        "text": "Recent Updates[May 2026] I've passed my candidacy exam, and I am on the Industry Job Market![May 2026] Excited about new work on a new class of submodular functions. [Mar 2026] Nemotron 3 Super is out now![Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR'26[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR'26",
+        "paragraphs": [
+          "Recent Updates",
+          "[May 2026] I've passed my candidacy exam, and I am on the Industry Job Market!",
+          "[May 2026] Excited about new work on a new class of submodular functions.",
+          "[Mar 2026] Nemotron 3 Super is out now!",
+          "[Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR'26",
+          "[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR'26"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.3f731ef03e11b10e_0",
+        "text": "Conference and Workshop Publications",
+        "paragraphs": [
+          "Conference and Workshop Publications"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.53f95037ef6378db_0",
+        "text": "Matched Data, Better Models: Target Aligned Data Filtering with Sparse FeaturesGantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes[Poster] In International Conference on Learning Representations (ICLR'26)[Poster] DATA-FM workshop at ICLR'26openreview",
+        "paragraphs": [
+          "Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features",
+          "Gantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes",
+          "[Poster] In International Conference on Learning Representations (ICLR'26)",
+          "[Poster] DATA-FM workshop at ICLR'26",
+          "openreview"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sZezBt4JrZ3DdEGrQKbUQlSbEZ1jubuhB35dD8NNIfi9xwxHCQSXfPzSSLJhUZVx7-qdJfLRrapvFHM0rgn_Wn25Qs43Lqh4LH8CaQ83bMTD6UD4Y3Qv54Z97ibTD8_oR9tThUlDCamd-3tHQVEoooWvC-4EVN3Bl63FyJamklYVipkF8wnSIwYfWY=w1280"
+        ]
+      },
+      {
+        "id": "h.7738f255780fc0ec_7",
+        "text": "Benchmarking Single-Factor Physical Video-to-Audio GenerationTingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'26)",
+        "paragraphs": [
+          "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+          "Tingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu",
+          "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'26)"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72uM7RDFTJkEXGgTNsxuVhO7_d33QL5w82lZxkfNcjT8BQDWacYL-pojQnLfsXSBDLr615KqMAFfi_2jDZR7dUri1dT0UpWngYgViltsOHe234hpZ1IgG8KKwcmEndz9Iker_A3NBe_Q1DpDc1wQJt-dVKq5lkWFFIlFqydxC8lMavZdjhRKv_9rHRtAdZr-RCMaFyflHCKZDlOkaPLwglZzkvPjf2AXA_mjLXic=w1280"
+        ]
+      },
+      {
+        "id": "h.5b347a2139e1e201_4",
+        "text": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot LearningArnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'25)[Poster] In DMLR workshop at ICML'24arxiv",
+        "paragraphs": [
+          "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning",
+          "Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes",
+          "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'25)",
+          "[Poster] In DMLR workshop at ICML'24",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72unkpsuwJcYFiLBA9eUnhIN0gKoCWCTsvIwQAYV0eV9ZrLrKGMAwSlm1yY3pc47ZzkfnZFGa3omiks28PCskcY1PBmw18q7UA7q7I632WICR_RNj23edT-7QPvZZsZTmSPrmYDIMGpyDlQIhysDZhgXZlEOCY9MQfunyNJ--ojRCjZ0ta3HfbUTDA1koQ2YpY2-3seXixyHR06s97Gta27vcdz-V5YAQFWjnFQINDQ=w1280"
+        ]
+      },
+      {
+        "id": "h.4e79c054878cd571_0",
+        "text": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference OptimizationHritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover[Poster] Findings of ACL'25. [Oral] In DMLR workshop at ICML'24[Poster] In MHFAI Alignment workshop at ICML'24arxiv/openreview (DMLR)/openreview (MHFAI)/code",
+        "paragraphs": [
+          "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+          "Hritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover",
+          "[Poster] Findings of ACL'25.",
+          "[Oral] In DMLR workshop at ICML'24",
+          "[Poster] In MHFAI Alignment workshop at ICML'24",
+          "arxiv/openreview (DMLR)/openreview (MHFAI)/code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72u5gBd1HXk9kzC-ZVKCQPUjBFtnkUbWgIhCLheuG4QKEZ2Bh0SXfCVMxw6ufjzglU5FPZjv5ca68dh1Tvq1nabCDmOdaxUdvVzpNgbzculMXNReVhKFMUxDxsfxuYDut1VoZNyxSqOAtG2ntlHQfSlLwQtmUbVuPVINOmlY6Ae43isBp5CtANPts62vdejzTEt9yxLIg_Nv5g5qt6npFnvHzawvsFtJtui8ZIWLvrM=w1280"
+        ]
+      },
+      {
+        "id": "h.4cdc637ec1fc326a_0",
+        "text": "Deep Submodular Peripteral NetworksGantavya Bhatt*, Arnav Das*, Jeff Bilmes[Spotlight] In Neural Information Processing Systems (NeurIPS'24)arxiv",
+        "paragraphs": [
+          "Deep Submodular Peripteral Networks",
+          "Gantavya Bhatt*, Arnav Das*, Jeff Bilmes",
+          "[Spotlight] In Neural Information Processing Systems (NeurIPS'24)",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tw04DAZAxjkTjkUToZmbe5hSOwAHD0zP8zGYq7VHNroWjkBf6RJG-K3faQchrxE_V9rO1tHURsW_KZhOYUeSvSJJlzM4CGAcGNd5qKN_rVoFYD1xbtGYCPfszgI7VfcjNQg0_id28t7oq5Wz0yqu4l06VL-4yFYlOCcm5ndBDq3L8X5Duf2uEJrrP8q7DHueLc157MD-NYPbe3pMXpD461bBR_uvdJ5gbdSIWj2rg=w1280"
+        ]
+      },
+      {
+        "id": "h.72e4d390ecc1523a_0",
+        "text": "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language ModelsGantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak[Poster] Accepted at ACL'24 (Findings)arxiv",
+        "paragraphs": [
+          "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models",
+          "Gantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak",
+          "[Poster] Accepted at ACL'24 (Findings)",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vz9-DYE_SIW60RZHaQ-SthrR2EILErUWsmJOFwbcQLa2smPHZVSDjR1uiBSeHEp3J8hMcyst0-c2wvBGbkLCqY6MrcPnfUmTNjhRcbCgZLZc3SyfvNunf1x6KEPRSthI33qAxG2lHaYUtZ7K9hRCS38L3fn56TLLyRgeaV5UIVnLTw2twm03IJOcNaKoCWmNJc2zx13FfKoIalNA3Zeh1DoiqGDE4vhadF78ji=w1280"
+        ]
+      },
+      {
+        "id": "h.1804aeb8dc3e5ed1_0",
+        "text": "Effective Backdoor Mitigation Depends on the Pre-training ObjectiveSahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff BilmesIn Transactions of Machine Learning Research (Jan'25 edition, TMLR) [Best Paper Award 🏆] In BUGS workshop at NeurIPS'23 Under reviewpdf / arxiv",
+        "paragraphs": [
+          "Effective Backdoor Mitigation Depends on the Pre-training Objective",
+          "Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff Bilmes",
+          "In Transactions of Machine Learning Research (Jan'25 edition, TMLR)",
+          "[Best Paper Award 🏆] In BUGS workshop at NeurIPS'23",
+          "Under review",
+          "pdf / arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72syIiR4LL5e0CTzOihewSm2iFxM42ehVAlV9epjDklMW-wWmWIZ1gLC6W8tWFICqTxtjT7I2x_9WJSqPiMzoOyDGtLS-GtQMV-HKC_U2OpR3Ujhiui8pPkc1PyfHIPFqFOVORRFuBRsuooQAPQ3pV3KC77dVr5z1x7FBalaDlgCjRGYps3H4hDljpWtNuYL850D_7MKU1RWG0o_QuWmPeZbmEClS_wp4DofAp72=w1280"
+        ]
+      },
+      {
+        "id": "h.487bddf4726e1af_0",
+        "text": "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation ThresholdSahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar[Invited Talk] RegML workshop at NeurIPS 2024[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024In Transactions of Machine Learning Research (Dec'2025 edition, TMLR) pdf/code",
+        "paragraphs": [
+          "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold",
+          "Sahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar",
+          "[Invited Talk] RegML workshop at NeurIPS 2024",
+          "[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024",
+          "In Transactions of Machine Learning Research (Dec'2025 edition, TMLR)",
+          "pdf/code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vwvzH3zBj8NyFg4CShjMXbsD1dJAQgYRIr1ak_vXs7koRxPcnPwlCmI6TT-ZjYW1aIDV6LJVMgakS3vlkYAH9_KiydS3NqBL_C8UvwSybuFj3ZAThH4OxPftEukn8URkE09emSUFSXne8TJgiNRVsMYwckurz09Z3cEVZFe6QlM1TdM7I_uIxcNq40p0SGqv5QlYmWziU8S6DAq-DJkm25i3am619JNGdpssCjwjc=w1280"
+        ]
+      },
+      {
+        "id": "h.fff6899108fae8d_0",
+        "text": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient LearningJifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D NowakIn Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS'23.Accepted at DMLR'24pdf / arxiv / code",
+        "paragraphs": [
+          "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+          "Jifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak",
+          "In Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS'23.",
+          "Accepted at DMLR'24",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tSG78BmjnxnY8O2AVnAQN9p4Qm9WkWt_sW41Ab8AF90f5SE0fAfGvjSnQAgPcz1Us8UT0Gcpf38dgHVRvs_8x4U14fd-QpdG6ebQ7OtCyD3S59f5wjOmaXlwODNu3MpjDj78NfFv5NrtvQ29BrzcpTluwWph1_vUJPmiN6JHgPC39Hx2bCSmp3EYDRg2dHBFOuHAgjIIEp7M5AbQqFI55Qm8hEGwzO8zWxdBNDYdo=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_47",
+        "text": "Accelerating Batch Active Learning Using Continual Learning TechniquesArnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff BilmesIn Transactions of Machine Learning Research (Dec'23 edition, TMLR) In DMLR workshop at ICML'23pdf / arxiv / code",
+        "paragraphs": [
+          "Accelerating Batch Active Learning Using Continual Learning Techniques",
+          "Arnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff Bilmes",
+          "In Transactions of Machine Learning Research (Dec'23 edition, TMLR)",
+          "In DMLR workshop at ICML'23",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sEtQczRnwKSKFG_n8sC_LcUFsfLR1zdn2nW6QawjdtUbFPMXmYICwMls_nNBRdvUOhzmsDJMoHmNNErVHjuGWVjjrfWwpb33chxB2N9HHIt0v_bFzzRZuW_dRQvzc6NZtxg58RpUAj7DadZJr8j_fpJA-M72Oej4oOeVFgYgxNWKRs1GxGcSaZbVKrccOlP2CenlTMEkY8uw-yAtAe8jOoFSqYZOz2ZK1RMbVa=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_7",
+        "text": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave RadarAkarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony RoweIn Annual International Conference On Mobile Computing And Networking ACM MobiCom '23pdf / arxiv / code",
+        "paragraphs": [
+          "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+          "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe",
+          "In Annual International Conference On Mobile Computing And Networking ACM MobiCom '23",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72t8O7kbEUPv4h8D2_D1xJhv-44IAXneLhenDRAoBbtU-2zOfW8aBa3iyFDFjKzxKcBU_BiLDNhpk0Sqoy_SeSq9J0l5rpVqBNuSvmrdKQUfWc1zvz4xQTcvrrF5kk6cMAtX_sVE724paiN_1nUt-yA6LPQK6S2xWaA7J-7Yx58WPgGPp1uOMKn3m2wpZs1UlVq_msg9TTAL4RXsznjzl71GxluCDDD-v6cQ_vP8nUM=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_14",
+        "text": "High Resolution Point Clouds from mmWave RadarAkarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony RoweIn IEEE International Conference on Robotics and Automation (ICRA'23) pdf / arxiv / code",
+        "paragraphs": [
+          "High Resolution Point Clouds from mmWave Radar",
+          "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe",
+          "In IEEE International Conference on Robotics and Automation (ICRA'23)",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72taxq6if9OV6HkTXHSqpgD4B8lot-odMekUn9ZC18MSOcq024VaUrOPU95vVp9_6nuWCXh48lJeEo2vnmD9PyMep3Ou9LUc5wyu27K6MiXR8FpeXrTOGc2wkXGoVqSVY7PAQgFBoNoZZfe7c6-KRlau7ix0MgP2T47Q8NL__H7yN8z5ggg-7vPT3GiIGSIWX9md1-H0_RyNVBe6thJgwYKXI9_ZNiNvdw-m7IK2FbM=w1280"
+        ]
+      },
+      {
+        "id": "h.2e8c5763b8fdd1a1_7",
+        "text": "Matryoshka Representation LearningAditya Kusupati*, Gantavya Bhatt*, Aniket Rege*, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi[Poster] In Neural Information Processing Systems (NeurIPS'22)pdf / arXiv / code",
+        "paragraphs": [
+          "Matryoshka Representation Learning",
+          "Aditya Kusupati*, Gantavya Bhatt*, Aniket Rege*, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi",
+          "[Poster] In Neural Information Processing Systems (NeurIPS'22)",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72utYQe28oJ5zjuw81aeOWB6WtAwZp7yOiBTf3vYChGRyASB02Gt8kuv-hGM7h-np0qHTsNZz_NTftyvQ1qa_I_4O-KI_KzwIjPmYxcaluUYVqBFvBBDYjws8N7tN5HSniKwJZTABsM-iSf96PUVmuK5guQmVDyUFS81nPbYXbFnX0N2mKcsJdBMgGuqQObaNWDAwd9m7OJ9J7RjZ0x3PZ_HJvXkqktM3ZP1IUecQmA=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_21",
+        "text": "Tighter m-DPP Coreset Sample Complexity BoundsGantavya Bhatt, Jeff Bilmes[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML'21)pdf / arXiv",
+        "paragraphs": [
+          "Tighter m-DPP Coreset Sample Complexity Bounds",
+          "Gantavya Bhatt, Jeff Bilmes",
+          "[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML'21)",
+          "pdf / arXiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vDZ8PTHdSh78UbrJQvZGZ6IEwW5a8EMIn94RPfJYrVy1QbzYPBvU4u2xvk2OXxxvAQNZPwCntQSgLJxLVnertcqBOT2Z9y-80zF5Jnni0tOU6Bc5ELfNIWucWu84fANV4ERk1OAsJ9Heej4D0qXXLARKoHfu1i1ZFBxWPXfLJ-rjdfmqfEdCZpLzqnPqudbA1K3GD488dG9kSRbxU6bwg-ILjEmCG-yQt15JnxgMk=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_42",
+        "text": "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting ModelsHritik Bansal*, Gantavya Bhatt*, Pankaj Malhotra and Prathosh APIn International joint Conference on Neural Networks (IJCNN'21)pdf / arXiv / code",
+        "paragraphs": [
+          "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting Models",
+          "Hritik Bansal*, Gantavya Bhatt*, Pankaj Malhotra and Prathosh AP",
+          "In International joint Conference on Neural Networks (IJCNN'21)",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tJCJgoXTfh_fucsrKNK6WXQX2YH4a_b_eb0vQ1uxmsrV4qJ-chyPKNLUJnWlUAx8a4EWfzJk8-QFqdow1VXyO70w5pvMWaBUbuKjhJG-IJ64hrd2VfG3Q6OnlR_dw4Tq1NLlErQC7Jr8ybpRuAZuS6wUMc03f-wdshrvsny-MV_11qfH5fQrYuvcDAWueEHWdkOkhcQayJwEDVJJQ-9RK-aVYGLrNxbGoIDrKU=w1280"
+        ]
+      },
+      {
+        "id": "h.24d73fe912104495_0",
+        "text": "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?Hritik Bansal*, Gantavya Bhatt* and Sumeet AgarwalIn Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38. pdf / arXiv / code",
+        "paragraphs": [
+          "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?",
+          "Hritik Bansal*, Gantavya Bhatt* and Sumeet Agarwal",
+          "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vazpr9hIcCQ8B3FFFXB5E-mKLt4q0XvbASLZ0Yg_BSMRX8if2d-YXU6P-sRCzy0vczRwokfhyViLl5SpVb-4Yx1uztcBZuozWfMhuiWmxojJsQzHdAwd7NsBjGHU4UUPFdBFh4XJh9d5SXDVvkYV60j8H7bMrRj01iO7JjCXYZ86G9AKskl7k1XiqBvnrAGZmJYCuz-pJtvlI3zC6_WIewNkZ6lf-UHnhQ1_9G=w1280"
+        ]
+      },
+      {
+        "id": "h.20a81397e91533b7_0",
+        "text": "Decay RNNHow much complexity does an RNN architecture need to learn syntax-sensitive dependencies?Gantavya Bhatt*, Hritik Bansal*, Rishubh Singh* and Sumeet AgarwalIn Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38. pdf / arXiv / code",
+        "paragraphs": [
+          "Decay RNN",
+          "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?",
+          "Gantavya Bhatt*, Hritik Bansal*, Rishubh Singh* and Sumeet Agarwal",
+          "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72t8JwxnayAYzmt7OZuWJoENLM7QkDeOdknEvP9Pxam_niwLfCcW9PUoz_t3VXSyFX8G4mBe447F4Pnv5d5JnJE3S1zu2YyVAvmRv34XlZ4GcgPSWodw_WPZQBi2S2br9SSS5L7TBOp53EBmI9JDjJcPlTDN32bU2GWG4Zech9nfrGHn56k58b2WCaW_EbE2JrqcFKE9fay-NyhR=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/home",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/home",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "home",
+    "title": "Gantavya Bhatt",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "LinkedIN",
+        "url": "https://www.linkedin.com/in/bhattgantavya/",
+        "navigation": false
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/BhattGantavya",
+        "navigation": false
+      },
+      {
+        "text": "Email",
+        "url": "mailto:gbhatt2@uw.edu",
+        "navigation": false
+      },
+      {
+        "text": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ",
+        "navigation": false
+      },
+      {
+        "text": "CV",
+        "url": "https://drive.google.com/file/d/1byNSpS_brMmfjZGl3yT_n6P6mUSWcRWB/view?usp=sharing",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/home#h.p_NWAWRf3tSU-h",
+        "navigation": false
+      },
+      {
+        "text": "Prof. Jeffery A. Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes",
+        "navigation": false
+      },
+      {
+        "text": "Mohammad Shoeybi",
+        "url": "https://scholar.google.com/citations?user=62ElavIAAAAJ&hl=en",
+        "navigation": false
+      },
+      {
+        "text": "Mostafa Patwary",
+        "url": "https://sites.google.com/view/mostofa-patwary",
+        "navigation": false
+      },
+      {
+        "text": "Rafael Valle",
+        "url": "https://rafaelvalle.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Kevin Shih",
+        "url": "https://scholar.google.com/citations?user=4x3DhzAAAAAJ&hl=en",
+        "navigation": false
+      },
+      {
+        "text": "Dr Sumeet Agarwal",
+        "url": "http://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "Dr Prathosh AP",
+        "url": "https://eecs.iisc.ac.in/people/prathosh-a-p/",
+        "navigation": false
+      },
+      {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/@gbhatt_2",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/home#h.p_AlR-Uz4qunNC",
+        "navigation": false
+      },
+      {
+        "text": "Nemotron 3 Super",
+        "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/home#h.jxikun9gant8",
+        "navigation": false
+      },
+      {
+        "text": "openreview",
+        "url": "https://openreview.net/forum?id=cgmo3v18sx",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2412.17684",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2404.00530.pdf",
+        "navigation": false
+      },
+      {
+        "text": "openreview (DMLR)",
+        "url": "https://openreview.net/forum?id=PFhbXayclU",
+        "navigation": false
+      },
+      {
+        "text": "openreview (MHFAI)",
+        "url": "https://openreview.net/forum?id=AzMnkF0jRT",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/dove",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2403.08199",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2401.06692",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=TqDt58rmpE",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2311.14948.pdf",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://arxiv.org/pdf/2410.15002",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/vsahil/MIMETIC-2",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=TqDt58rmpE",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2311.14948.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/EfficientTraining/LabelBench",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/pdf?id=T55dLSgsEf",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/abs/2305.06408",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/bhattg/CAL",
+        "navigation": false
+      },
+      {
+        "text": "Akarsh Prabhakara",
+        "url": "https://akarsh-prabhakara.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Tao Jin",
+        "url": "https://wise.ece.cmu.edu/about.html",
+        "navigation": false
+      },
+      {
+        "text": "Arnav Das",
+        "url": "https://www.linkedin.com/in/arnavdas",
+        "navigation": false
+      },
+      {
+        "text": "Elahe Soltanaghei",
+        "url": "https://elahe.web.illinois.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Jeff Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+        "navigation": false
+      },
+      {
+        "text": "Swarun Kumar",
+        "url": "https://swarunkumar.com/",
+        "navigation": false
+      },
+      {
+        "text": "Anthony Rowe",
+        "url": "https://users.ece.cmu.edu/~agr/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3614077",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/akarsh-prabhakara/RadarHD",
+        "navigation": false
+      },
+      {
+        "text": "Akarsh Prabhakara",
+        "url": "https://akarsh-prabhakara.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Tao Jin",
+        "url": "https://wise.ece.cmu.edu/about.html",
+        "navigation": false
+      },
+      {
+        "text": "Arnav Das",
+        "url": "https://www.linkedin.com/in/arnavdas",
+        "navigation": false
+      },
+      {
+        "text": "Elahe Soltanaghei",
+        "url": "https://elahe.web.illinois.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Jeff Bilmes",
+        "url": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+        "navigation": false
+      },
+      {
+        "text": "Swarun Kumar",
+        "url": "https://swarunkumar.com/",
+        "navigation": false
+      },
+      {
+        "text": "Anthony Rowe",
+        "url": "https://users.ece.cmu.edu/~agr/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://ieeexplore.ieee.org/document/10161429",
+        "navigation": false
+      },
+      {
+        "text": "arxiv",
+        "url": "https://arxiv.org/pdf/2206.09273.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/akarsh-prabhakara/RadarHD",
+        "navigation": false
+      },
+      {
+        "text": "Matryoshka Representation",
+        "url": "https://homes.cs.washington.edu/~kusupati/pubs/kusupati22.pdf",
+        "navigation": false
+      },
+      {
+        "text": "Aditya Kusupati",
+        "url": "https://homes.cs.washington.edu/~kusupati/",
+        "navigation": false
+      },
+      {
+        "text": "Aniket Rege*",
+        "url": "https://aniketrege.github.io/about/",
+        "navigation": false
+      },
+      {
+        "text": "Matthew Wallingford",
+        "url": "https://mattwallingford.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Vivek Ramanujan",
+        "url": "https://vkramanuj.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Sham Kakade",
+        "url": "https://sham.seas.harvard.edu/",
+        "navigation": false
+      },
+      {
+        "text": "Prateek Jain",
+        "url": "http://prateekjain.org/",
+        "navigation": false
+      },
+      {
+        "text": "Ali Farhadi",
+        "url": "https://homes.cs.washington.edu/~ali/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://openreview.net/forum?id=9njZa1fm35",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/pdf/2205.13147.pdf",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/RAIVNLab/MRL",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://icml.cc/virtual/2021/11181",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view?usp=sharing",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Pankaj Malhotra",
+        "url": "https://scholar.google.com/citations?hl=ja&user=HP4M0MkAAAAJ&view_op=list_works&sortby=pubdate",
+        "navigation": false
+      },
+      {
+        "text": "Prathosh AP",
+        "url": "https://sites.google.com/view/prathosh/home",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://ieeexplore.ieee.org/document/9534469/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2102.05602",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Sumeet Agarwal",
+        "url": "https://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://scholarworks.umass.edu/scil/vol4/iss1/38/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2010.04976",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+        "navigation": false
+      },
+      {
+        "text": "Hritik Bansal",
+        "url": "https://sites.google.com/view/hbansal",
+        "navigation": false
+      },
+      {
+        "text": "Rishubh Singh",
+        "url": "https://rishubhsingh.github.io/",
+        "navigation": false
+      },
+      {
+        "text": "Sumeet Agarwal",
+        "url": "https://web.iitd.ac.in/~sumeet/",
+        "navigation": false
+      },
+      {
+        "text": "pdf",
+        "url": "https://www.aclweb.org/anthology/2020.acl-srw.33/",
+        "navigation": false
+      },
+      {
+        "text": "arXiv",
+        "url": "https://arxiv.org/abs/2005.08199",
+        "navigation": false
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tmqZQP_KjNg0t3qGi-UzQ4CwbsgIcAS81BqYZcAdqyA7JIFaw1d18iGEcqXukoe9vBjn-VpvohpupRxwAO-cL-kMHm-7VqVc8ECjJiGGgfzNeq26JbwPW1fXuslQHeLkx9NNtLueKa5Nfayvd65yQNHk_CxzdtK7wRO3qlm8ZvJGpQ7UgolKYlUKVrexjA5HsY5H0--B6ux9c_0Z9gN3OpIErTQ6ZqOXMiUP3dm-g=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sZezBt4JrZ3DdEGrQKbUQlSbEZ1jubuhB35dD8NNIfi9xwxHCQSXfPzSSLJhUZVx7-qdJfLRrapvFHM0rgn_Wn25Qs43Lqh4LH8CaQ83bMTD6UD4Y3Qv54Z97ibTD8_oR9tThUlDCamd-3tHQVEoooWvC-4EVN3Bl63FyJamklYVipkF8wnSIwYfWY=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72uM7RDFTJkEXGgTNsxuVhO7_d33QL5w82lZxkfNcjT8BQDWacYL-pojQnLfsXSBDLr615KqMAFfi_2jDZR7dUri1dT0UpWngYgViltsOHe234hpZ1IgG8KKwcmEndz9Iker_A3NBe_Q1DpDc1wQJt-dVKq5lkWFFIlFqydxC8lMavZdjhRKv_9rHRtAdZr-RCMaFyflHCKZDlOkaPLwglZzkvPjf2AXA_mjLXic=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72unkpsuwJcYFiLBA9eUnhIN0gKoCWCTsvIwQAYV0eV9ZrLrKGMAwSlm1yY3pc47ZzkfnZFGa3omiks28PCskcY1PBmw18q7UA7q7I632WICR_RNj23edT-7QPvZZsZTmSPrmYDIMGpyDlQIhysDZhgXZlEOCY9MQfunyNJ--ojRCjZ0ta3HfbUTDA1koQ2YpY2-3seXixyHR06s97Gta27vcdz-V5YAQFWjnFQINDQ=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72u5gBd1HXk9kzC-ZVKCQPUjBFtnkUbWgIhCLheuG4QKEZ2Bh0SXfCVMxw6ufjzglU5FPZjv5ca68dh1Tvq1nabCDmOdaxUdvVzpNgbzculMXNReVhKFMUxDxsfxuYDut1VoZNyxSqOAtG2ntlHQfSlLwQtmUbVuPVINOmlY6Ae43isBp5CtANPts62vdejzTEt9yxLIg_Nv5g5qt6npFnvHzawvsFtJtui8ZIWLvrM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tw04DAZAxjkTjkUToZmbe5hSOwAHD0zP8zGYq7VHNroWjkBf6RJG-K3faQchrxE_V9rO1tHURsW_KZhOYUeSvSJJlzM4CGAcGNd5qKN_rVoFYD1xbtGYCPfszgI7VfcjNQg0_id28t7oq5Wz0yqu4l06VL-4yFYlOCcm5ndBDq3L8X5Duf2uEJrrP8q7DHueLc157MD-NYPbe3pMXpD461bBR_uvdJ5gbdSIWj2rg=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vz9-DYE_SIW60RZHaQ-SthrR2EILErUWsmJOFwbcQLa2smPHZVSDjR1uiBSeHEp3J8hMcyst0-c2wvBGbkLCqY6MrcPnfUmTNjhRcbCgZLZc3SyfvNunf1x6KEPRSthI33qAxG2lHaYUtZ7K9hRCS38L3fn56TLLyRgeaV5UIVnLTw2twm03IJOcNaKoCWmNJc2zx13FfKoIalNA3Zeh1DoiqGDE4vhadF78ji=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72syIiR4LL5e0CTzOihewSm2iFxM42ehVAlV9epjDklMW-wWmWIZ1gLC6W8tWFICqTxtjT7I2x_9WJSqPiMzoOyDGtLS-GtQMV-HKC_U2OpR3Ujhiui8pPkc1PyfHIPFqFOVORRFuBRsuooQAPQ3pV3KC77dVr5z1x7FBalaDlgCjRGYps3H4hDljpWtNuYL850D_7MKU1RWG0o_QuWmPeZbmEClS_wp4DofAp72=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vwvzH3zBj8NyFg4CShjMXbsD1dJAQgYRIr1ak_vXs7koRxPcnPwlCmI6TT-ZjYW1aIDV6LJVMgakS3vlkYAH9_KiydS3NqBL_C8UvwSybuFj3ZAThH4OxPftEukn8URkE09emSUFSXne8TJgiNRVsMYwckurz09Z3cEVZFe6QlM1TdM7I_uIxcNq40p0SGqv5QlYmWziU8S6DAq-DJkm25i3am619JNGdpssCjwjc=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tSG78BmjnxnY8O2AVnAQN9p4Qm9WkWt_sW41Ab8AF90f5SE0fAfGvjSnQAgPcz1Us8UT0Gcpf38dgHVRvs_8x4U14fd-QpdG6ebQ7OtCyD3S59f5wjOmaXlwODNu3MpjDj78NfFv5NrtvQ29BrzcpTluwWph1_vUJPmiN6JHgPC39Hx2bCSmp3EYDRg2dHBFOuHAgjIIEp7M5AbQqFI55Qm8hEGwzO8zWxdBNDYdo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sEtQczRnwKSKFG_n8sC_LcUFsfLR1zdn2nW6QawjdtUbFPMXmYICwMls_nNBRdvUOhzmsDJMoHmNNErVHjuGWVjjrfWwpb33chxB2N9HHIt0v_bFzzRZuW_dRQvzc6NZtxg58RpUAj7DadZJr8j_fpJA-M72Oej4oOeVFgYgxNWKRs1GxGcSaZbVKrccOlP2CenlTMEkY8uw-yAtAe8jOoFSqYZOz2ZK1RMbVa=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8O7kbEUPv4h8D2_D1xJhv-44IAXneLhenDRAoBbtU-2zOfW8aBa3iyFDFjKzxKcBU_BiLDNhpk0Sqoy_SeSq9J0l5rpVqBNuSvmrdKQUfWc1zvz4xQTcvrrF5kk6cMAtX_sVE724paiN_1nUt-yA6LPQK6S2xWaA7J-7Yx58WPgGPp1uOMKn3m2wpZs1UlVq_msg9TTAL4RXsznjzl71GxluCDDD-v6cQ_vP8nUM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72taxq6if9OV6HkTXHSqpgD4B8lot-odMekUn9ZC18MSOcq024VaUrOPU95vVp9_6nuWCXh48lJeEo2vnmD9PyMep3Ou9LUc5wyu27K6MiXR8FpeXrTOGc2wkXGoVqSVY7PAQgFBoNoZZfe7c6-KRlau7ix0MgP2T47Q8NL__H7yN8z5ggg-7vPT3GiIGSIWX9md1-H0_RyNVBe6thJgwYKXI9_ZNiNvdw-m7IK2FbM=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72utYQe28oJ5zjuw81aeOWB6WtAwZp7yOiBTf3vYChGRyASB02Gt8kuv-hGM7h-np0qHTsNZz_NTftyvQ1qa_I_4O-KI_KzwIjPmYxcaluUYVqBFvBBDYjws8N7tN5HSniKwJZTABsM-iSf96PUVmuK5guQmVDyUFS81nPbYXbFnX0N2mKcsJdBMgGuqQObaNWDAwd9m7OJ9J7RjZ0x3PZ_HJvXkqktM3ZP1IUecQmA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vDZ8PTHdSh78UbrJQvZGZ6IEwW5a8EMIn94RPfJYrVy1QbzYPBvU4u2xvk2OXxxvAQNZPwCntQSgLJxLVnertcqBOT2Z9y-80zF5Jnni0tOU6Bc5ELfNIWucWu84fANV4ERk1OAsJ9Heej4D0qXXLARKoHfu1i1ZFBxWPXfLJ-rjdfmqfEdCZpLzqnPqudbA1K3GD488dG9kSRbxU6bwg-ILjEmCG-yQt15JnxgMk=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tJCJgoXTfh_fucsrKNK6WXQX2YH4a_b_eb0vQ1uxmsrV4qJ-chyPKNLUJnWlUAx8a4EWfzJk8-QFqdow1VXyO70w5pvMWaBUbuKjhJG-IJ64hrd2VfG3Q6OnlR_dw4Tq1NLlErQC7Jr8ybpRuAZuS6wUMc03f-wdshrvsny-MV_11qfH5fQrYuvcDAWueEHWdkOkhcQayJwEDVJJQ-9RK-aVYGLrNxbGoIDrKU=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vazpr9hIcCQ8B3FFFXB5E-mKLt4q0XvbASLZ0Yg_BSMRX8if2d-YXU6P-sRCzy0vczRwokfhyViLl5SpVb-4Yx1uztcBZuozWfMhuiWmxojJsQzHdAwd7NsBjGHU4UUPFdBFh4XJh9d5SXDVvkYV60j8H7bMrRj01iO7JjCXYZ86G9AKskl7k1XiqBvnrAGZmJYCuz-pJtvlI3zC6_WIewNkZ6lf-UHnhQ1_9G=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8JwxnayAYzmt7OZuWJoENLM7QkDeOdknEvP9Pxam_niwLfCcW9PUoz_t3VXSyFX8G4mBe447F4Pnv5d5JnJE3S1zu2YyVAvmRv34XlZ4GcgPSWodw_WPZQBi2S2br9SSS5L7TBOp53EBmI9JDjJcPlTDN32bU2GWG4Zech9nfrGHn56k58b2WCaW_EbE2JrqcFKE9fay-NyhR=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uMOEfkqweAopwo45iSwk2v0Qu1wTMPggqvkAGeSKM5CRpHc3_Ho3ncVhN2572BTarCti88Z56ez-aY9W7TFcxElkfFyRe1Tsj1i6J8i8k0dXGtMLgEIIdXIDnAtqJT2c1Ce4z3XkDuj-AT6k5IScyB_4BI2IJ9HPDHIsp4qOi-Gogyw7InYnYCWi84lng=w16383"
+    ],
+    "sections": [
+      {
+        "id": "h.316e9314c5605864_10",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.316e9314c5605864_17",
+        "text": "LinkedIN | Twitter | Email | Google Scholar | CVAbout me:I am a final year PhD candidate at the University of Washington, Seattle, where I am working with Prof. Jeffery A. Bilmes. I like to work on improving the data efficiency of large-scale models for both training and inference using submodular optimization. In Summer'25, I interned at NVIDIA - Applied Deep Learning Research, working with Mohammad Shoeybi and Mostafa Patwary. In summer '24, I interned at NVIDIA's Applied Deep Learning Research Team with Rafael Valle and Kevin Shih. I am on the Industry Job Market. If you think I can be a good fit for your research roles, please don't hesitate to reach out! Before joining the PhD program, I completed my undergraduate degree at IIT Delhi, in Electrical Engineering, where I worked with Dr Sumeet Agarwal and Dr Prathosh AP. I'm also an avid photographer (Checkout my Unsplash) and hiker! When not working, I can be found messing around with my camera, Google Earth, or hiking in North Cascades National Park.",
+        "paragraphs": [
+          "LinkedIN | Twitter | Email | Google Scholar | CV",
+          "About me:",
+          "I am a final year PhD candidate at the University of Washington, Seattle, where I am working with Prof. Jeffery A. Bilmes. I like to work on improving the data efficiency of large-scale models for both training and inference using submodular optimization. In Summer'25, I interned at NVIDIA - Applied Deep Learning Research, working with Mohammad Shoeybi and Mostafa Patwary. In summer '24, I interned at NVIDIA's Applied Deep Learning Research Team with Rafael Valle and Kevin Shih.",
+          "I am on the Industry Job Market. If you think I can be a good fit for your research roles, please don't hesitate to reach out!",
+          "Before joining the PhD program, I completed my undergraduate degree at IIT Delhi, in Electrical Engineering, where I worked with Dr Sumeet Agarwal and Dr Prathosh AP. I'm also an avid photographer (Checkout my Unsplash) and hiker! When not working, I can be found messing around with my camera, Google Earth, or hiking in North Cascades National Park."
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tmqZQP_KjNg0t3qGi-UzQ4CwbsgIcAS81BqYZcAdqyA7JIFaw1d18iGEcqXukoe9vBjn-VpvohpupRxwAO-cL-kMHm-7VqVc8ECjJiGGgfzNeq26JbwPW1fXuslQHeLkx9NNtLueKa5Nfayvd65yQNHk_CxzdtK7wRO3qlm8ZvJGpQ7UgolKYlUKVrexjA5HsY5H0--B6ux9c_0Z9gN3OpIErTQ6ZqOXMiUP3dm-g=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_34",
+        "text": "Recent Updates[May 2026] I've passed my candidacy exam, and I am on the Industry Job Market![May 2026] Excited about new work on a new class of submodular functions. [Mar 2026] Nemotron 3 Super is out now![Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR'26[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR'26",
+        "paragraphs": [
+          "Recent Updates",
+          "[May 2026] I've passed my candidacy exam, and I am on the Industry Job Market!",
+          "[May 2026] Excited about new work on a new class of submodular functions.",
+          "[Mar 2026] Nemotron 3 Super is out now!",
+          "[Feb 2026] Benchmarking Single-Factor Physical Video-to-Audio Generation will appear at CVPR'26",
+          "[Jan 2026] Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features will appear at ICLR'26"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.3f731ef03e11b10e_0",
+        "text": "Conference and Workshop Publications",
+        "paragraphs": [
+          "Conference and Workshop Publications"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.53f95037ef6378db_0",
+        "text": "Matched Data, Better Models: Target Aligned Data Filtering with Sparse FeaturesGantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes[Poster] In International Conference on Learning Representations (ICLR'26)[Poster] DATA-FM workshop at ICLR'26openreview",
+        "paragraphs": [
+          "Matched Data, Better Models: Target Aligned Data Filtering with Sparse Features",
+          "Gantavya Bhatt*, Arnav Das*, Yiping Wang, Viswa Virinchi, Sahil Verma, Simon Shaolei Du, Jeff Bilmes",
+          "[Poster] In International Conference on Learning Representations (ICLR'26)",
+          "[Poster] DATA-FM workshop at ICLR'26",
+          "openreview"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sZezBt4JrZ3DdEGrQKbUQlSbEZ1jubuhB35dD8NNIfi9xwxHCQSXfPzSSLJhUZVx7-qdJfLRrapvFHM0rgn_Wn25Qs43Lqh4LH8CaQ83bMTD6UD4Y3Qv54Z97ibTD8_oR9tThUlDCamd-3tHQVEoooWvC-4EVN3Bl63FyJamklYVipkF8wnSIwYfWY=w1280"
+        ]
+      },
+      {
+        "id": "h.7738f255780fc0ec_7",
+        "text": "Benchmarking Single-Factor Physical Video-to-Audio GenerationTingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'26)",
+        "paragraphs": [
+          "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+          "Tingle Li, Siddharth Gururani, Kevin J. Shih, Gantavya Bhatt, Sang-gil Lee, Zhifeng Kong, Arushi Goel, Gopala Anumanchipalli, Ming-Yu Liu",
+          "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'26)"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72uM7RDFTJkEXGgTNsxuVhO7_d33QL5w82lZxkfNcjT8BQDWacYL-pojQnLfsXSBDLr615KqMAFfi_2jDZR7dUri1dT0UpWngYgViltsOHe234hpZ1IgG8KKwcmEndz9Iker_A3NBe_Q1DpDc1wQJt-dVKq5lkWFFIlFqydxC8lMavZdjhRKv_9rHRtAdZr-RCMaFyflHCKZDlOkaPLwglZzkvPjf2AXA_mjLXic=w1280"
+        ]
+      },
+      {
+        "id": "h.5b347a2139e1e201_4",
+        "text": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot LearningArnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'25)[Poster] In DMLR workshop at ICML'24arxiv",
+        "paragraphs": [
+          "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Learning",
+          "Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Sahil Verma, Jeff Bilmes",
+          "[Poster] In Conference on Computer Vision and Pattern Recognition (CVPR'25)",
+          "[Poster] In DMLR workshop at ICML'24",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72unkpsuwJcYFiLBA9eUnhIN0gKoCWCTsvIwQAYV0eV9ZrLrKGMAwSlm1yY3pc47ZzkfnZFGa3omiks28PCskcY1PBmw18q7UA7q7I632WICR_RNj23edT-7QPvZZsZTmSPrmYDIMGpyDlQIhysDZhgXZlEOCY9MQfunyNJ--ojRCjZ0ta3HfbUTDA1koQ2YpY2-3seXixyHR06s97Gta27vcdz-V5YAQFWjnFQINDQ=w1280"
+        ]
+      },
+      {
+        "id": "h.4e79c054878cd571_0",
+        "text": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference OptimizationHritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover[Poster] Findings of ACL'25. [Oral] In DMLR workshop at ICML'24[Poster] In MHFAI Alignment workshop at ICML'24arxiv/openreview (DMLR)/openreview (MHFAI)/code",
+        "paragraphs": [
+          "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+          "Hritik Bansal*, Ashima Suvarna*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover",
+          "[Poster] Findings of ACL'25.",
+          "[Oral] In DMLR workshop at ICML'24",
+          "[Poster] In MHFAI Alignment workshop at ICML'24",
+          "arxiv/openreview (DMLR)/openreview (MHFAI)/code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72u5gBd1HXk9kzC-ZVKCQPUjBFtnkUbWgIhCLheuG4QKEZ2Bh0SXfCVMxw6ufjzglU5FPZjv5ca68dh1Tvq1nabCDmOdaxUdvVzpNgbzculMXNReVhKFMUxDxsfxuYDut1VoZNyxSqOAtG2ntlHQfSlLwQtmUbVuPVINOmlY6Ae43isBp5CtANPts62vdejzTEt9yxLIg_Nv5g5qt6npFnvHzawvsFtJtui8ZIWLvrM=w1280"
+        ]
+      },
+      {
+        "id": "h.4cdc637ec1fc326a_0",
+        "text": "Deep Submodular Peripteral NetworksGantavya Bhatt*, Arnav Das*, Jeff Bilmes[Spotlight] In Neural Information Processing Systems (NeurIPS'24)arxiv",
+        "paragraphs": [
+          "Deep Submodular Peripteral Networks",
+          "Gantavya Bhatt*, Arnav Das*, Jeff Bilmes",
+          "[Spotlight] In Neural Information Processing Systems (NeurIPS'24)",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tw04DAZAxjkTjkUToZmbe5hSOwAHD0zP8zGYq7VHNroWjkBf6RJG-K3faQchrxE_V9rO1tHURsW_KZhOYUeSvSJJlzM4CGAcGNd5qKN_rVoFYD1xbtGYCPfszgI7VfcjNQg0_id28t7oq5Wz0yqu4l06VL-4yFYlOCcm5ndBDq3L8X5Duf2uEJrrP8q7DHueLc157MD-NYPbe3pMXpD461bBR_uvdJ5gbdSIWj2rg=w1280"
+        ]
+      },
+      {
+        "id": "h.72e4d390ecc1523a_0",
+        "text": "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language ModelsGantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak[Poster] Accepted at ACL'24 (Findings)arxiv",
+        "paragraphs": [
+          "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models",
+          "Gantavya Bhatt*, Yifang Chen*, Arnav Das*, Jifan Zhang*, Sang Truong, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Jordan P Ash, Robert D Nowak",
+          "[Poster] Accepted at ACL'24 (Findings)",
+          "arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vz9-DYE_SIW60RZHaQ-SthrR2EILErUWsmJOFwbcQLa2smPHZVSDjR1uiBSeHEp3J8hMcyst0-c2wvBGbkLCqY6MrcPnfUmTNjhRcbCgZLZc3SyfvNunf1x6KEPRSthI33qAxG2lHaYUtZ7K9hRCS38L3fn56TLLyRgeaV5UIVnLTw2twm03IJOcNaKoCWmNJc2zx13FfKoIalNA3Zeh1DoiqGDE4vhadF78ji=w1280"
+        ]
+      },
+      {
+        "id": "h.1804aeb8dc3e5ed1_0",
+        "text": "Effective Backdoor Mitigation Depends on the Pre-training ObjectiveSahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff BilmesIn Transactions of Machine Learning Research (Jan'25 edition, TMLR) [Best Paper Award 🏆] In BUGS workshop at NeurIPS'23 Under reviewpdf / arxiv",
+        "paragraphs": [
+          "Effective Backdoor Mitigation Depends on the Pre-training Objective",
+          "Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Das, Chirag Shah, John P Dickerson, Jeff Bilmes",
+          "In Transactions of Machine Learning Research (Jan'25 edition, TMLR)",
+          "[Best Paper Award 🏆] In BUGS workshop at NeurIPS'23",
+          "Under review",
+          "pdf / arxiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72syIiR4LL5e0CTzOihewSm2iFxM42ehVAlV9epjDklMW-wWmWIZ1gLC6W8tWFICqTxtjT7I2x_9WJSqPiMzoOyDGtLS-GtQMV-HKC_U2OpR3Ujhiui8pPkc1PyfHIPFqFOVORRFuBRsuooQAPQ3pV3KC77dVr5z1x7FBalaDlgCjRGYps3H4hDljpWtNuYL850D_7MKU1RWG0o_QuWmPeZbmEClS_wp4DofAp72=w1280"
+        ]
+      },
+      {
+        "id": "h.487bddf4726e1af_0",
+        "text": "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation ThresholdSahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar[Invited Talk] RegML workshop at NeurIPS 2024[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024In Transactions of Machine Learning Research (Dec'2025 edition, TMLR) pdf/code",
+        "paragraphs": [
+          "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold",
+          "Sahil Verma, Royi Rassin, Arnav Das*, Gantavya Bhatt*, Preethi Seshadri*, Chirag Shah, Jeff Bilmes, Hannaneh Hajishirzi, Yanai Elazar",
+          "[Invited Talk] RegML workshop at NeurIPS 2024",
+          "[Poster] Accepted at ATTRIB, RegML, and SafeGenAI workshops at NeurIPS 2024 and NLLP Workshop 2024",
+          "In Transactions of Machine Learning Research (Dec'2025 edition, TMLR)",
+          "pdf/code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vwvzH3zBj8NyFg4CShjMXbsD1dJAQgYRIr1ak_vXs7koRxPcnPwlCmI6TT-ZjYW1aIDV6LJVMgakS3vlkYAH9_KiydS3NqBL_C8UvwSybuFj3ZAThH4OxPftEukn8URkE09emSUFSXne8TJgiNRVsMYwckurz09Z3cEVZFe6QlM1TdM7I_uIxcNq40p0SGqv5QlYmWziU8S6DAq-DJkm25i3am619JNGdpssCjwjc=w1280"
+        ]
+      },
+      {
+        "id": "h.fff6899108fae8d_0",
+        "text": "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient LearningJifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D NowakIn Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS'23.Accepted at DMLR'24pdf / arxiv / code",
+        "paragraphs": [
+          "LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning",
+          "Jifan Zhang*, Yifang Chen*, Gregory Canal, Arnav Das†, Gantavya Bhatt†, Stephen Mussmann, Yinglun Zhu, Jeff Bilmes, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak",
+          "In Adaptive Experimental Design and Active Learning in the Real World workshop at NeurIPS'23.",
+          "Accepted at DMLR'24",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tSG78BmjnxnY8O2AVnAQN9p4Qm9WkWt_sW41Ab8AF90f5SE0fAfGvjSnQAgPcz1Us8UT0Gcpf38dgHVRvs_8x4U14fd-QpdG6ebQ7OtCyD3S59f5wjOmaXlwODNu3MpjDj78NfFv5NrtvQ29BrzcpTluwWph1_vUJPmiN6JHgPC39Hx2bCSmp3EYDRg2dHBFOuHAgjIIEp7M5AbQqFI55Qm8hEGwzO8zWxdBNDYdo=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_47",
+        "text": "Accelerating Batch Active Learning Using Continual Learning TechniquesArnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff BilmesIn Transactions of Machine Learning Research (Dec'23 edition, TMLR) In DMLR workshop at ICML'23pdf / arxiv / code",
+        "paragraphs": [
+          "Accelerating Batch Active Learning Using Continual Learning Techniques",
+          "Arnav Das, Gantavya Bhatt*, Megh Manoj Bhalerao, Vianne R. Gao, Rui Yang, Jeff Bilmes",
+          "In Transactions of Machine Learning Research (Dec'23 edition, TMLR)",
+          "In DMLR workshop at ICML'23",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sEtQczRnwKSKFG_n8sC_LcUFsfLR1zdn2nW6QawjdtUbFPMXmYICwMls_nNBRdvUOhzmsDJMoHmNNErVHjuGWVjjrfWwpb33chxB2N9HHIt0v_bFzzRZuW_dRQvzc6NZtxg58RpUAj7DadZJr8j_fpJA-M72Oej4oOeVFgYgxNWKRs1GxGcSaZbVKrccOlP2CenlTMEkY8uw-yAtAe8jOoFSqYZOz2ZK1RMbVa=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_7",
+        "text": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave RadarAkarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony RoweIn Annual International Conference On Mobile Computing And Networking ACM MobiCom '23pdf / arxiv / code",
+        "paragraphs": [
+          "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+          "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe",
+          "In Annual International Conference On Mobile Computing And Networking ACM MobiCom '23",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72t8O7kbEUPv4h8D2_D1xJhv-44IAXneLhenDRAoBbtU-2zOfW8aBa3iyFDFjKzxKcBU_BiLDNhpk0Sqoy_SeSq9J0l5rpVqBNuSvmrdKQUfWc1zvz4xQTcvrrF5kk6cMAtX_sVE724paiN_1nUt-yA6LPQK6S2xWaA7J-7Yx58WPgGPp1uOMKn3m2wpZs1UlVq_msg9TTAL4RXsznjzl71GxluCDDD-v6cQ_vP8nUM=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_14",
+        "text": "High Resolution Point Clouds from mmWave RadarAkarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony RoweIn IEEE International Conference on Robotics and Automation (ICRA'23) pdf / arxiv / code",
+        "paragraphs": [
+          "High Resolution Point Clouds from mmWave Radar",
+          "Akarsh Prabhakara, Tao Jin, Arnav Das*, Gantavya Bhatt*, Lilly Kumari, Elahe Soltanaghei, Jeff Bilmes, Swarun Kumar, Anthony Rowe",
+          "In IEEE International Conference on Robotics and Automation (ICRA'23)",
+          "pdf / arxiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72taxq6if9OV6HkTXHSqpgD4B8lot-odMekUn9ZC18MSOcq024VaUrOPU95vVp9_6nuWCXh48lJeEo2vnmD9PyMep3Ou9LUc5wyu27K6MiXR8FpeXrTOGc2wkXGoVqSVY7PAQgFBoNoZZfe7c6-KRlau7ix0MgP2T47Q8NL__H7yN8z5ggg-7vPT3GiIGSIWX9md1-H0_RyNVBe6thJgwYKXI9_ZNiNvdw-m7IK2FbM=w1280"
+        ]
+      },
+      {
+        "id": "h.2e8c5763b8fdd1a1_7",
+        "text": "Matryoshka Representation LearningAditya Kusupati*, Gantavya Bhatt*, Aniket Rege*, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi[Poster] In Neural Information Processing Systems (NeurIPS'22)pdf / arXiv / code",
+        "paragraphs": [
+          "Matryoshka Representation Learning",
+          "Aditya Kusupati*, Gantavya Bhatt*, Aniket Rege*, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi",
+          "[Poster] In Neural Information Processing Systems (NeurIPS'22)",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72utYQe28oJ5zjuw81aeOWB6WtAwZp7yOiBTf3vYChGRyASB02Gt8kuv-hGM7h-np0qHTsNZz_NTftyvQ1qa_I_4O-KI_KzwIjPmYxcaluUYVqBFvBBDYjws8N7tN5HSniKwJZTABsM-iSf96PUVmuK5guQmVDyUFS81nPbYXbFnX0N2mKcsJdBMgGuqQObaNWDAwd9m7OJ9J7RjZ0x3PZ_HJvXkqktM3ZP1IUecQmA=w1280"
+        ]
+      },
+      {
+        "id": "h.4563ee7aa6c787ad_21",
+        "text": "Tighter m-DPP Coreset Sample Complexity BoundsGantavya Bhatt, Jeff Bilmes[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML'21)pdf / arXiv",
+        "paragraphs": [
+          "Tighter m-DPP Coreset Sample Complexity Bounds",
+          "Gantavya Bhatt, Jeff Bilmes",
+          "[Oral] In SubsetML workshop at International Conference of Machine Learning (ICML'21)",
+          "pdf / arXiv"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vDZ8PTHdSh78UbrJQvZGZ6IEwW5a8EMIn94RPfJYrVy1QbzYPBvU4u2xvk2OXxxvAQNZPwCntQSgLJxLVnertcqBOT2Z9y-80zF5Jnni0tOU6Bc5ELfNIWucWu84fANV4ERk1OAsJ9Heej4D0qXXLARKoHfu1i1ZFBxWPXfLJ-rjdfmqfEdCZpLzqnPqudbA1K3GD488dG9kSRbxU6bwg-ILjEmCG-yQt15JnxgMk=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_42",
+        "text": "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting ModelsHritik Bansal*, Gantavya Bhatt*, Pankaj Malhotra and Prathosh APIn International joint Conference on Neural Networks (IJCNN'21)pdf / arXiv / code",
+        "paragraphs": [
+          "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting Models",
+          "Hritik Bansal*, Gantavya Bhatt*, Pankaj Malhotra and Prathosh AP",
+          "In International joint Conference on Neural Networks (IJCNN'21)",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tJCJgoXTfh_fucsrKNK6WXQX2YH4a_b_eb0vQ1uxmsrV4qJ-chyPKNLUJnWlUAx8a4EWfzJk8-QFqdow1VXyO70w5pvMWaBUbuKjhJG-IJ64hrd2VfG3Q6OnlR_dw4Tq1NLlErQC7Jr8ybpRuAZuS6wUMc03f-wdshrvsny-MV_11qfH5fQrYuvcDAWueEHWdkOkhcQayJwEDVJJQ-9RK-aVYGLrNxbGoIDrKU=w1280"
+        ]
+      },
+      {
+        "id": "h.24d73fe912104495_0",
+        "text": "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?Hritik Bansal*, Gantavya Bhatt* and Sumeet AgarwalIn Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38. pdf / arXiv / code",
+        "paragraphs": [
+          "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?",
+          "Hritik Bansal*, Gantavya Bhatt* and Sumeet Agarwal",
+          "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vazpr9hIcCQ8B3FFFXB5E-mKLt4q0XvbASLZ0Yg_BSMRX8if2d-YXU6P-sRCzy0vczRwokfhyViLl5SpVb-4Yx1uztcBZuozWfMhuiWmxojJsQzHdAwd7NsBjGHU4UUPFdBFh4XJh9d5SXDVvkYV60j8H7bMrRj01iO7JjCXYZ86G9AKskl7k1XiqBvnrAGZmJYCuz-pJtvlI3zC6_WIewNkZ6lf-UHnhQ1_9G=w1280"
+        ]
+      },
+      {
+        "id": "h.20a81397e91533b7_0",
+        "text": "Decay RNNHow much complexity does an RNN architecture need to learn syntax-sensitive dependencies?Gantavya Bhatt*, Hritik Bansal*, Rishubh Singh* and Sumeet AgarwalIn Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38. pdf / arXiv / code",
+        "paragraphs": [
+          "Decay RNN",
+          "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?",
+          "Gantavya Bhatt*, Hritik Bansal*, Rishubh Singh* and Sumeet Agarwal",
+          "In Proceedings of the Society for Computation in Linguistics: Vol. 4 , Article 38.",
+          "pdf / arXiv / code"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72t8JwxnayAYzmt7OZuWJoENLM7QkDeOdknEvP9Pxam_niwLfCcW9PUoz_t3VXSyFX8G4mBe447F4Pnv5d5JnJE3S1zu2YyVAvmRv34XlZ4GcgPSWodw_WPZQBi2S2br9SSS5L7TBOp53EBmI9JDjJcPlTDN32bU2GWG4Zech9nfrGHn56k58b2WCaW_EbE2JrqcFKE9fay-NyhR=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/photography",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/photography",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "photography",
+    "title": "Gantavya Bhatt - Photography",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography#h.gcbzcka6wnly",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography#h.e35fmbvqhwzk",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography#h.n3ndfty1lcbm",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [],
+    "sections": [
+      {
+        "id": "h.489a9af5d6163fda_1",
+        "text": "Highlights of 2023",
+        "paragraphs": [
+          "Highlights of 2023"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.489a9af5d6163fda_71",
+        "text": "Alpine vegetation with Milky Way in the background. Sunrise, Mount Rainier National Park, WashingtonWhat a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th. As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!",
+        "paragraphs": [
+          "Alpine vegetation with Milky Way in the background.",
+          "Sunrise, Mount Rainier National Park, Washington",
+          "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.",
+          "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.",
+          "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.",
+          "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th.",
+          "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_5",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_12",
+        "text": "When cloud cover was 0% - Stargazing",
+        "paragraphs": [
+          "When cloud cover was 0% - Stargazing"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_13",
+        "text": "Milkyway rising, Little Tahoma and Mount RainierSunrise, Mount Rainier National Park, Washington",
+        "paragraphs": [
+          "Milkyway rising, Little Tahoma and Mount Rainier",
+          "Sunrise, Mount Rainier National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_37",
+        "text": "In persuit for Perseids Meteor ShowerCathedral Rocks trailhead, Alpine Lake Wilderness, Washington",
+        "paragraphs": [
+          "In persuit for Perseids Meteor Shower",
+          "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_60",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_75",
+        "text": "On the top of a rock- Mountains",
+        "paragraphs": [
+          "On the top of a rock- Mountains"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_132",
+        "text": "It is all about the layersNorth Rim, Grand Canyon National Park, Arizona",
+        "paragraphs": [
+          "It is all about the layers",
+          "North Rim, Grand Canyon National Park, Arizona"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_161",
+        "text": "Edge of Earth shadowNorth Rim, Grand Canyon National Park, ArizonaClassic Angels Landing TrailZion National Park, Utah",
+        "paragraphs": [
+          "Edge of Earth shadow",
+          "North Rim, Grand Canyon National Park, Arizona",
+          "Classic Angels Landing Trail",
+          "Zion National Park, Utah"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_184",
+        "text": "Molar Tooth and fall Colors on Cutthroat PeakNorth Cascades National Park, WashingtonClassic Liberty Bells at Washington Pass, SR-20North Cascades National Park, Washington",
+        "paragraphs": [
+          "Molar Tooth and fall Colors on Cutthroat Peak",
+          "North Cascades National Park, Washington",
+          "Classic Liberty Bells at Washington Pass, SR-20",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_144",
+        "text": "Triplet Peak, Cascades Mountain RangeSahale Arm, North Cascades National Park, WashingtonMajestic Mount ShuksanTomyhoi Peak Climber Trail, Washington",
+        "paragraphs": [
+          "Triplet Peak, Cascades Mountain Range",
+          "Sahale Arm, North Cascades National Park, Washington",
+          "Majestic Mount Shuksan",
+          "Tomyhoi Peak Climber Trail, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_172",
+        "text": "Hinkhouse Peak from Cutthroat Peak North RidgeNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_128",
+        "text": "Life in a Metro - Cityscapes",
+        "paragraphs": [
+          "Life in a Metro - Cityscapes"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_76",
+        "text": "Downtown LA, as seen from mount hollywood trail on a clear sunset.Los Angeles, California",
+        "paragraphs": [
+          "Downtown LA, as seen from mount hollywood trail on a clear sunset.",
+          "Los Angeles, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_92",
+        "text": "Downtown Los Angeles from Griffiths ObservatoryLos Angeles, California",
+        "paragraphs": [
+          "Downtown Los Angeles from Griffiths Observatory",
+          "Los Angeles, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_98",
+        "text": "Market Street and Ferry Building on a sunny afternoonSan Francisco, California",
+        "paragraphs": [
+          "Market Street and Ferry Building on a sunny afternoon",
+          "San Francisco, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_104",
+        "text": "A very cold Februrary evening with creamy sunset colorsSeattle, Washington",
+        "paragraphs": [
+          "A very cold Februrary evening with creamy sunset colors",
+          "Seattle, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_110",
+        "text": "Classic Dr. Jose Rizal Park SkylineSeattle, Washington",
+        "paragraphs": [
+          "Classic Dr. Jose Rizal Park Skyline",
+          "Seattle, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_116",
+        "text": "Iconic Brooklyn BridgeBrooklyn, New York",
+        "paragraphs": [
+          "Iconic Brooklyn Bridge",
+          "Brooklyn, New York"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280"
+        ]
+      },
+      {
+        "id": "h.1ffe42b75d9e5d88_122",
+        "text": "Empire State Building amongst the Manhattan SkylineTop of the Rock, Manhattan, New York",
+        "paragraphs": [
+          "Empire State Building amongst the Manhattan Skyline",
+          "Top of the Rock, Manhattan, New York"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "photography/highlights-of-2023",
+    "title": "Gantavya Bhatt - Highlights of 2023",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023#h.hbnil1lzyr9z",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023#h.xuqlz9oblev8",
+        "navigation": false
+      },
+      {
+        "text": "",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023#h.8ejyr8jqhi5x",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [],
+    "sections": [
+      {
+        "id": "h.4dbf761f1e413e4b_6",
+        "text": "Highlights of 2023",
+        "paragraphs": [
+          "Highlights of 2023"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_10",
+        "text": "Alpine vegetation with Milky Way in the background. Sunrise, Mount Rainier National Park, WashingtonWhat a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th. As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!",
+        "paragraphs": [
+          "Alpine vegetation with Milky Way in the background.",
+          "Sunrise, Mount Rainier National Park, Washington",
+          "What a remarkable year it has been! As I reflect on 2023, I am filled with gratitude for the experiences that enriched both my technical knowledge and personal growth. The journey took me to diverse corners of the world, creating memories that will linger as cherished milestones.",
+          "The journey took me to breathtaking places, from traversing the enchanting landscapes of the Cascades to embarking on exhilarating road trips. The year came full circle as I find myself writing this from my hometown in India, reminiscent of a similar beginning the previous year. The bittersweet expedition to Los Angeles became a turning point, where I found myself captivated by the allure of Griffith Observatory, and the City of Lights seemed to shine just for me.",
+          "The reopening of SR Hwy 20 paved the way for my inaugural visit to the North Cascades National Park, leaving me in awe of the majestic Liberty Bells at Washington Pass. From conquering peaks like Mailbox Peak to navigating the scenic Sahale Arm, the hiking season kicked off with a sense of accomplishment. The end of summer unfolded a picturesque Pacific Coast Highway road trip from San Francisco to Seattle, followed by an exploration of the captivating landscapes from Las Vegas to Phoenix and Southern Utah in the fall.",
+          "A week-long Thanksgiving retreat and the experience of working from Manhattan, New York hold a special place in my heart. The year concluded with a delightful loop around Olympic National Park before my flight back to India on December 12th.",
+          "As 2023 comes to a close, I extend my warmest wishes to everyone for a Happy New Year! Here's a glimpse of my most cherished moments from the past year – a collection of my best bits of 2023!"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72uzVlISVY74Huc2bAHsROjIuYXnIUMuEJEIZDnKsxVQ3cZmPVaDhA4aTmL9yuuNvr7qlHpEbE2Q3DtKhINpxJThfD_vzImnEmzmyZVNwWFETIwi7Vx0g3jVsGqHM2uvh6yBgGOGLD9-qDtGwBsOq8kuix1lwWRPcsmON_B7azEOwovDhNMtFqJzCKyRO3niMpaYxCVajoILCkjunM7CODrCQbYVQmH0_63mtNV9KL0=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_19",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_23",
+        "text": "When cloud cover was 0% - Stargazing",
+        "paragraphs": [
+          "When cloud cover was 0% - Stargazing"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_27",
+        "text": "Milkyway rising, Little Tahoma and Mount RainierSunrise, Mount Rainier National Park, Washington",
+        "paragraphs": [
+          "Milkyway rising, Little Tahoma and Mount Rainier",
+          "Sunrise, Mount Rainier National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72stNVVUbaIJh3IO796uJuUHHmJOW4k8Ghz0rBnhlplFKhKJa2sffKGaxoBOwebqrJZ9BzG_Q1H25Ku3o5zwwA1iHoeJsVn2LlhX-LRilZ5Qe1GCgV7YiDcOlNImR7tU9y1nDKje6Gnw-jUu9JecM5HPtGgKdppkDG-4g7vpRrNFYC0xAKH1h1rEnocecKq3824xUtiPl23FV9AyOPoqJcrmaKRyOe43pTbUHCJYNdo=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_33",
+        "text": "In persuit for Perseids Meteor ShowerCathedral Rocks trailhead, Alpine Lake Wilderness, Washington",
+        "paragraphs": [
+          "In persuit for Perseids Meteor Shower",
+          "Cathedral Rocks trailhead, Alpine Lake Wilderness, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72usZXrDAjDN3VBvXizTl89ECnB0jBMalq8nNlsRgkt8CvJPRkik8gtdTgKGS-QRc0AB7jfVsdvxvRPGkiEYLtrNCh0mogY8P1req7GcY9CMoA956F4YdsQs-8a5UsIOHMakc7CKRaGQ3tpRe7ylLCwYmVoRl1_Q0T7XO52agJ-VQ0YpHesXbyIrWfr4OSZ4R2mb9jTxzxYRw1IShWh9HghvK7PMk_auDxMoLJ6CPUE=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_39",
+        "text": "",
+        "paragraphs": [],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_43",
+        "text": "On the top of a rock- Mountains",
+        "paragraphs": [
+          "On the top of a rock- Mountains"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_47",
+        "text": "It is all about the layersNorth Rim, Grand Canyon National Park, Arizona",
+        "paragraphs": [
+          "It is all about the layers",
+          "North Rim, Grand Canyon National Park, Arizona"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vh0dRH5WlOpo85Wz7XwjhvL03xHdpwru8HQYhNhB6dGWevMdoNFJPc_OK9TTCNBWcsAdXlcRWGJyFE_p3Q_XATX2srwm2N_fPTRepBA63Fy6tQ7dPNkoibekxQxK3qFOgFLQqnw87ZN-j3uX6pGPjzM8r84q4pemHv2zd1MQeGt90C0d2E4jR-3uy9yU11-quxiQj6CNxCUFYvN2oEuBcWjCYCPNwg_-3CqDcZTX0=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_53",
+        "text": "Edge of Earth shadowNorth Rim, Grand Canyon National Park, ArizonaClassic Angels Landing TrailZion National Park, Utah",
+        "paragraphs": [
+          "Edge of Earth shadow",
+          "North Rim, Grand Canyon National Park, Arizona",
+          "Classic Angels Landing Trail",
+          "Zion National Park, Utah"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vyfXq03KZLa-eXB0cvZfG4xuwg2RmnXD4PyLAyp3Y5eGI67P1W7BjXvurlda9UTmrGApjXqnwQ4zr05ivFp7DuQGa4SYPJ37f8a0QbdMNiVG9Z-D7_mk-sPyoA_uYyqp9k_Sod0vWu--uaZhKWXHEaELvj96_liRSW7VdY0dCdwmgeVfaktbTm0XudW8_umwDdjRlHWB9rG0JRTON1ml6nqW9Gqkj1FPtme-o=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72spoSOn7XemAhA6YCdfQgN_ftZfiJfSS70qDYsDR3JSHhUGXH_c1OxMKRxbFDZjmmvKTpBVSMPbPkO7OFaBPBtYX6uDVywowjeYHYvTKAv03e7r6stX4DTj38fXYAQCatYKb9EtaOSTqs0VjDawgaw5CRYbNvT12tNSSBQG_SQ-K5TRvmyIpM9WGXKb1HfwmpQsIiDvEzK4FB2LscdKWlsEuXp0n6obEEPw2FVn6Ic=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_64",
+        "text": "Molar Tooth and fall Colors on Cutthroat PeakNorth Cascades National Park, WashingtonClassic Liberty Bells at Washington Pass, SR-20North Cascades National Park, Washington",
+        "paragraphs": [
+          "Molar Tooth and fall Colors on Cutthroat Peak",
+          "North Cascades National Park, Washington",
+          "Classic Liberty Bells at Washington Pass, SR-20",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72utzycuw8S4I-TFgjQ7cCX2_HoHxKkzeCkFapMEwnKrncA-Ib9Q8nFKWKiZIHO4IEcltior9QoKGA1ej1jvnUFKjkXzHGVeEQnrmf6a50XHhCol9i1f8-jp0UGn-4wLtLmcs2KJTehtUZvWQYukgpazyAsQqbaS2YsFsgS6tlzPM9EhLpb_UnnIeo39wcdD43mcVdCOICe82VEyKa-FOhFQjcUnvIsZillI7NxwMEU=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72vLyENC1_3qr7VbekB5v3yMrDg_F8fbcwFw0NS2QeTtMcT7pg1kH5V_MjO3rbkR6hf7DtdfDEqJntM0aw67d2Sz82J1l0A0CM7XKBRlcQ_KWL9p3lT_Q581xsTj5knLe_svG_eBFJc2ensaqm9W4Efo4gFTdRAG585vqfjaOtztzlzLGs9LAcGF5kdinIWMdXVnu-7Mo-nIxxCFq_GhMt8iNvkxMQb4GymhGTWn8es=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_75",
+        "text": "Triplet Peak, Cascades Mountain RangeSahale Arm, North Cascades National Park, WashingtonMajestic Mount ShuksanTomyhoi Peak Climber Trail, Washington",
+        "paragraphs": [
+          "Triplet Peak, Cascades Mountain Range",
+          "Sahale Arm, North Cascades National Park, Washington",
+          "Majestic Mount Shuksan",
+          "Tomyhoi Peak Climber Trail, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72voBYUHhybZRsmnXqyiUerdL-QenJly3u-N_zCkXj7RzMAiGwcdS98F68kclf5zIBCEHmppuacFpR3C4fFA3wswzrS384_1qXAxij3Kzso5xlMWkCfbe9JJoQ7ZCp8FnqlIC1oB2cHgBolx5wmHYNsinbXUuocsrrzxjxJzPwszmbBidtBppsTLHl_7VBhlEeDse--Nl7DjugT84Ptr7FXmPciuMwJGli1HdhCJ=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_86",
+        "text": "Hinkhouse Peak from Cutthroat Peak North RidgeNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_92",
+        "text": "Life in a Metro - Cityscapes",
+        "paragraphs": [
+          "Life in a Metro - Cityscapes"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_96",
+        "text": "Downtown LA, as seen from mount hollywood trail on a clear sunset.Los Angeles, California",
+        "paragraphs": [
+          "Downtown LA, as seen from mount hollywood trail on a clear sunset.",
+          "Los Angeles, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72v3tT4Z-ypEEfGBhSKyIQ1MRFF5MrWEXKbaKc8J-EpaFrtm8dI6S2_qXk7L447zy3mi0pCdUC7SdHiZ6MQpDg3IQQHHwzW5RJx51a54KTU9XoahpoUHjtWrexR4mHvTlVesknr91ivHxExjD_SCE5Cy4fnte9I2gpvkXcusrvcRkFugUo2faa9WSmf9i-BAMrcYQaVxtPjIPCc7wODHO8580HzByONIr3GlRkjV=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_102",
+        "text": "Downtown Los Angeles from Griffiths ObservatoryLos Angeles, California",
+        "paragraphs": [
+          "Downtown Los Angeles from Griffiths Observatory",
+          "Los Angeles, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sj8lM0qc5DE4vsUIplMX8yHx1Di0_Ysc5WsxZKNiBdoi4xe0xXY7NY0vjnYgSk_wZ-B36nShycDJ6xpmyyrBlA0ksYSazX6LotRMeF73mxsczU9rHsRIWpQzqGWWAY4gergr2uYovNwN2Jv7hXWrtTdZNtSeSpUL-RYxWSjNLMSup3O8MaIDBJu7lkVNIp3Tk3MUbXgUiYUA2SDakK3u1jTfAw1Yt9_qNxcqvrgTs=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_108",
+        "text": "Market Street and Ferry Building on a sunny afternoonSan Francisco, California",
+        "paragraphs": [
+          "Market Street and Ferry Building on a sunny afternoon",
+          "San Francisco, California"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72s0Z8D4yYOovaPsJgiUGo9_VWH4M-uVIf_anXtguft6NoAWFTJoE2uJlg7fQPtSkRr6RMgSWn0m9Yal_cQXMqGyN39hp--0xr9GQy3CuIOcE_2DGUtW6OlS5T-fCRiaRFBKjeuhRxkALRPEs0N8JStR3UhYFEDnaP9apzJxae1ZIo_xkFaqJO1qebwldlpSP_7AiXnRHXyplKbLqW707cExqu2wbd5Fk2EbIpFb=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_114",
+        "text": "A very cold Februrary evening with creamy sunset colorsSeattle, Washington",
+        "paragraphs": [
+          "A very cold Februrary evening with creamy sunset colors",
+          "Seattle, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sLHDZ8BSxKD_60sBckxbw9jm2oNir-oPOinYx9HjUmrVJZRUOczN9_x4CI9BmtbUCHzIrA_oI2fuZPqoIf8KWYCtVEuiPwOdu5E3hMiTXxy_VHr8X8aNwnFACCXAwKjslOqWoEQdXPDgkQ4qWmWGktrmTEi2oCnSZss9nm2dyHcynV7Ccnaozrvz46wMiJWVjbGnOYTKQb3LG__NcgNM2gizxbuOqLqW2jN337=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_120",
+        "text": "Classic Dr. Jose Rizal Park SkylineSeattle, Washington",
+        "paragraphs": [
+          "Classic Dr. Jose Rizal Park Skyline",
+          "Seattle, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vhdrjnKkcJS3T7Le9Rva60gWaoIrpkfro_mNCe3TiIQOa-Z84IX_SppVsO10R2AA6qeBlc8ZXdMjUeicENLSk01n-OHBO0etVQCryr_yO-FHmDyYcXnd8jbt5Pw8dhw5qGo8UNyZuZiHUVJCx847zPIdS_YXxa8wbQlI39eax5MKGfw8Isrqxn1iTU6NfiYH2XJ9OMVZUm3RihkA_TxW-JjOxxuog4L8RZ88NvNOo=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_126",
+        "text": "Iconic Brooklyn BridgeBrooklyn, New York",
+        "paragraphs": [
+          "Iconic Brooklyn Bridge",
+          "Brooklyn, New York"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tqMvgu01w0BtY6h0cNn4-mOij35b71eJU8Ucenvb8V0frr34h7wORHRGeXpdH4WBq7RYYOutGc5xV6uF9d4M9WTms7zzvYsOTgC7LoD2nO4vKSdjyMbytQQAH5v2Yi1uiN9Q9m8jsNUnxRi1gwHKtc7RjPZnKZf0x9zaSqIbBRh6DyvrdL6etd3Pcqqcp4gZf7lFS3cWth5irB1hF10fI8-Lv_WzjzrdD19M1JPYk=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_132",
+        "text": "Empire State Building amongst the Manhattan SkylineTop of the Rock, Manhattan, New York",
+        "paragraphs": [
+          "Empire State Building amongst the Manhattan Skyline",
+          "Top of the Rock, Manhattan, New York"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tJLoz1_8J73ns9npwUNiIqsZoUifGJw4qmX2YCcf3hevGdPjoHimifuGBCcPiJ2j2OXwIXyOrm_wbJvYSPVXMK_0vTChHJv7iaHIGoqRUqpjpFL7gik1bo8zNGLtRnParNP82nbRGy0UTrpsVN6zkB5XaX5fc8l7arvln7Gki_dr-8GVJptkrIJmn4b3DkPyvyetbscogrzPbB_yK5AvKFRj2hiY14ueDN2iq7=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "photography/mountains-by-the-day",
+    "title": "Gantavya Bhatt - Mountains by the Day",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vq0HCv7W6G_UhFci39r68p0A3zwrlgzDgS5ODbXTjG9SBzOLIevV8cuE0K1kV75rJj2iGgHi2P058Y-hZLoHKLUa_6gwcF1-YjfnpZJ84HvsnK3fh-MzSoX-5Oxf7mzcVMxLlsHH3fkkYBxnGP5mY_2-b_gtivwov8W9Z8Y7Gh6bAoYpliguDR89XDYdIil32j-AhVXK9DCGICmnPucjzuJ7T6geU3PX7vI_ECtAE=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sdGX6Pdtqz5XxMn8C7hYo-JXGt19a2L8RC7KmKGF3eWUJF4YGv8-IB02WT36VcxPsxMjupjZER8IYIz3mgd1zE51J-El9y8TnMsUGi22NHpwTkrW9CN9KV0F46j-PS1VfgyPM46Q4p5gYjNsLnicHNMMDa1qSiTSED7Gty6tahbvXuzm3BboPjpfCby8xnfgjaZacIyD23OgOeLYOVCor8LzxduIC3Ttft4NOx=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTKW2OK65bTLqpIMKn5G_zvIFPskYAofPolTplhyCi717p5NKzgd7nQFHKHI9qqlJsDF7J9Fy8GaXqOkBDHj1Ur5jStxCG5BPSDmXMavj3ADHrI0tgxh70_XU9dy9NxlryODv3WwwnbhMGz7roMQvnL6mULRk27yrnvcv2MU99lYfTIuFFRJ4dwLTJK2-jeIk_eoNtBk41bhaE3H-FPacU74pU18rFdxr_1kceODo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sLfgZTzznmBn93wYl5MNKom2IaYJHawLaS4Yq51IZxtrD3Kdgjly4oySXdCzHiRxpSfYxOXX9bpmaQzIRJ5l__QKUrxYtiJRQKE-ydgfbQz96KDFpN5_8hrNvddVuQzEvFCHroExEZzT5RMJm-m9qryHghwEdflNRhlrG0KNma_6jowwFvbjptYErbg7TZ6sENfJI378ooS1aZ1Qj_pGB34DPGW040itgWWtyk=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72t6gvBc5epfkI79zPWxsZJPC0PfuZx03M07glOuA_kProd7lTxuv04iyer1aVMl8ygi77eot1pNfFhkR9QYJ-xePgFB-KG5Anm7KuqnZvHT0NKStJi4JdUyeYh5yuuk6gNaq9ea40yuYHXSXGSW_XyqOWJ6PCRiU4LTAC7fkU3mdRYDdvtWKSTF781L9DBn575_m2CJgBli70WpCL6E9tBcxhDT5NWIO5PYl3T6YnA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72sK18fOPRmRLVoSUaewKv5lNdvNzvbMPIQrqQ6qc0a9X5m-MGaqidwY5FxPprjhSf_yLXVCKw6dOLTKSG66tUE84hRXP5pJygYGcgSo6XJDP7cP6DXqFTkXhIyE4yz0RNmVnrmVTIV_js1AS1VYEg0G9BG4jth0J0z_yXJiM-IDnxvtt801J383p3lqAdoOVS34XjQuVES1IrqVZaVPAxG85ScjlXKxs5Mjn0LctCw=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vIXfDOy5vXcQmujgqwKwrXv_sWRs4HbWXBGVD4yEwdy52lWbJOZXKrod2FZPabKheRjHOS4IYns02JNEq5z88msrp6vHXbDn8C38QSmZgwEleqLiFZxnyBJFUQe1S06M3CzKmufyLtrGH2q5ZujBz1fkEide6CWY7cLGPmwCXy8PEEoVOYW7czxb5xdK7-BCxJeLiHFczEnK034yyaH2tpYbyVCLQ4VKrMuRVq=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v0d7mYnv3mL0jyI24NbnU1bZa4-w9ZRNPZYIzHNICIVe6HaHTUMWSynoAyJahCYTn2YC6vBaxTB3NuQWF3K7svZ6eNKLLj73x0YWCi_1d9igN3mBX7rbhoZTFBbn5seoeP0lnQF0BTiGmCvEdjutDb_LlWGQmQs8Etq8ty21WDy0OP8iq3ZuNUu5fO=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTir-ScWIt_D1m1_a0_OyVRL5Xo-FbVJleGYfJ_98MObBmLxoFD080mIu3PjxscE7T0VlyDdYj7uLkuT_79HD4RnlBqs3zVU-Lw3F3H5lFAeu1IZKZE937cfFGHjUh7znh5mpIyszhzQ7qDy1uxR9XO9-1PzClHLSi8QDR0n9-60vwNWMWp5stnwZSRH5-rPnLoR6L4GlgaIcpsz_yaj4b1IoHYL67OxInBdv2Xgo=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72uDTKFIYtMIHkytcZPvymFtElXWV02_gBuiD9CbAjudmXSmJ3fEij5hetyaA5lUcESgtHg8TVDKgbUdl6922sAd3ylSTxSigO8ZhGla5Cj_QFFULQUhSM7p5eSgv24LoFgQY3R9phkiSUG1y9ovZ2AwgpsSx1OycfWWeZ5a88IjSpaLWrQqt_aqTEZglOE=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v2nG72Cock_dNuyDsASmPJI2McD6xuEOLS8hIbGDvXNVC_H8_F8dVHIMFq8Xgk9l0naqjyIRayQq8m0PPzWNc5t_xG0tBLECX_qfOY1GzxK7DvyMcHZ4i2Ylm1N61SN8lyEWIpRoNQgGgv4-2vM-e9ycSCBgNLX9Q3nVNOwhwtGF8I_TMjyhIRROq0ZVPtfPlXGsUat9OlkqCqkJ7sqZJa2PZOf1ohlRDqHjJrzPQ=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [],
+    "sections": [
+      {
+        "id": "h.4dbf761f1e413e4b_144",
+        "text": "Mountains by the Day",
+        "paragraphs": [
+          "Mountains by the Day"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.1499c2772b184ae8_163",
+        "text": "Mount RainierTacoma, Washington",
+        "paragraphs": [
+          "Mount Rainier",
+          "Tacoma, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vq0HCv7W6G_UhFci39r68p0A3zwrlgzDgS5ODbXTjG9SBzOLIevV8cuE0K1kV75rJj2iGgHi2P058Y-hZLoHKLUa_6gwcF1-YjfnpZJ84HvsnK3fh-MzSoX-5Oxf7mzcVMxLlsHH3fkkYBxnGP5mY_2-b_gtivwov8W9Z8Y7Gh6bAoYpliguDR89XDYdIil32j-AhVXK9DCGICmnPucjzuJ7T6geU3PX7vI_ECtAE=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_202",
+        "text": "Early Winter Spires on a clear spring morningNorth Cascades National Park, WashingtonClassic Liberty Bells at Washington Pass, SR-20North Cascades National Park, Washington",
+        "paragraphs": [
+          "Early Winter Spires on a clear spring morning",
+          "North Cascades National Park, Washington",
+          "Classic Liberty Bells at Washington Pass, SR-20",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sdGX6Pdtqz5XxMn8C7hYo-JXGt19a2L8RC7KmKGF3eWUJF4YGv8-IB02WT36VcxPsxMjupjZER8IYIz3mgd1zE51J-El9y8TnMsUGi22NHpwTkrW9CN9KV0F46j-PS1VfgyPM46Q4p5gYjNsLnicHNMMDa1qSiTSED7Gty6tahbvXuzm3BboPjpfCby8xnfgjaZacIyD23OgOeLYOVCor8LzxduIC3Ttft4NOx=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72tTKW2OK65bTLqpIMKn5G_zvIFPskYAofPolTplhyCi717p5NKzgd7nQFHKHI9qqlJsDF7J9Fy8GaXqOkBDHj1Ur5jStxCG5BPSDmXMavj3ADHrI0tgxh70_XU9dy9NxlryODv3WwwnbhMGz7roMQvnL6mULRk27yrnvcv2MU99lYfTIuFFRJ4dwLTJK2-jeIk_eoNtBk41bhaE3H-FPacU74pU18rFdxr_1kceODo=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_51",
+        "text": "Mount Shuksan from Huntoon PointNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Mount Shuksan from Huntoon Point",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72sLfgZTzznmBn93wYl5MNKom2IaYJHawLaS4Yq51IZxtrD3Kdgjly4oySXdCzHiRxpSfYxOXX9bpmaQzIRJ5l__QKUrxYtiJRQKE-ydgfbQz96KDFpN5_8hrNvddVuQzEvFCHroExEZzT5RMJm-m9qryHghwEdflNRhlrG0KNma_6jowwFvbjptYErbg7TZ6sENfJI378ooS1aZ1Qj_pGB34DPGW040itgWWtyk=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_57",
+        "text": "A zoomed in view on Whitehorse MountainDarrington, WashingtonWhitehorse MountainDarrington, Washington",
+        "paragraphs": [
+          "A zoomed in view on Whitehorse Mountain",
+          "Darrington, Washington",
+          "Whitehorse Mountain",
+          "Darrington, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72t6gvBc5epfkI79zPWxsZJPC0PfuZx03M07glOuA_kProd7lTxuv04iyer1aVMl8ygi77eot1pNfFhkR9QYJ-xePgFB-KG5Anm7KuqnZvHT0NKStJi4JdUyeYh5yuuk6gNaq9ea40yuYHXSXGSW_XyqOWJ6PCRiU4LTAC7fkU3mdRYDdvtWKSTF781L9DBn575_m2CJgBli70WpCL6E9tBcxhDT5NWIO5PYl3T6YnA=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72sK18fOPRmRLVoSUaewKv5lNdvNzvbMPIQrqQ6qc0a9X5m-MGaqidwY5FxPprjhSf_yLXVCKw6dOLTKSG66tUE84hRXP5pJygYGcgSo6XJDP7cP6DXqFTkXhIyE4yz0RNmVnrmVTIV_js1AS1VYEg0G9BG4jth0J0z_yXJiM-IDnxvtt801J383p3lqAdoOVS34XjQuVES1IrqVZaVPAxG85ScjlXKxs5Mjn0LctCw=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_74",
+        "text": "Jagged Grand TetonsGrand Teton National Park, Wyoming",
+        "paragraphs": [
+          "Jagged Grand Tetons",
+          "Grand Teton National Park, Wyoming"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72vIXfDOy5vXcQmujgqwKwrXv_sWRs4HbWXBGVD4yEwdy52lWbJOZXKrod2FZPabKheRjHOS4IYns02JNEq5z88msrp6vHXbDn8C38QSmZgwEleqLiFZxnyBJFUQe1S06M3CzKmufyLtrGH2q5ZujBz1fkEide6CWY7cLGPmwCXy8PEEoVOYW7czxb5xdK7-BCxJeLiHFczEnK034yyaH2tpYbyVCLQ4VKrMuRVq=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_213",
+        "text": "Triplet PeakNorth Cascades National Park, WashingtonThe Brothers from SeattleThe Brothers Wilderness, Washington",
+        "paragraphs": [
+          "Triplet Peak",
+          "North Cascades National Park, Washington",
+          "The Brothers from Seattle",
+          "The Brothers Wilderness, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72skfSXFZ3vZSKUC-F1cI2QYtbJR9g1whYn1yckUEAyqqTKjbs1tgUN-PiqgVS_l8NCqArUsRsrWeK7Fy-_c1bfYAqxhsdSN0nw7QN6BaKKZimPdPPvGz_QlSeMHpkiT-N2GNL0d7sJeGwtFFyPjNaPwjfDy84tyU6Jz3KU4mp-BPFGJDyDx5faOzKP1RBDTsVowMTU9zw7nmJoZ2DFnjS2HpVPBNP10oo8NcEznBuA=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72v0d7mYnv3mL0jyI24NbnU1bZa4-w9ZRNPZYIzHNICIVe6HaHTUMWSynoAyJahCYTn2YC6vBaxTB3NuQWF3K7svZ6eNKLLj73x0YWCi_1d9igN3mBX7rbhoZTFBbn5seoeP0lnQF0BTiGmCvEdjutDb_LlWGQmQs8Etq8ty21WDy0OP8iq3ZuNUu5fO=w1280"
+        ]
+      },
+      {
+        "id": "h.4dbf761f1e413e4b_224",
+        "text": "Hinkhouse Peak from Cutthroat Peak North RidgeNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Hinkhouse Peak from Cutthroat Peak North Ridge",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tTY25Ex7BHLZbqcF9kwuNBcmKfIH0kk2ocY9TZP9de-7MOx3KcKNNdbqxmes3VNkelw5JffUJNaOk-3Y0pLTcsDOsFg5vzF0OuirjURKb1yufkBtsQvaTNS4wLXUwHvA6B6vhd477cYx47FH4XeM1ohDcugTwNRBex3TS-8SH0ulg-c5C3EhF7oFOUd-nV7ti74pZ65-nZ6wLCtXzNdcGepMlo__nu8_zu9IkmZbo=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_25",
+        "text": "Molar Tooth and Cutthroat PeaksNorth Cascades National Park, WashingtonDragontail Peak and Colchuck LakeEnchantments Region, Washington",
+        "paragraphs": [
+          "Molar Tooth and Cutthroat Peaks",
+          "North Cascades National Park, Washington",
+          "Dragontail Peak and Colchuck Lake",
+          "Enchantments Region, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tTir-ScWIt_D1m1_a0_OyVRL5Xo-FbVJleGYfJ_98MObBmLxoFD080mIu3PjxscE7T0VlyDdYj7uLkuT_79HD4RnlBqs3zVU-Lw3F3H5lFAeu1IZKZE937cfFGHjUh7znh5mpIyszhzQ7qDy1uxR9XO9-1PzClHLSi8QDR0n9-60vwNWMWp5stnwZSRH5-rPnLoR6L4GlgaIcpsz_yaj4b1IoHYL67OxInBdv2Xgo=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72uDTKFIYtMIHkytcZPvymFtElXWV02_gBuiD9CbAjudmXSmJ3fEij5hetyaA5lUcESgtHg8TVDKgbUdl6922sAd3ylSTxSigO8ZhGla5Cj_QFFULQUhSM7p5eSgv24LoFgQY3R9phkiSUG1y9ovZ2AwgpsSx1OycfWWeZ5a88IjSpaLWrQqt_aqTEZglOE=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_80",
+        "text": "Knife Edges of Triplet and Cascade PeakNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Knife Edges of Triplet and Cascade Peak",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72v2nG72Cock_dNuyDsASmPJI2McD6xuEOLS8hIbGDvXNVC_H8_F8dVHIMFq8Xgk9l0naqjyIRayQq8m0PPzWNc5t_xG0tBLECX_qfOY1GzxK7DvyMcHZ4i2Ylm1N61SN8lyEWIpRoNQgGgv4-2vM-e9ycSCBgNLX9Q3nVNOwhwtGF8I_TMjyhIRROq0ZVPtfPlXGsUat9OlkqCqkJ7sqZJa2PZOf1ohlRDqHjJrzPQ=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "photography/mountains-by-the-night",
+    "title": "Gantavya Bhatt - Mountains by the Night",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      }
+    ],
+    "images": [
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72tuQGvPmqbectLv4yLsrlrOrnFsRkZufh_K-Jf-376zFvxLbwUCTZzZzeOhepxwj490fexc1hV_3fi88qHXAhKg4a56KCJS7d832oUnU_cvF_3sgWNrfKqAGVsHaEuCPVSe7MZKtJK6keWYlDYgZ_Lg3f4q2HP3aY1v5-hP4sS0andTi8FdgsC1IlWcTct77MC-DffoPSnli5TxPwRtjt0zeComDhviIleWgrK5wUc=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72ssnDS-HGenxIHrVRC-QGFiBiZrPOXpIxob9m2hACcHDMG1mFfn-T1h0fhBjp1smZScYgW20u9nWfz4FMloauhBxInRSO3ZUVDYKkBeEjW6DUM5pKh_wjLngcZOXZSvCn7_TMwVvjSpz-zzSx42ZCCpjvmfPPuSHOWlaVhcekwqS8Qbak3TmlYmzzSm6jI=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72vpobghUpHUmXkvGCAiG9aLUCNIZglDDr9_l4_hWjJlVUwusV_fZFinsTOaHOThzxW7UU5jGHLhdYxx7EaoufijHV21q5MXlpqIKB5F_l273Eu-Zf1qn3TPbE80uoaQ6X9Vwti7hkAH5qiPeAoa1aiZV6XHAIreMXfU5Yz4Tcsf8K_LA5vGqWPOp6QsxOd-WODKL4mt74ruLg01fHyxb6fifoJx7vki90J1rMKe7d8=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v-JazecYz7o5Knv50HOihXeYSjWOrHQxNrB2ljUUC-VewXQot7WAmqla3pOTz8dDk4a7PRF13lBWQqmw0sQ12NlJbqqBUsVzk9yZHsy7ckc0QJOprGh8hI7VRv1kaPcEt9eFRVydWaQN0vt005WdB-UUg_xAt9WAGeOykpsovlZE-5TOiooGtJn4Q_HbvLkwF4Pb_G4nEgY8JKTqZkClIg6CaHJuL4taI4B7Wi=w1280",
+        "alt": ""
+      },
+      {
+        "url": "https://sites.google.com/sitesv-images-rt/AMxu72v-vDGe7KKesAo1ZodUsy5TRa_-Otm5i_UhtRh6A_kB0esdiH7sD-DFzY7F4KG3qMvDzsB89A3znga0Yvu5Il5MGb8Uv5hUtKhHtGLtY99VGsf1bmGqtL_K_VJV_HeRyuzeGO2oyyeWVRwpd45EaNoxK5Aay0BEx5t5saZn3kfZb8GC501uoDv20FPsBOrd7qYPC5NeihMSiGSsZAyJaV3K83QSjoRO0DyBOoby=w1280",
+        "alt": ""
+      }
+    ],
+    "backgrounds": [],
+    "sections": [
+      {
+        "id": "h.1499c2772b184ae8_87",
+        "text": "Mountains by the Night",
+        "paragraphs": [
+          "Mountains by the Night"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.1499c2772b184ae8_102",
+        "text": "Mount Rainier from Sunrise Visitor CenterNorth Rainier National Park, Washington",
+        "paragraphs": [
+          "Mount Rainier from Sunrise Visitor Center",
+          "North Rainier National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72tuQGvPmqbectLv4yLsrlrOrnFsRkZufh_K-Jf-376zFvxLbwUCTZzZzeOhepxwj490fexc1hV_3fi88qHXAhKg4a56KCJS7d832oUnU_cvF_3sgWNrfKqAGVsHaEuCPVSe7MZKtJK6keWYlDYgZ_Lg3f4q2HP3aY1v5-hP4sS0andTi8FdgsC1IlWcTct77MC-DffoPSnli5TxPwRtjt0zeComDhviIleWgrK5wUc=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_108",
+        "text": "Aurora over Colonial Peak from Diablo LakeNorth Cascades National Park, WashingtonAurora over Jack MountainNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Aurora over Colonial Peak from Diablo Lake",
+          "North Cascades National Park, Washington",
+          "Aurora over Jack Mountain",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72ssnDS-HGenxIHrVRC-QGFiBiZrPOXpIxob9m2hACcHDMG1mFfn-T1h0fhBjp1smZScYgW20u9nWfz4FMloauhBxInRSO3ZUVDYKkBeEjW6DUM5pKh_wjLngcZOXZSvCn7_TMwVvjSpz-zzSx42ZCCpjvmfPPuSHOWlaVhcekwqS8Qbak3TmlYmzzSm6jI=w1280",
+          "https://sites.google.com/sitesv-images-rt/AMxu72vpobghUpHUmXkvGCAiG9aLUCNIZglDDr9_l4_hWjJlVUwusV_fZFinsTOaHOThzxW7UU5jGHLhdYxx7EaoufijHV21q5MXlpqIKB5F_l273Eu-Zf1qn3TPbE80uoaQ6X9Vwti7hkAH5qiPeAoa1aiZV6XHAIreMXfU5Yz4Tcsf8K_LA5vGqWPOp6QsxOd-WODKL4mt74ruLg01fHyxb6fifoJx7vki90J1rMKe7d8=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_119",
+        "text": "Milky way and Aurora over Liberty bellsNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Milky way and Aurora over Liberty bells",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72v-JazecYz7o5Knv50HOihXeYSjWOrHQxNrB2ljUUC-VewXQot7WAmqla3pOTz8dDk4a7PRF13lBWQqmw0sQ12NlJbqqBUsVzk9yZHsy7ckc0QJOprGh8hI7VRv1kaPcEt9eFRVydWaQN0vt005WdB-UUg_xAt9WAGeOykpsovlZE-5TOiooGtJn4Q_HbvLkwF4Pb_G4nEgY8JKTqZkClIg6CaHJuL4taI4B7Wi=w1280"
+        ]
+      },
+      {
+        "id": "h.1499c2772b184ae8_136",
+        "text": "Northern Lights over Kangaroo RidgeNorth Cascades National Park, Washington",
+        "paragraphs": [
+          "Northern Lights over Kangaroo Ridge",
+          "North Cascades National Park, Washington"
+        ],
+        "images": [
+          "https://sites.google.com/sitesv-images-rt/AMxu72v-vDGe7KKesAo1ZodUsy5TRa_-Otm5i_UhtRh6A_kB0esdiH7sD-DFzY7F4KG3qMvDzsB89A3znga0Yvu5Il5MGb8Uv5hUtKhHtGLtY99VGsf1bmGqtL_K_VJV_HeRyuzeGO2oyyeWVRwpd45EaNoxK5Aay0BEx5t5saZn3kfZb8GC501uoDv20FPsBOrd7qYPC5NeihMSiGSsZAyJaV3K83QSjoRO0DyBOoby=w1280"
+        ]
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  },
+  {
+    "requested": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+    "status": "200",
+    "final_url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+    "mime": "text/html; charset=utf-8",
+    "error": "",
+    "slug": "photography/highlights-of-2024",
+    "title": "Gantavya Bhatt - Highlights of 2024",
+    "links": [
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      },
+      {
+        "text": "Home",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": true
+      },
+      {
+        "text": "Photography",
+        "url": "https://sites.google.com/view/gbhatt/photography",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2023",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2023",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Day",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-day",
+        "navigation": true
+      },
+      {
+        "text": "Mountains by the Night",
+        "url": "https://sites.google.com/view/gbhatt/photography/mountains-by-the-night",
+        "navigation": true
+      },
+      {
+        "text": "Highlights of 2024",
+        "url": "https://sites.google.com/view/gbhatt/photography/highlights-of-2024",
+        "navigation": true
+      },
+      {
+        "text": "Gantavya Bhatt",
+        "url": "https://sites.google.com/view/gbhatt/home",
+        "navigation": false
+      }
+    ],
+    "images": [],
+    "backgrounds": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u6ZfD-Dz8Gbbpnj0OTlXHrS22lqsTMeZNvWFjrhFEw-SfZl8M9ArZpMX2NFtOCXwDWm4OMHQXo_oUDJZ043A1frqdjIK4LodHlIsPwN2otjS5C7wXv37DRTYI9vMsQ4JI3bjDUOFYEC32JDeUfJaE3mT738D05twgLSkPLZFH96Kgcq8PhY741pZxX-1E=w16383"
+    ],
+    "sections": [
+      {
+        "id": "h.4a4e5f0d32f4b1ec_1",
+        "text": "Highlights of 2024",
+        "paragraphs": [
+          "Highlights of 2024"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.4a4e5f0d32f4b1ec_8",
+        "text": "Stay tuned!",
+        "paragraphs": [
+          "Stay tuned!"
+        ],
+        "images": []
+      },
+      {
+        "id": "h.316e9314c5605864_0",
+        "text": "Last Updated at January 28nd, 2026",
+        "paragraphs": [],
+        "images": []
+      }
+    ],
+    "iframes": []
+  }
+]
