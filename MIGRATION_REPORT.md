@@ -63,13 +63,13 @@ Other working external links remain unchanged. The first pass checked **67 disti
 ## Verification
 
 - Built successfully with Python's standard library; no external build dependencies.
-- Checked 10 generated HTML pages, including the home redirect and 404 page.
-- Checked 331 local links, anchors, script/CSS references, and image references: no missing targets.
+- Checked 11 HTML files, including the Google verification file; validated generated pages, including the home redirect and 404 page.
+- Checked 751 local links, anchors, script/CSS references, and image references: no missing targets.
 - Passed 259 text checks across biography, news, publication entries, original galleries, and new highlights. The superseded 2024 placeholder is archived rather than rendered.
 - Verified local files and SHA-256 checksums for all 55 source images and validated the CV PDF signature.
 - Inspected home, publications, and photography visually in the browser.
 - Current light and night layouts passed 48 browser layout checks across all eight content routes at requested viewport widths of 320, 768, and 1280 pixels (actual CSS widths 291, 698, and 1163 due to browser zoom). No horizontal overflow or broken loaded images were found. Deferred images use lazy loading; all image files were independently checked over HTTP. Desktop profile, publication rows, mobile profile, and a photography collection were visually inspected; the browser reported no console errors. The theme switch works with keyboard input, persists across reload and navigation, and updates the browser theme color. Both palettes meet 4.5:1 contrast for all text tokens; see `migration/theme-contrast-checks.json`. See `migration/browser-layout-checks.json`.
-- All 106 served files returned HTTP 200 when checked against the running local server.
+- All 446 served files returned HTTP 200 when checked against the running local server.
 - Prepared GitHub Actions build, validation, artifact upload, and deployment jobs. Pull requests only build/check; deployment targets `master`.
 - The owner approved publication after reviewing the completed site. Hosted deployment and live checks are verified separately from local validation through GitHub Actions run history and the public site.
 
@@ -130,3 +130,15 @@ A scoped `photography-page` style applies italic Georgia to photography headings
 At the owner’s request, the 2024 and 2025 galleries now display every selected photograph from earliest to latest, grouped under calendar-month headings. The builder sorts by the original verified UTC `posted_at` timestamp; identical timestamps use a stable photo-ID tie-breaker, without claiming a finer sequence within a batch. The opening photograph is the earliest entry, replacing the previous out-of-order featured cover. All 19 photographs from 2024 and 16 from 2025, their captions, locations, source links in the data, and checksums remain intact.
 
 The original 2023 images contain no capture-date metadata. After being asked about their order, the owner explicitly requested ignoring that part; the original 2023 order remains unchanged. No missing dates were guessed. See `migration/gallery-chronology.json` for the exact ordered IDs and timestamps. The static checker now verifies the rendered dates are sorted and complete; twelve browser checks across both updated galleries, three screen sizes, and two themes also confirmed ascending dates, correct photo counts, and no overflow or browser errors.
+
+## Image-loading reliability and revised captions
+
+The owner reported intermittent photos requiring a forced refresh. A live mobile inspection found a concrete contributing issue: older gallery images had no intrinsic dimensions, and 15 of the 18 original 2023 images collapsed to zero-height boxes while waiting for lazy loading. All gallery photos also used their original files regardless of screen width. No permanently missing source file or browser console error was found during that inspection, so the original report is not attributed solely to a network failure.
+
+All 89 unique local image files now have responsive, locally generated WebP previews: 339 files across widths up to 320, 640, 960, and 1600 pixels, without upscaling. Publication figures use lossless WebP. The approximately 640px preview set totals 5,030,674 bytes versus 31,358,170 bytes for the originals, an 84.0% reduction. Every rendered image has intrinsic dimensions, responsive sizes, and an original-file fallback. The original files remain unchanged and accessible from gallery image links. Every preview was decoded successfully and its checksum recorded in `data/image-variants.json`.
+
+A failed preview gets one automatic retry against the original image using a fresh request URL. If that also fails, a “Retry photo” button lets the visitor retry without reloading the page. Actual local HTTP failures were simulated: automatic recovery succeeded, and manual recovery succeeded after the missing test file was restored. Test fixtures were removed before packaging. CSS and JavaScript URLs are content-versioned; responsive image filenames include a source/recipe fingerprint. These measures address the observed layout problem and reduce transfer size while providing recovery for transient failures; they do not claim that an unavailable connection can be made reliable by code.
+
+The owner also requested improved captions. Sixty-nine photo captions were rewritten as concise descriptions grounded in the images, existing captions, and recorded locations. They are stored as editorial overrides in `data/photo-captions.json`; the original Google Sites and Unsplash caption records are unchanged. Biography, research information, publication facts, yearly upload chronology, and the 2023 essay/order remain unchanged.
+
+All eight content routes passed 48 browser layout checks across three screen widths and both color themes, with no collapsed image boxes, missing responsive source attributes, horizontal overflow, or gallery error notices. Mobile scrolling loaded newly visible images normally. All 446 local files returned HTTP 200. See `migration/image-loading-checks.json` for the recovery tests and byte comparison.

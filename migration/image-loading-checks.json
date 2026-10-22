@@ -1,0 +1,18 @@
+{
+  "status": "local_checks_passed",
+  "original_local_images": 89,
+  "responsive_previews": 339,
+  "all_previews_decoded": true,
+  "original_total_bytes": 31358170,
+  "approximately_640px_total_bytes": 5030674,
+  "reduction_percent": 84.0,
+  "automatic_original_fallback_test": "passed using an intentionally missing preview",
+  "manual_retry_without_refresh_test": "passed after intentionally missing preview and original, then restoring the original locally",
+  "temporary_test_files_removed": true,
+  "layout_checks": 48,
+  "collapsed_image_boxes": 0,
+  "healthy_gallery_error_notices": 0,
+  "local_http_files_checked": 446,
+  "local_http_failures": 0,
+  "caption_overrides": 69
+}

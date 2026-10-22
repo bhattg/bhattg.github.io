@@ -24,8 +24,11 @@ for p,d in docs.items():
  if p.parent.name!='home' and d.h1!=1:errors.append(f'{p}: expected one H1')
  for tag,a in d.attrs:
   if tag=='img' and not a.get('alt'):errors.append(f'{p}: image without alt text')
-  for key in (['href'] if tag in ['a','link'] else ['src'] if tag in ['img','script'] else []):
-   u=urlsplit(a.get(key,''))
+  if tag=='img' and not all(a.get(k,'').isdigit() and int(a[k])>0 for k in ['width','height']):errors.append(f'{p}: image without intrinsic dimensions')
+  references=[a.get(key,'') for key in (['href'] if tag in ['a','link'] else ['src'] if tag in ['img','script'] else [])]
+  if tag=='img':references.extend(part.strip().split()[0] for part in a.get('srcset','').split(',') if part.strip())
+  for reference in references:
+   u=urlsplit(reference)
    if u.scheme or u.netloc:continue
    target=(SITE/u.path.lstrip('/') if u.path.startswith('/') else p.parent/u.path) if u.path else p
    target=target.resolve()
@@ -37,7 +40,7 @@ for p,d in docs.items():
    if tag=='img':
     b=target.read_bytes()
     if not (b.startswith((b'\x89PNG',b'\xff\xd8',b'GIF8',b'RIFF')) or b.lstrip().startswith(b'<svg')):errors.append(f'{target}: not a valid image format')
-data=json.loads((ROOT/'data/content.json').read_text());highlights=json.loads((ROOT/'data/unsplash-highlights.json').read_text());home=docs[SITE/'index.html'].text();pubs=docs[SITE/'publications/index.html'].text()
+data=json.loads((ROOT/'data/content.json').read_text());highlights=json.loads((ROOT/'data/unsplash-highlights.json').read_text());captions=json.loads((ROOT/'data/photo-captions.json').read_text());home=docs[SITE/'index.html'].text();pubs=docs[SITE/'publications/index.html'].text()
 def present(text,output,location):
  global coverage
  if plain(text) not in output:errors.append('Missing source text in '+location+': '+plain(text)[:80])
@@ -55,8 +58,9 @@ for g in data['galleries']:
  # Owner requested replacing the archived 2024 “Stay tuned!” placeholder.
  if any(h['slug']==g['slug'] for h in highlights['galleries']):continue
  output=docs[SITE/g['slug']/'index.html'].text()
- for e in g['events']:
-  if e['type']!='img':present(e['html'],output,g['slug'])
+ replacement_indices={i+1:captions[e['src']] for i,e in enumerate(g['events'][:-1]) if e['type']=='img' and e['src'] in captions and g['events'][i+1]['type']=='p'}
+ for i,e in enumerate(g['events']):
+  if e['type']!='img':present(replacement_indices.get(i,e['html']),output,g['slug'])
 overview=json.loads((ROOT/'data/photography-overview.json').read_text())
 overview_output=docs[SITE/'photography/index.html'].text()
 for paragraph in overview['introduction']:present(paragraph,overview_output,'photography overview')
@@ -74,7 +78,7 @@ for g in highlights['galleries']:
  if len({p['id'] for p in photos})!=len(photos):errors.append('Duplicate highlights: '+g['slug'])
  for p in photos:
   highlight_count+=1
-  present(p['caption'],output,g['slug'])
+  present(captions.get(p['local_path'],p['caption']),output,g['slug'])
   if p.get('location'):present(p['location'],output,g['slug'])
   if not p['posted_at'].startswith(str(g['year'])+'-'):errors.append('Wrong upload year: '+p['id'])
   if p['username']!='gbhatt_2':errors.append('Unexpected photo author: '+p['id'])
@@ -96,6 +100,12 @@ for a in assets:
  if not f.exists() or hashlib.sha256(f.read_bytes()).hexdigest()!=a['sha256']:errors.append('Missing or changed source asset: '+a['local_path'])
 cv=SITE/data['cv']
 if not cv.read_bytes().startswith(b'%PDF-'):errors.append('CV is not a PDF')
+variants=json.loads((ROOT/'data/image-variants.json').read_text())
+for source,meta in variants.items():
+ if hashlib.sha256((SITE/source).read_bytes()).hexdigest()!=meta['original_sha256']:errors.append('Changed original image: '+source)
+ for variant in meta['variants']:
+  f=SITE/variant['path']
+  if not f.exists() or hashlib.sha256(f.read_bytes()).hexdigest()!=variant['sha256']:errors.append('Missing or changed preview: '+variant['path'])
 if errors:
  print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(docs)} HTML pages, {refs} local references, {coverage} text checks, {len(assets)} original images, {highlight_count} Unsplash highlights, CV PDF.')

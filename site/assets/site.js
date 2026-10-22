@@ -1,5 +1,43 @@
 // Apply the theme before CSS paints; storage is optional (e.g. private browsing).
 (() => {
+  // A transient request failure should not require refreshing the whole page.
+  const imageStates = new WeakMap();
+  function loadOriginal(image) {
+    const url = new URL(image.dataset.originalSrc, location.href);
+    url.searchParams.set('retry', String(Date.now()));
+    image.removeAttribute('srcset');
+    image.src = url.href;
+  }
+  document.addEventListener('error', event => {
+    const image = event.target;
+    if (!(image instanceof HTMLImageElement) || !image.dataset.originalSrc) return;
+    let state = imageStates.get(image);
+    if (!state) { state = { retried: false, notice: null, timer: null }; imageStates.set(image, state); }
+    if (!state.retried) {
+      state.retried = true;
+      state.timer = setTimeout(() => loadOriginal(image), 350);
+      return;
+    }
+    if (state.notice) return;
+    const notice = document.createElement('p');
+    notice.className = 'image-error';
+    notice.setAttribute('role', 'status');
+    notice.append('Photo couldn’t load. ');
+    const retry = document.createElement('button');
+    retry.type = 'button';
+    retry.textContent = 'Retry photo';
+    retry.addEventListener('click', () => {
+      notice.remove(); state.notice = null;
+      loadOriginal(image);
+    });
+    notice.append(retry);
+    state.notice = notice;
+    (image.closest('figure, article, .pub-image, aside') || image.parentElement).append(notice);
+  }, true);
+  document.addEventListener('load', event => {
+    const state = imageStates.get(event.target);
+    if (state) { clearTimeout(state.timer); state.notice?.remove(); state.notice = null; state.retried = false; }
+  }, true);
   const root = document.documentElement;
   const system = window.matchMedia('(prefers-color-scheme: dark)');
   const key = 'gbhatt-theme';

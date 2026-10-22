@@ -161,6 +161,8 @@ strong { font-weight: var(--weight-semibold); }
 .gallery-prose p { margin: 0; }
 .gallery-section-title { grid-column: 1/-1; padding-top: 22px; }
 .image-link { display: block; }
+.image-error { font: var(--type-small)/var(--leading-small) var(--sans); font-style: normal; color: var(--muted); margin-top: 10px; }
+.image-error button { border: 0; padding: 4px; background: transparent; color: var(--accent); font: inherit; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
 .error-page { padding-top: 70px; min-height: 60vh; }
 .error-page p { margin-top: 20px; }
 .eyebrow { font-size: var(--type-meta); color: var(--muted); letter-spacing: .1em; }

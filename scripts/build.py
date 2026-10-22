@@ -2,10 +2,13 @@
 """Build the site using only Python's standard library. Edit data/content.json."""
 from pathlib import Path
 from html import escape
-import calendar,json,re
+import calendar,hashlib,json,re
 ROOT=Path(__file__).resolve().parents[1]; SITE=ROOT/'site'; D=json.loads((ROOT/'data/content.json').read_text())
 H=json.loads((ROOT/'data/unsplash-highlights.json').read_text())
 O=json.loads((ROOT/'data/photography-overview.json').read_text())
+I=json.loads((ROOT/'data/image-variants.json').read_text())
+C=json.loads((ROOT/'data/photo-captions.json').read_text())
+DIAGRAMS={p['image'] for p in D['publications']}
 E=lambda s:escape(str(s),quote=True)
 CV='/'+D['cv']
 REPAIRS=json.loads((ROOT/'data/link-repairs.json').read_text())
@@ -15,6 +18,8 @@ def repair_links(markup):
  return markup
 def link(label,url,cls=''):
  return f'<a href="{E(url)}"'+(f' class="{cls}"' if cls else '')+f'>{label}</a>'
+def asset_url(path):
+ return '/'+path+'?v='+hashlib.sha256((SITE/path).read_bytes()).hexdigest()[:12]
 def page(title,body,path='/',photo=False,description=None):
  nav=[('About','/#about'),('Publications','/#publications'),('Photography','/photography/'),('CV',CV)]
  navigation=''.join(link(label,url,'nav-link'+(' active' if photo and label=='Photography' else '')) for label,url in nav)
@@ -23,14 +28,22 @@ def page(title,body,path='/',photo=False,description=None):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)} · Gantavya Bhatt</title><meta name="description" content="{E(description)}">
 <link rel="canonical" href="{D['url'].rstrip('/')}{path}"><meta property="og:title" content="{E(title)} · Gantavya Bhatt"><meta property="og:description" content="{E(description)}"><meta property="og:type" content="website"><meta property="og:url" content="{D['url'].rstrip('/')}{path}"><meta property="og:image" content="{D['url'].rstrip('/')}/{D['profile_image']}">
-<meta name="theme-color" content="#faf7f2"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><script src="/assets/site.js"></script><link rel="stylesheet" href="/assets/style.css"></head>
+<meta name="theme-color" content="#faf7f2"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><script src="{asset_url('assets/site.js')}"></script><link rel="stylesheet" href="{asset_url('assets/style.css')}"></head>
 <body class="{'photography-page' if photo else 'academic-page'}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><div class="header-inner"><a class="wordmark" href="/" aria-label="Gantavya Bhatt home"><span class="brand-mark" aria-hidden="true">gb.</span><span>Gantavya Bhatt</span></a><nav aria-label="Main navigation">{navigation}</nav><button class="theme-toggle" type="button" aria-label="Switch to night theme" hidden><svg class="theme-icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 13.2A8.5 8.5 0 0 1 10.8 3.5 8.5 8.5 0 1 0 20.5 13.2Z"/></svg><svg class="theme-icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><span class="theme-label">Night</span></button></div></header>
 <main id="main">{body}</main><footer class="site-footer"><div><a class="footer-name" href="/">Gantavya Bhatt</a><span>University of Washington, Seattle</span></div><div>{link('Email','mailto:'+D['email'])}{link('Google Scholar',next(s['url'] for s in D['social'] if s['label']=='Google Scholar'))}{link('Back to top ↑','#main')}</div></footer></body></html>'''
  return repair_links(rendered)
 def write(path,html):
  p=SITE/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(html)
-def img(src,alt,cls='',eager=False):
- return f'<img src="/{E(src)}" alt="{E(alt)}" class="{cls}" loading="{"eager" if eager else "lazy"}" decoding="async">'
+def img(src,alt,cls='',eager=False,sizes=None):
+ meta=I[src];variants=meta['variants'];fallback=min(variants,key=lambda v:abs(v['width']-960))
+ if sizes is None:
+  if cls=='portrait':sizes='(max-width: 700px) 116px, (max-width: 900px) 180px, 208px'
+  elif src in DIAGRAMS:sizes='(max-width: 700px) 157px, 159px'
+  elif cls=='landscape':sizes='(max-width: 700px) calc(100vw - 40px), 503px'
+  elif eager:sizes='(max-width: 700px) calc(100vw - 40px), (max-width: 1032px) calc(100vw - 72px), 960px'
+  else:sizes='(max-width: 700px) calc(100vw - 40px), (max-width: 1032px) calc(50vw - 48.5px), 468px'
+ srcset=', '.join('/'+v['path']+' '+str(v['width'])+'w' for v in variants)
+ return f'<img src="/{E(fallback["path"])}" srcset="{E(srcset)}" sizes="{E(sizes)}" width="{meta["width"]}" height="{meta["height"]}" data-original-src="/{E(src)}" alt="{E(alt)}" class="{cls}" loading="{"eager" if eager else "lazy"}" decoding="async"'+(' fetchpriority="high"' if eager else '')+'>'
 # All biography and publication copy below comes from the original public site.
 bio=D['biography'];social=[]
 for s in D['social']:
@@ -77,8 +90,9 @@ def gallery_content(g):
    captions=[];j=i+1
    while j<len(es) and es[j]['type']=='p' and len(es[j]['text'])<240 and len(captions)<2:
     captions.append(es[j]);j+=1
-   alt=' — '.join(c['text'] for c in captions) or 'Photograph from '+g['title']
-   cap='<figcaption>'+''.join(f'<p>{c["html"]}</p>' for c in captions)+'</figcaption>' if captions else ''
+   caption=C.get(e['src'],captions[0]['text'] if captions else 'Photograph from '+g['title'])
+   alt=' — '.join([caption]+[c['text'] for c in captions[1:]])
+   cap='<figcaption><p>'+E(caption)+'</p>'+''.join(f'<p>{c["html"]}</p>' for c in captions[1:])+'</figcaption>'
    out+=f'<figure class="gallery-figure">{link(img(e["src"],alt,eager=first),"/"+e["src"],"image-link")}{cap}</figure>';i=j;first=False;continue
   if e['type'] in ['h1','h2','h3']:
    # First heading becomes the page title above the collection navigation.
@@ -97,9 +111,9 @@ for g in D['galleries']:
  body=f'<section class="gallery-header wrap"><h1>{E(title)}</h1>{subtitle}{collections(url)}</section><div class="gallery wrap">{background}{gallery_content(g)}</div>'
  write(g['slug']+'/index.html',page(title,body,url,True,'Photography by Gantavya Bhatt — '+g['title']+'.'))
 def unsplash_figure(p,featured=False):
- caption=f'<p>{E(p["caption"])}</p>'
+ caption=f'<p>{E(C.get(p["local_path"],p["caption"]))}</p>'
  if p.get('location'):caption+=f'<p>{E(p["location"])}</p>'
- image_markup=img(p['local_path'],p['alt'],eager=featured).replace('<img ',f'<img width="{p["width"]}" height="{p["height"]}" ',1)
+ image_markup=img(p['local_path'],C.get(p['local_path'],p['alt']),eager=featured)
  image=link(image_markup,'/'+p['local_path'],'image-link')
  return f'<figure class="gallery-figure{ " gallery-feature" if featured else ""}" id="photo-{E(p["id"])}" data-posted-at="{E(p["posted_at"])}">{image}<figcaption>{caption}</figcaption></figure>'
 photo_lookup={p['id']:p for g in H['galleries'] for p in g['photos']}
@@ -107,7 +121,7 @@ overview_intro='<div class="gallery-note wrap"><div class="gallery-note-copy">'+
 overview_selections=''
 for i,selection in enumerate(O['selections']):
  p=photo_lookup[selection['photo_id']]
- image_markup=img(p['local_path'],p['alt'],eager=i<3).replace('<img ',f'<img width="{p["width"]}" height="{p["height"]}" ',1)
+ image_markup=img(p['local_path'],p['alt'],eager=i<3,sizes='(max-width: 700px) calc(100vw - 40px), (max-width: 900px) calc(50vw - 48px), 304px')
  overview_selections+=f'<article class="portfolio-selection"><a href="{E(selection["href"])}" class="portfolio-link">{image_markup}<h2>{E(selection["title"])}</h2></a><p>{E(selection["summary"])}</p></article>'
 overview_body=f'<section class="gallery-header wrap"><h1>{E(O["title"])}</h1>{collections("/photography/")}</section>{overview_intro}<section class="portfolio-grid wrap" aria-label="Selected photography">{overview_selections}</section>'
 write('photography/index.html',page('Photography',overview_body,'/photography/',True,'Photography by Gantavya Bhatt — mountains, night skies, forests, and city skylines.'))
