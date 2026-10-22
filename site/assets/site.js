@@ -65,6 +65,53 @@
     }
   });
   document.addEventListener('DOMContentLoaded', () => {
+    // Balance consecutive photos into justified rows without cropping or
+    // changing their left-to-right order. Dimensions are known before loading.
+    document.querySelectorAll('.gallery-grid').forEach(grid => {
+      const figures = [...grid.querySelectorAll('.gallery-figure')];
+      const ratios = figures.map(figure => {
+        const image = figure.querySelector('img');
+        return Number(image.getAttribute('width')) / Number(image.getAttribute('height'));
+      });
+      let previousWidth = 0;
+      function fitRows() {
+        const width = grid.getBoundingClientRect().width;
+        if (!width || width === previousWidth) return;
+        previousWidth = width;
+        const gap = parseFloat(getComputedStyle(grid).columnGap);
+        const target = width < 500 ? 220 : 250;
+        const count = figures.length;
+        const costs = Array(count + 1).fill(Infinity);
+        const ends = Array(count);
+        costs[count] = 0;
+        for (let start = count - 1; start >= 0; start--) {
+          let totalRatio = 0;
+          for (let end = start; end < Math.min(count, start + 5); end++) {
+            totalRatio += ratios[end];
+            const height = (width - gap * (end - start)) / totalRatio;
+            if (end > start && ratios.slice(start, end + 1).some(ratio => ratio * height < 125)) continue;
+            const cost = (height - target) ** 2 + costs[end + 1];
+            if (cost < costs[start]) { costs[start] = cost; ends[start] = end + 1; }
+          }
+        }
+        for (let start = 0; start < count;) {
+          const end = ends[start];
+          const totalRatio = ratios.slice(start, end).reduce((sum, ratio) => sum + ratio, 0);
+          // A lone final portrait should not become an oversized cover.
+          const height = Math.min(width < 500 ? 560 : 360, (width - gap * (end - start - 1)) / totalRatio);
+          for (let i = start; i < end; i++) {
+            const photoWidth = Math.floor(height * ratios[i] * 100) / 100;
+            figures[i].style.width = `${photoWidth}px`;
+            figures[i].querySelector('img').sizes = `${Math.ceil(photoWidth)}px`;
+          }
+          start = end;
+        }
+        grid.classList.add('is-fitted');
+      }
+      fitRows();
+      if ('ResizeObserver' in window) new ResizeObserver(fitRows).observe(grid);
+      else window.addEventListener('resize', fitRows);
+    });
     button = document.querySelector('.theme-toggle');
     if (button) {
       apply(root.dataset.theme);

@@ -1,7 +1,7 @@
 {
   "date_basis": "Verified Unsplash created_at/upload timestamps in UTC; capture dates not available.",
   "identical_timestamp_order": "Stable photo ID ordering; no finer capture/upload sequence is claimed.",
-  "2023": "Original order unchanged at the owner’s explicit request.",
+  "2023": "Original order unchanged at the owner\u2019s explicit request.",
   "galleries": [
     {
       "year": 2024,
@@ -171,5 +171,6 @@
         }
       ]
     }
-  ]
+  ],
+  "presentation": "Continuous fitted rows; no month headings. month_counts below are audit metadata only."
 }

@@ -2,7 +2,7 @@
 
 Lightweight static HTML/CSS for **https://bhattg.github.io/**, migrated from the public Google Site. No package installation, Ruby, Jekyll, or JavaScript framework is required. The page content and direct navigation links work without JavaScript.
 
-The design combines a compact academic profile, warm ivory background, espresso text, cinnamon accents, and restrained serif headings. A matching night theme uses deep espresso, warm ivory text, and amber accents. The header switch remembers the visitor’s choice; the first visit follows the system color preference. All publications appear in simple image-and-text rows on the homepage, with a standalone publication index and separate photography collections. Photography has a distinct italic serif style and an overview of six visual themes, rather than repeating the 2023 gallery. Highlights of 2024 and 2025 add 35 curated photos from the owner’s Unsplash profile, grouped by verified upload year and shown earliest to latest under month headings.
+The design combines a compact academic profile, warm ivory background, espresso text, cinnamon accents, and restrained serif headings. A matching night theme uses deep espresso, warm ivory text, and amber accents. The header switch remembers the visitor’s choice; the first visit follows the system color preference. All publications appear in simple image-and-text rows on the homepage, with a standalone publication index and separate photography collections. Photography has a distinct italic serif style and an overview of six visual themes, rather than repeating the 2023 gallery. Highlights of 2024 and 2025 add 35 curated photos from the owner’s Unsplash profile, grouped by verified upload year and shown earliest to latest in a continuous, fitted photo grid.
 
 ## Preview and edit
 
@@ -47,3 +47,7 @@ The downloaded photographs, portrait, research figures, and CV retain their orig
 Full-size originals stay in `site/assets/images/`. Pages use local WebP previews with responsive `srcset` sizing and intrinsic dimensions, generated into `site/assets/previews/`. If adding or replacing images, run `python3 scripts/prepare_images.py` with Pillow available, then build and check as usual. Commit the generated previews and `data/image-variants.json`. Normal CI builds still use only Python’s standard library.
 
 Images retry once against the original file after a request failure. If that also fails, the page offers a “Retry photo” button without requiring a page refresh. CSS and JavaScript URLs include content hashes, and preview filenames include a source/recipe fingerprint so updates avoid stale cached assets. Keep the full-size originals and the Search Console verification file in future deployments.
+
+## Compact photography layout
+
+Galleries use balanced rows that size each photograph according to its original aspect ratio, without cropping. The layout adapts to the available width, keeps left-to-right photo order, and reserves room for readable captions. JavaScript refines the row widths; CSS provides a wrapping fallback. Annual highlights have no month headings. The original 2023 essay appears before its photographs, and its photo order and thematic headings remain intact.

@@ -2,7 +2,7 @@
 """Build the site using only Python's standard library. Edit data/content.json."""
 from pathlib import Path
 from html import escape
-import calendar,hashlib,json,re
+import hashlib,json,re
 ROOT=Path(__file__).resolve().parents[1]; SITE=ROOT/'site'; D=json.loads((ROOT/'data/content.json').read_text())
 H=json.loads((ROOT/'data/unsplash-highlights.json').read_text())
 O=json.loads((ROOT/'data/photography-overview.json').read_text())
@@ -83,7 +83,19 @@ def collections(current):
  entries=[('/photography/','Overview'),('/photography/highlights-of-2025/','Highlights of 2025'),('/photography/highlights-of-2024/','Highlights of 2024'),('/photography/highlights-of-2023/','Highlights of 2023'),('/photography/mountains-by-the-day/','Mountains by the Day'),('/photography/mountains-by-the-night/','Mountains by the Night')]
  return '<nav class="collection-nav" aria-label="Photography collections">'+''.join(f'<a href="{u}"'+(' aria-current="page"' if current==u else '')+f'>{t}</a>' for u,t in entries)+'</nav>'
 def gallery_content(g):
- es=g['events'];out='';i=0;first=True
+ es=g['events']
+ # Put the original essay before the photographs, then include its opening
+ # night-sky photo in the first group. Photo order and all source copy survive.
+ if g['slug']=='photography/highlights-of-2023':
+  first_image=next(i for i,e in enumerate(es) if e['type']=='img')
+  first_section=next(i for i,e in enumerate(es) if i>first_image and e['type'] in ['h2','h3'])
+  caption_end=first_image+1
+  while caption_end<first_section and es[caption_end]['type']=='p' and len(es[caption_end]['text'])<240 and caption_end<=first_image+2:caption_end+=1
+  es=[*es[:first_image],*es[caption_end:first_section],es[first_section],*es[first_image:caption_end],*es[first_section+1:]]
+ out='';pending=[];i=0;first=True
+ def flush():
+  nonlocal out
+  if pending:out+='<div class="gallery-grid">'+''.join(pending)+'</div>';pending.clear()
  while i<len(es):
   e=es[i]
   if e['type']=='img':
@@ -93,13 +105,16 @@ def gallery_content(g):
    caption=C.get(e['src'],captions[0]['text'] if captions else 'Photograph from '+g['title'])
    alt=' — '.join([caption]+[c['text'] for c in captions[1:]])
    cap='<figcaption><p>'+E(caption)+'</p>'+''.join(f'<p>{c["html"]}</p>' for c in captions[1:])+'</figcaption>'
-   out+=f'<figure class="gallery-figure">{link(img(e["src"],alt,eager=first),"/"+e["src"],"image-link")}{cap}</figure>';i=j;first=False;continue
+   ratio=I[e['src']]['width']/I[e['src']]['height']
+   pending.append(f'<figure class="gallery-figure" style="--photo-ratio:{ratio:.8f}">{link(img(e["src"],alt,eager=first),"/"+e["src"],"image-link")}{cap}</figure>');i=j;first=False;continue
+  flush()
   if e['type'] in ['h1','h2','h3']:
    # First heading becomes the page title above the collection navigation.
    if i>0:out+=f'<h2 class="gallery-section-title">{e["html"]}</h2>'
   elif e['text']:
    out+=f'<div class="gallery-prose"><p>{e["html"]}</p></div>'
   i+=1
+ flush()
  return out
 for g in D['galleries']:
  if g['slug']=='photography':continue
@@ -115,7 +130,8 @@ def unsplash_figure(p,featured=False):
  if p.get('location'):caption+=f'<p>{E(p["location"])}</p>'
  image_markup=img(p['local_path'],C.get(p['local_path'],p['alt']),eager=featured)
  image=link(image_markup,'/'+p['local_path'],'image-link')
- return f'<figure class="gallery-figure{ " gallery-feature" if featured else ""}" id="photo-{E(p["id"])}" data-posted-at="{E(p["posted_at"])}">{image}<figcaption>{caption}</figcaption></figure>'
+ ratio=I[p['local_path']]['width']/I[p['local_path']]['height']
+ return f'<figure class="gallery-figure" style="--photo-ratio:{ratio:.8f}" id="photo-{E(p["id"])}" data-posted-at="{E(p["posted_at"])}">{image}<figcaption>{caption}</figcaption></figure>'
 photo_lookup={p['id']:p for g in H['galleries'] for p in g['photos']}
 overview_intro='<div class="gallery-note wrap"><div class="gallery-note-copy">'+''.join(f'<p>{E(p)}</p>' for p in O['introduction'])+'</div></div>'
 overview_selections=''
@@ -128,13 +144,10 @@ write('photography/index.html',page('Photography',overview_body,'/photography/',
 for g in H['galleries']:
  url='/'+g['slug']+'/'
  intro='<div class="gallery-note wrap"><div class="gallery-note-copy">'+''.join(f'<p>{E(p)}</p>' for p in g['introduction'])+'</div></div>'
- gallery='';month=None
+ gallery=''
  for i,p in enumerate(sorted(g['photos'],key=lambda p:(p['posted_at'],p['id']))):
-  if p['posted_at'][:7]!=month:
-   month=p['posted_at'][:7]
-   gallery+=f'<h2 class="gallery-section-title">{calendar.month_name[int(month[5:7])]}</h2>'
   gallery+=unsplash_figure(p,i==0)
- body=f'<section class="gallery-header wrap"><h1>{E(g["title"])}</h1>{collections(url)}</section>{intro}<div class="gallery wrap">{gallery}</div>'
+ body=f'<section class="gallery-header wrap"><h1>{E(g["title"])}</h1>{collections(url)}</section>{intro}<div class="gallery wrap"><div class="gallery-grid">{gallery}</div></div>'
  write(g['slug']+'/index.html',page(g['title'],body,url,True,'Photography by Gantavya Bhatt — highlights shared in '+str(g['year'])+'.'))
 # Existing Google Sites home and bookmarks get useful destinations under the new domain.
 write('home/index.html','<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=/"><title>Gantavya Bhatt</title><link rel="canonical" href="https://bhattg.github.io/"></head><body><p><a href="/">Gantavya Bhatt — Home</a></p></body></html>')

@@ -58,6 +58,8 @@ for g in data['galleries']:
  # Owner requested replacing the archived 2024 “Stay tuned!” placeholder.
  if any(h['slug']==g['slug'] for h in highlights['galleries']):continue
  output=docs[SITE/g['slug']/'index.html'].text()
+ rendered_photos=[a['data-original-src'].lstrip('/') for tag,a in docs[SITE/g['slug']/'index.html'].attrs if tag=='img' and 'data-original-src' in a]
+ if rendered_photos!=[e['src'] for e in g['events'] if e['type']=='img']:errors.append('Original gallery photo order changed: '+g['slug'])
  replacement_indices={i+1:captions[e['src']] for i,e in enumerate(g['events'][:-1]) if e['type']=='img' and e['src'] in captions and g['events'][i+1]['type']=='p'}
  for i,e in enumerate(g['events']):
   if e['type']!='img':present(replacement_indices.get(i,e['html']),output,g['slug'])
@@ -73,6 +75,7 @@ for g in highlights['galleries']:
  present(g['title'],output,g['slug'])
  for paragraph in g['introduction']:present(paragraph,output,g['slug'])
  photos=g['photos']
+ if 'gallery-section-title' in (SITE/g['slug']/'index.html').read_text():errors.append('Annual highlights should have no month sections: '+g['slug'])
  rendered_dates=[a['data-posted-at'] for tag,a in docs[SITE/g['slug']/'index.html'].attrs if tag=='figure' and 'data-posted-at' in a]
  if rendered_dates!=sorted(p['posted_at'] for p in photos):errors.append('Gallery is not chronological: '+g['slug'])
  if len({p['id'] for p in photos})!=len(photos):errors.append('Duplicate highlights: '+g['slug'])
