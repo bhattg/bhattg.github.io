@@ -16,6 +16,10 @@ class Doc(HTMLParser):
 def plain(s):return Doc(s).text()
 docs={p:Doc(p.read_text()) for p in SITE.rglob('*.html')};errors=[];refs=0;coverage=0
 for p,d in docs.items():
+ # Google ownership files must retain Google's exact verification response.
+ if p.parent==SITE and re.fullmatch(r'google[0-9a-f]{16}\.html',p.name):
+  if p.read_text().strip()!='google-site-verification: '+p.name:errors.append(f'{p}: invalid Google verification content')
+  continue
  if len(d.ids)!=len(set(d.ids)):errors.append(f'{p}: duplicate IDs')
  if p.parent.name!='home' and d.h1!=1:errors.append(f'{p}: expected one H1')
  for tag,a in d.attrs:

@@ -35,6 +35,8 @@ Use a normal fast-forward or pull request merge, preserving the existing reposit
 
 ## Migration record
 
+Google Search Console verification uses `site/googlef9ecd7183dcf04b0.html`. Keep this file at the site root in future deployments so Google can continue to verify ownership.
+
 See `MIGRATION_REPORT.md` for scope, page mapping, fidelity notes, link repairs, verification, and limitations. `migration/` contains the machine-readable source inventory and audit evidence and is excluded from the deployed artifact.
 
 The downloaded photographs, portrait, research figures, and CV retain their original ownership. No new license is applied to those assets.
