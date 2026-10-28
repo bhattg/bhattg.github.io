@@ -166,3 +166,9 @@ The static checker covers all new catalog text on both pages, original-work rete
 ## Additional NVIDIA Nemotron 3.5 report
 
 At the owner’s request, added “Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI” to both publication lists. The cover identifies NVIDIA and is dated October 21, 2026; Gantavya Bhatt appears in the Contributors list on PDF page 55. The entry links directly to the supplied NVIDIA-hosted PDF and appears first in 2026. The catalog now contains 24 papers/reports plus the separately labeled lecture-note contribution. This owner-supplied entry is supplementary to the 30-record Scholar inventory.
+
+## CV refresh from Overleaf — October 27, 2026
+
+Updated the owner-authorized Research CV project in Overleaf. Added Coresets Before Score Sets, Nemotron 3 Ultra, and Nemotron 3.5 Super and Lightning; corrected verified publication titles, author order, author credits, journal details, and paper links. Updated the homepage link to GitHub Pages. Other CV sections and the existing template remain intact; the compiled result stays at four pages. The source was backed up locally before editing; TeX source and commented private notes are excluded from the public repository.
+
+The PDF was compiled in Overleaf, downloaded through its PDF control, extracted for content verification, and rendered to inspect all four pages. The site’s CV file was replaced with this compiled export. A content hash on CV links avoids stale cached PDFs while retaining the stable file path. Verification metadata and the new checksum are in `migration/cv-update.json`.

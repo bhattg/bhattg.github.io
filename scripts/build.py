@@ -11,7 +11,8 @@ C=json.loads((ROOT/'data/photo-captions.json').read_text())
 P=json.loads((ROOT/'data/publications.json').read_text())
 DIAGRAMS={p['image'] for p in D['publications']}
 E=lambda s:escape(str(s),quote=True)
-CV='/'+D['cv']
+# Version CV links too, so a new Overleaf export does not reopen a cached PDF.
+CV='/'+D['cv']+'?v='+hashlib.sha256((SITE/D['cv']).read_bytes()).hexdigest()[:12]
 REPAIRS=json.loads((ROOT/'data/link-repairs.json').read_text())
 def repair_links(markup):
  for item in REPAIRS:

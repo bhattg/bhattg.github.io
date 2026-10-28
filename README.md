@@ -60,3 +60,5 @@ The catalog was reviewed against all 30 public Scholar records on October 27, 20
 Paper thumbnails have been removed from both publication lists. The original image files are retained for provenance. The list uses compact year labels, consistent type, full author lists for ordinary papers, and plain resource links in both themes.
 
 The owner also supplied the NVIDIA Nemotron 3.5 Super and Lightning report directly. Its October 21, 2026 cover date puts it first in the 2026 list; the owner is credited on PDF page 55. This supplementary entry has no assigned Scholar record.
+
+The CV was updated in the owner’s Overleaf Research CV project on October 27, 2026 and the compiled four-page PDF replaced the site download. CV links now include a content hash, so future PDF replacements open the current version. See `migration/cv-update.json` for verification.

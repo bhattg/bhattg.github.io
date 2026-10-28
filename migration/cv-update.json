@@ -1,0 +1,23 @@
+{
+  "updated_on": "2026-10-27",
+  "source": "Owner-authorized Overleaf Research CV project, compiled and exported via its editor.",
+  "pdf_path": "assets/gantavya-bhatt-cv.pdf",
+  "sha256": "3698e1c8f1a0daf02e348719a6c33badc57d46059b3847fdf945e059c7c4c745",
+  "bytes": 244180,
+  "pages": 4,
+  "added": [
+    "Coresets Before Score Sets",
+    "Nemotron 3 Ultra",
+    "Nemotron 3.5 Super and Lightning"
+  ],
+  "metadata_corrections": [
+    "Current Matched Data title, link, and author order",
+    "Current COBRA and imitation-threshold titles",
+    "LabelBench author order, contribution markers, and March 2024 publication date",
+    "Full backdoor title and Pin-Yu Chen author credit",
+    "Continual active learning author order",
+    "Homepage link now points to bhattg.github.io"
+  ],
+  "format": "Existing CV template retained, four pages. All four rendered pages visually inspected; new publication text verified by PDF extraction.",
+  "website_links": "CV URLs include the PDF content hash to avoid stale cached downloads."
+}
