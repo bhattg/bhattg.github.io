@@ -1,0 +1,14 @@
+{
+  "source_url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf",
+  "verified_on": "2026-10-27",
+  "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+  "cover_date": "2026-10-21",
+  "cover_author": "NVIDIA",
+  "owner_credit": {
+    "name": "Gantavya Bhatt",
+    "section": "Contributors",
+    "pdf_page": 55,
+    "owner_confirmed_on": "2026-10-27"
+  },
+  "entry_added_from": "Owner-supplied report, supplementary to the Scholar inventory."
+}

@@ -4,6 +4,33 @@
   "date_basis": "Final conference/journal publication year when verified; initial submission date for preprints. Partial dates retain their known precision.",
   "records": [
     {
+      "id": "nemotron-3-5-super-and-lightning",
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+      "authors": [
+        "NVIDIA"
+      ],
+      "date": "2026-10-21",
+      "year": 2026,
+      "venue": "NVIDIA technical report",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [],
+      "sources": [
+        "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf"
+      ],
+      "authorship_evidence": {
+        "name": "Gantavya Bhatt",
+        "section": "Contributors",
+        "pdf_page": 55,
+        "owner_confirmed_on": "2026-10-27"
+      }
+    },
+    {
       "id": "coresets-before-score-sets",
       "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
       "authors": [
