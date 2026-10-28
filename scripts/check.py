@@ -41,6 +41,7 @@ for p,d in docs.items():
     b=target.read_bytes()
     if not (b.startswith((b'\x89PNG',b'\xff\xd8',b'GIF8',b'RIFF')) or b.lstrip().startswith(b'<svg')):errors.append(f'{target}: not a valid image format')
 data=json.loads((ROOT/'data/content.json').read_text());highlights=json.loads((ROOT/'data/unsplash-highlights.json').read_text());captions=json.loads((ROOT/'data/photo-captions.json').read_text());home=docs[SITE/'index.html'].text();pubs=docs[SITE/'publications/index.html'].text()
+catalog=json.loads((ROOT/'data/publications.json').read_text())['records']
 def present(text,output,location):
  global coverage
  if plain(text) not in output:errors.append('Missing source text in '+location+': '+plain(text)[:80])
@@ -49,9 +50,25 @@ for s in data['biography']:present(s,home,'biography')
 for n in data['news']:
  # News dates are displayed in a separate table column, with brackets removed.
  present(re.sub(r'^\[[^\]]+\]\s*','',n['html']),home,'news')
-for p in data['publications']:
- present(p['title'],pubs,p['title'])
- for s in p['paragraphs']:present(s['html'],pubs,p['title'])
+# Owner requested replacing archived publication copy with verified current metadata.
+for p in catalog:
+ for output in [pubs,home]:
+  for text in [p['title'],*p['authors'],p['venue'],p.get('note','')]:
+   if text:present(text,output,p['id'])
+ if not p['links'] or not p['sources']:errors.append('Publication lacks sources or links: '+p['id'])
+ if not p['date'].startswith(str(p['year'])):errors.append('Publication date/year mismatch: '+p['id'])
+if len({p['id'] for p in catalog})!=len(catalog) or len({p['title'].casefold() for p in catalog})!=len(catalog):errors.append('Duplicate publication entry')
+if sorted(p['legacy_publication_index'] for p in catalog if 'legacy_publication_index' in p)!=list(range(len(data['publications']))):errors.append('An original publication is missing from the new catalog')
+inventory=json.loads((ROOT/'migration/scholar-publication-inventory.json').read_text())
+excluded={p['index'] for p in inventory['excluded_records']}
+if sorted(i for p in catalog for i in p['scholar_records'])!=[i for i in range(inventory['total_records']) if i not in excluded]:errors.append('Scholar inventory has an unaccounted or duplicated record')
+for route in ['index.html','publications/index.html']:
+ markup=(SITE/route).read_text()
+ articles=re.findall(r'<article class="publication"[^>]*>.*?</article>',markup,re.S)
+ if len(articles)!=len(catalog):errors.append('Wrong publication count: '+route)
+ if any('<img' in article for article in articles):errors.append('Paper thumbnails should be removed: '+route)
+ years=[int(a['data-year']) for tag,a in docs[SITE/route].attrs if tag=='article' and 'data-year' in a]
+ if years!=sorted(years,reverse=True):errors.append('Publication years are not descending: '+route)
 for g in data['galleries']:
  # The original overview repeated 2023; the owner requested a distinct portfolio summary.
  if g['slug']=='photography':continue
@@ -96,7 +113,9 @@ for repair in json.loads((ROOT/'data/link-repairs.json').read_text()):
  else:target_docs=list(docs.values())
  destinations=[a.get('href') for d in target_docs for tag,a in d.attrs if tag=='a']
  if repair['original'] in destinations:errors.append('Unrepaired destination: '+repair['original'])
- if repair['replacement'] not in destinations:errors.append('Missing repaired destination: '+repair['replacement'])
+ # Author homepage links were removed with the text-only bibliography; only
+ # retained paper-link repairs must still have their replacement destination.
+ if repair.get('publication') and repair['replacement'] not in destinations:errors.append('Missing repaired destination: '+repair['replacement'])
 assets=json.loads((ROOT/'migration/source-assets.json').read_text())
 for a in assets:
  f=SITE/a['local_path']

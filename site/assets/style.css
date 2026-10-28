@@ -100,21 +100,22 @@ strong { font-weight: var(--weight-semibold); }
 .section-description { color: var(--muted); font-size: var(--type-small); line-height: var(--leading-small); margin: 9px 0 0; }
 .text-link { font-size: var(--type-small); text-decoration: none; color: var(--accent); white-space: nowrap; }
 .text-link:hover { text-decoration: underline; }
-.publication-list { border-top: 1px solid var(--rule); }
-.publication { display: grid; grid-template-columns: 175px minmax(0,1fr); gap: 34px; align-items: start; padding: 32px 0; border-bottom: 1px solid var(--rule); scroll-margin-top: 100px; }
-.pub-image { padding: 8px; background: white; border-radius: 3px; }
-.pub-image img { width: 100%; height: 130px; object-fit: contain; }
-.publication h3 { margin-bottom: 8px; }
-.publication h3 a { color: inherit; text-decoration: none; }
-.publication h3 a:hover { color: var(--accent); text-decoration: underline; }
-.pub-authors { font-size: var(--type-small); line-height: var(--leading-small); color: var(--muted); margin-bottom: 9px; }
+.publication-year { display: grid; grid-template-columns: 60px minmax(0,1fr); gap: 28px; padding-block: 24px 0; border-top: 1px solid var(--rule); }
+.publication-group-label { margin: 2px 0 0; font: 400 18px/1.5 var(--serif); letter-spacing: 0; color: var(--muted); }
+.publication-list { min-width: 0; }
+.publication { padding: 0 0 25px; scroll-margin-top: 100px; }
+.publication-title { margin: 0 0 5px; font: var(--weight-semibold) var(--type-subheading)/1.5 var(--sans); color: var(--ink); letter-spacing: 0; }
+.publication-title a { color: inherit; text-decoration: none; }
+.publication-title a:hover { color: var(--accent); text-decoration: underline; }
+.pub-authors { font-size: var(--type-small); line-height: 1.7; color: var(--muted); margin: 0 0 4px; }
 .pub-authors strong { color: var(--ink); }
-.pub-authors a { color: inherit; text-decoration: none; }
-.pub-authors a:hover { text-decoration: underline; }
-.pub-venue { font-size: var(--type-small); line-height: var(--leading-small); color: var(--venue); margin: 4px 0; }
-.pub-venue strong { font-weight: var(--weight-semibold); }
-.pub-links { font-size: var(--type-small); line-height: var(--leading-small); margin: 10px 0 0; }
-.pub-subtitle { font-size: var(--type-body); margin-bottom: 8px; }
+.pub-authors sup { font-size: .8em; line-height: 0; }
+.pub-venue { font-size: var(--type-small); line-height: 1.7; color: var(--venue); margin: 0; }
+.pub-note { font-size: var(--type-small); line-height: 1.7; color: var(--muted); margin: 4px 0 0; }
+.pub-links { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: var(--type-small); line-height: var(--leading-small); margin-top: 6px; }
+.pub-links a { text-decoration: none; }
+.pub-links a:hover { text-decoration: underline; }
+.publication-key { color: var(--muted); font-size: var(--type-meta); margin: 0 0 22px 88px; }
 .publications-section { padding-top: 47px; padding-bottom: 45px; }
 .photo-teaser { display: grid; grid-template-columns: 1.2fr 1fr; gap: 38px; align-items: center; padding-block: 48px; }
 .landscape-link { display: block; }
@@ -172,7 +173,6 @@ strong { font-weight: var(--weight-semibold); }
   .profile,.news-section { grid-template-columns: 180px minmax(0,1fr); gap: 31px; }
   .portrait { width: 180px; }
 
-  .publication { grid-template-columns: 165px minmax(0,1fr); gap: 24px; }
 }
 @media(max-width:700px) {
   :root { --type-title: 34px; --type-section: 26px; }
@@ -195,9 +195,9 @@ strong { font-weight: var(--weight-semibold); }
   .home-publications { padding-top: 28px; }
   .publication-heading { gap: 15px; align-items: center; }
 
-  .publication { grid-template-columns: minmax(0,1fr); gap: 15px; padding-block: 23px; }
-  .pub-image { width: 173px; }
-  .pub-image img { height: 100px; }
+  .publication-year { grid-template-columns: minmax(0,1fr); gap: 15px; padding-top: 20px; }
+  .publication { padding-bottom: 24px; }
+  .publication-key { margin-left: 0; }
 
   .publications-section { padding-top: 31px; padding-bottom: 35px; }
   .photo-teaser { display: flex; flex-direction: column; align-items: stretch; gap: 24px; padding-block: 35px; }

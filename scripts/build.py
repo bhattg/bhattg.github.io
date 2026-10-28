@@ -8,6 +8,7 @@ H=json.loads((ROOT/'data/unsplash-highlights.json').read_text())
 O=json.loads((ROOT/'data/photography-overview.json').read_text())
 I=json.loads((ROOT/'data/image-variants.json').read_text())
 C=json.loads((ROOT/'data/photo-captions.json').read_text())
+P=json.loads((ROOT/'data/publications.json').read_text())
 DIAGRAMS={p['image'] for p in D['publications']}
 E=lambda s:escape(str(s),quote=True)
 CV='/'+D['cv']
@@ -22,7 +23,7 @@ def asset_url(path):
  return '/'+path+'?v='+hashlib.sha256((SITE/path).read_bytes()).hexdigest()[:12]
 def page(title,body,path='/',photo=False,description=None):
  nav=[('About','/#about'),('Publications','/#publications'),('Photography','/photography/'),('CV',CV)]
- navigation=''.join(link(label,url,'nav-link'+(' active' if photo and label=='Photography' else '')) for label,url in nav)
+ navigation=''.join(link(label,url,'nav-link'+(' active' if (photo and label=='Photography') or (path=='/publications/' and label=='Publications') else '')) for label,url in nav)
  description=description or 'Gantavya Bhatt — PhD candidate at the University of Washington, Seattle. Research on data efficiency, large-scale models, and submodular optimization.'
  rendered=f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -44,7 +45,7 @@ def img(src,alt,cls='',eager=False,sizes=None):
   else:sizes='(max-width: 700px) calc(100vw - 40px), (max-width: 1032px) calc(50vw - 48.5px), 468px'
  srcset=', '.join('/'+v['path']+' '+str(v['width'])+'w' for v in variants)
  return f'<img src="/{E(fallback["path"])}" srcset="{E(srcset)}" sizes="{E(sizes)}" width="{meta["width"]}" height="{meta["height"]}" data-original-src="/{E(src)}" alt="{E(alt)}" class="{cls}" loading="{"eager" if eager else "lazy"}" decoding="async"'+(' fetchpriority="high"' if eager else '')+'>'
-# All biography and publication copy below comes from the original public site.
+# Biography remains from the original public site; publications use the verified catalog.
 bio=D['biography'];social=[]
 for s in D['social']:
  label={'LinkedIN':'LinkedIn'}.get(s['label'],s['label'])
@@ -55,26 +56,27 @@ for n in D['news']:
  match=re.match(r'\[([^\]]+)\]\s*(.*)',n['html']); date=match[1] if match else '';text=match[2] if match else n['html']
  news+=f'<li><span class="news-date">{date}</span><span>{text}</span></li>'
 news=f'<section class="news-section wrap" id="news"><div class="section-heading"><h2>Recent updates</h2></div><ul class="news-list">{news}</ul></section>'
-publications=''
-for i,p in enumerate(D['publications']):
- ps=p['paragraphs'];authors_i=1 if p['title']=='Decay RNN' else 0
- authors=ps[authors_i]['html'];authors=re.sub(r'Gantavya Bhatt','<strong>Gantavya Bhatt</strong>',authors)
- # Avoid nested emphasis inherited from Google Sites formatting.
- authors=re.sub(r'<strong>\s*<strong>(.*?)</strong>\s*</strong>',r'<strong>\1</strong>',authors)
- subtitle=f'<p class="pub-subtitle">{ps[0]["html"]}</p>' if authors_i else ''
- rest=''
- for j,para in enumerate(ps):
-  if j<=authors_i:continue
-  text=para['html']
-  for item in REPAIRS:
-   if item.get('publication')==p['title']: text=text.replace('href="'+E(item['original'])+'"','href="'+E(item['replacement'])+'"')
-  cl='pub-links' if '<a ' in text and re.fullmatch(r'(?:<[^>]+>|[^<])*',text) and para['text'].lower().replace(' ','').startswith(('pdf','arxiv','openreview')) else 'pub-venue'
-  rest+=f'<p class="{cl}">{text}</p>'
- publications+=f'<article class="publication" id="publication-{i+1}"><div class="pub-image">{img(p["image"],"Figure from “"+p["title"]+"”")}</div><div class="pub-copy"><h3>{p["title_html"]}</h3>{subtitle}<p class="pub-authors">{authors}</p>{rest}</div></article>'
-publication_rows=publications
-publications=f'<section class="publications-section wrap" id="publications"><div class="section-heading publication-heading"><div><h1>Publications</h1><p class="section-description">Conference and Workshop Publications</p></div>{link("Google Scholar ↗",next(s["url"] for s in D["social"] if s["label"]=="Google Scholar"),"text-link")}</div><div class="publication-list">{publication_rows}</div></section>'
-write('publications/index.html',page('Publications',publications,'/publications/'))
-home_publications=f'<section class="home-publications wrap" id="publications"><div class="section-heading publication-heading"><div><h2>Publications</h2><p class="section-description">Conference and Workshop Publications</p></div>{link("Google Scholar ↗",next(s["url"] for s in D["social"] if s["label"]=="Google Scholar"),"text-link")}</div><div class="publication-list">{publication_rows}</div></section>'
+def author_markup(name):
+ text=E(name).replace('Gantavya Bhatt','<strong>Gantavya Bhatt</strong>')
+ return re.sub(r'([*†])$',r'<sup>\1</sup>',text)
+def publication_entry(p,heading):
+ authors=', '.join(author_markup(name) for name in p['authors'])
+ resources=''.join(link(E(item['label']),item['url']) for item in p['links'])
+ note=f'<p class="pub-note">{author_markup(p["note"])}</p>' if p.get('note') else ''
+ return f'<article class="publication" id="{E(p["id"])}" data-year="{p["year"]}"><h{heading} class="publication-title">{link(E(p["title"]),p["links"][0]["url"])}</h{heading}><p class="pub-authors">{authors}</p><p class="pub-venue">{E(p["venue"])}</p>{note}<div class="pub-links" aria-label="Links for {E(p["title"])}">{resources}</div></article>'
+def publication_catalog(home=False):
+ heading=3 if home else 2
+ out=''
+ papers=[p for p in P['records'] if p['kind']=='paper']
+ for year in sorted({p['year'] for p in papers},reverse=True):
+  rows=''.join(publication_entry(p,heading+1) for p in sorted(papers,key=lambda p:p['date'],reverse=True) if p['year']==year)
+  out+=f'<section class="publication-year" aria-labelledby="publications-{year}"><h{heading} class="publication-group-label" id="publications-{year}">{year}</h{heading}><div class="publication-list">{rows}</div></section>'
+ notes=''.join(publication_entry(p,heading+1) for p in P['records'] if p['kind']=='notes')
+ if notes:out+=f'<section class="publication-year" aria-labelledby="publication-notes"><h{heading} class="publication-group-label" id="publication-notes">Notes</h{heading}><div class="publication-list">{notes}</div></section>'
+ return out+'<p class="publication-key">* and † mark equal contribution within the indicated groups.</p>'
+publications=f'<section class="publications-section wrap" id="publications"><div class="section-heading publication-heading"><div><h1>Publications</h1><p class="section-description">Research papers, technical reports, and preprints.</p></div>{link("Google Scholar ↗",P["profile_url"],"text-link")}</div>{publication_catalog()}</section>'
+write('publications/index.html',page('Publications',publications,'/publications/',description='Research publications, technical reports, and preprints by Gantavya Bhatt on data selection, representation learning, and efficient machine learning.'))
+home_publications=f'<section class="home-publications wrap" id="publications"><div class="section-heading publication-heading"><div><h2>Publications</h2><p class="section-description">Research papers, technical reports, and preprints.</p></div>{link("All publications ↗","/publications/","text-link")}</div>{publication_catalog(home=True)}</section>'
 photo=f'<section class="photo-teaser wrap"><a class="landscape-link" href="/photography/">{img(D["landscape_image"],"Mountain landscape from Gantavya Bhatt’s original website","landscape")}</a><div><h2>Outside research</h2><p>Photography, hiking, and the Pacific Northwest.</p>{link("Explore photography ↗","/photography/","text-link")}</div></section>'
 contact=f'<section class="contact-section wrap" id="contact"><h2>Contact</h2><a class="contact-email" href="mailto:{D["email"]}">{D["email"]}</a></section>'
 write('index.html',page('Research',hero+news+home_publications+photo+contact))

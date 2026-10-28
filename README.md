@@ -2,7 +2,7 @@
 
 Lightweight static HTML/CSS for **https://bhattg.github.io/**, migrated from the public Google Site. No package installation, Ruby, Jekyll, or JavaScript framework is required. The page content and direct navigation links work without JavaScript.
 
-The design combines a compact academic profile, warm ivory background, espresso text, cinnamon accents, and restrained serif headings. A matching night theme uses deep espresso, warm ivory text, and amber accents. The header switch remembers the visitor’s choice; the first visit follows the system color preference. All publications appear in simple image-and-text rows on the homepage, with a standalone publication index and separate photography collections. Photography has a distinct italic serif style and an overview of six visual themes, rather than repeating the 2023 gallery. Highlights of 2024 and 2025 add 35 curated photos from the owner’s Unsplash profile, grouped by verified upload year and shown earliest to latest in a continuous, fitted photo grid.
+The design combines a compact academic profile, warm ivory background, espresso text, cinnamon accents, and restrained serif headings. A matching night theme uses deep espresso, warm ivory text, and amber accents. The header switch remembers the visitor’s choice; the first visit follows the system color preference. Publications appear in a minimal text-only list grouped by year, on both the homepage and the dedicated Publications page. Photography has separate collections. Photography has a distinct italic serif style and an overview of six visual themes, rather than repeating the 2023 gallery. Highlights of 2024 and 2025 add 35 curated photos from the owner’s Unsplash profile, grouped by verified upload year and shown earliest to latest in a continuous, fitted photo grid.
 
 ## Preview and edit
 
@@ -14,7 +14,8 @@ python3 -m http.server 4173 --bind 127.0.0.1 --directory site
 
 Open http://127.0.0.1:4173/.
 
-- Edit biography, news, publication text, links, and gallery captions in `data/content.json`.
+- Edit biography, news, and archived source content in `data/content.json`.
+- Edit the current publication catalog in `data/publications.json`. Each record stores the verified title, author order, venue, date precision, links, source URLs, and its mapping to Scholar records. Keep the existing IDs to preserve bookmarks. The original 17 publication records remain archived in `data/content.json`.
 - Edit the overview’s introduction and six image selections in `data/photography-overview.json`. Each image references the verified photo inventory used by the annual galleries. The annual `photos` lists render in ascending `posted_at` order.
 - Edit the 2024 and 2025 introductions, selections, source captions, locations, and image provenance in `data/unsplash-highlights.json`. The original Google Sites copy, including the replaced 2024 placeholder, remains archived in `data/content.json`.
 - Edit the polished photo captions in `data/photo-captions.json`. Original captions remain archived in the source data.
@@ -51,3 +52,9 @@ Images retry once against the original file after a request failure. If that als
 ## Compact photography layout
 
 Galleries use balanced rows that size each photograph according to its original aspect ratio, without cropping. The layout adapts to the available width, keeps left-to-right photo order, and reserves room for readable captions. JavaScript refines the row widths; CSS provides a wrapping fallback. Annual highlights have no month headings. The original 2023 essay appears before its photographs, and its photo order and thematic headings remain intact.
+
+## Publication refresh from Google Scholar
+
+The catalog was reviewed against all 30 public Scholar records on October 27, 2026. It contains 23 papers/technical reports and one separately labeled lecture-note contribution. Five duplicate or alternate records are consolidated; the astronomy paper was excluded at the owner’s request. Publisher metadata takes precedence over stale preprint titles and years. NVIDIA reports use the corporate author credited by arXiv, with the owner’s membership in all four full author lists verified. `migration/scholar-publication-inventory.json` records the disposition of every Scholar entry; citation details, authorship evidence, link results, and responsive layout checks are stored alongside it.
+
+Paper thumbnails have been removed from both publication lists. The original image files are retained for provenance. The list uses compact year labels, consistent type, full author lists for ordinary papers, and plain resource links in both themes.

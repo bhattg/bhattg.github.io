@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2606.15007",
+    "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "date": "2026/06/12",
+    "corporate_author": "NVIDIA",
+    "author_count": 574,
+    "owner_author_metadata": [
+      "Bhatt, Gantavya"
+    ],
+    "owner_in_author_list": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.12374",
+    "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "date": "2026/04/14",
+    "corporate_author": "NVIDIA",
+    "author_count": 547,
+    "owner_author_metadata": [
+      "Bhatt, Gantavya"
+    ],
+    "owner_in_author_list": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.20856",
+    "title": "NVIDIA Nemotron 3: Efficient and Open Intelligence",
+    "date": "2025/12/24",
+    "corporate_author": "NVIDIA",
+    "author_count": 359,
+    "owner_author_metadata": [
+      "Bhatt, Gantavya"
+    ],
+    "owner_in_author_list": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.20848",
+    "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "date": "2025/12/23",
+    "corporate_author": "NVIDIA",
+    "author_count": 314,
+    "owner_author_metadata": [
+      "Bhatt, Gantavya"
+    ],
+    "owner_in_author_list": true
+  }
+]

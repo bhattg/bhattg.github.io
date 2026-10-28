@@ -1,0 +1,905 @@
+{
+  "updated_on": "2026-10-27",
+  "profile_url": "https://scholar.google.com/citations?hl=en&user=A18gBf4AAAAJ&view_op=list_works&sortby=pubdate",
+  "date_basis": "Final conference/journal publication year when verified; initial submission date for preprints. Partial dates retain their known precision.",
+  "records": [
+    {
+      "id": "coresets-before-score-sets",
+      "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
+      "authors": [
+        "Jihan Yao*",
+        "Gantavya Bhatt*",
+        "Arnav Das*",
+        "Peter Jin",
+        "Ke Bao",
+        "Qiaolin Yu",
+        "Khushi Bhardwaj",
+        "Chang Su",
+        "Jialei Wang",
+        "Yikai Zhu",
+        "Sugam Devare",
+        "Damon Mosk-Aoyama",
+        "Zhen Dong",
+        "Venkat Krishna Srinivasan",
+        "Yineng Zhang",
+        "Oleksii Kuchaiev",
+        "Jiantao Jiao",
+        "Banghua Zhu",
+        "Jeff Bilmes"
+      ],
+      "date": "2026-07-02",
+      "year": 2026,
+      "venue": "arXiv preprint",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2607.09739"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2607.09739"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        0,
+        29
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2607.09739",
+        "https://arxiv.org/pdf/2607.09739",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:isC4tDSrTZIC"
+      ]
+    },
+    {
+      "id": "publication-2",
+      "title": "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+      "authors": [
+        "Tingle Li",
+        "Siddharth Gururani",
+        "Kevin J. Shih",
+        "Gantavya Bhatt",
+        "Sang-gil Lee",
+        "Zhifeng Kong",
+        "Arushi Goel",
+        "Gopala Anumanchipalli",
+        "Ming-Yu Liu"
+      ],
+      "date": "2026-07",
+      "year": 2026,
+      "venue": "CVPR 2026",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2605.30339"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2605.30339"
+        },
+        {
+          "label": "Project",
+          "url": "https://research.nvidia.com/labs/cosmos-lab/flatsounds/"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        1
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2605.30339",
+        "https://arxiv.org/pdf/2605.30339",
+        "https://research.nvidia.com/labs/cosmos-lab/flatsounds/",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:RHpTSmoSYBkC"
+      ],
+      "legacy_publication_index": 1
+    },
+    {
+      "id": "nemotron-3-ultra",
+      "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "authors": [
+        "NVIDIA"
+      ],
+      "date": "2026-06-12",
+      "year": 2026,
+      "venue": "Technical report · arXiv",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2606.15007"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2606.15007"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        2,
+        3
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2606.15007",
+        "https://arxiv.org/pdf/2606.15007",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:bEWYMUwI8FkC"
+      ]
+    },
+    {
+      "id": "dataset-worth",
+      "title": "How Much Is a Dataset Worth? Scaling Laws, the Vendi Score, and Matrix Spectral Functions",
+      "authors": [
+        "Jeff A. Bilmes",
+        "Gantavya Bhatt",
+        "Arnav M. Das"
+      ],
+      "date": "2026-05-28",
+      "year": 2026,
+      "venue": "arXiv preprint",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2605.29448"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2605.29448"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        4
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2605.29448",
+        "https://arxiv.org/pdf/2605.29448",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:r0BpntZqJG4C"
+      ]
+    },
+    {
+      "id": "nemotron-3-super",
+      "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "authors": [
+        "NVIDIA"
+      ],
+      "date": "2026-04-14",
+      "year": 2026,
+      "venue": "Technical report · arXiv",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2604.12374"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2604.12374"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        5,
+        6
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2604.12374",
+        "https://arxiv.org/pdf/2604.12374",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:j3f4tGmQtD8C"
+      ]
+    },
+    {
+      "id": "publication-1",
+      "title": "Matched Data, Better Models: Target Aligned Data Filtering with Sparse Autoencoders",
+      "authors": [
+        "Arnav M. Das*",
+        "Gantavya Bhatt*",
+        "Sahil Verma",
+        "Yiping Wang",
+        "Viswa Virinchi Muppirala",
+        "Jeff Bilmes"
+      ],
+      "date": "2026-04",
+      "year": 2026,
+      "venue": "ICLR 2026",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8291acb610ddc260d554da5a3d273ae9-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/8291acb610ddc260d554da5a3d273ae9-Paper-Conference.pdf"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        7
+      ],
+      "sources": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8291acb610ddc260d554da5a3d273ae9-Abstract-Conference.html",
+        "https://proceedings.iclr.cc/paper_files/paper/2026/file/8291acb610ddc260d554da5a3d273ae9-Paper-Conference.pdf",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:4JMBOYKVnBMC"
+      ],
+      "legacy_publication_index": 0
+    },
+    {
+      "id": "nvidia-nemotron-3",
+      "title": "NVIDIA Nemotron 3: Efficient and Open Intelligence",
+      "authors": [
+        "NVIDIA"
+      ],
+      "date": "2025-12-24",
+      "year": 2025,
+      "venue": "Technical report · arXiv",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2512.20856"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2512.20856"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        8
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.20856",
+        "https://arxiv.org/pdf/2512.20856",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:mB3voiENLucC"
+      ]
+    },
+    {
+      "id": "nemotron-3-nano",
+      "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "authors": [
+        "NVIDIA"
+      ],
+      "date": "2025-12-23",
+      "year": 2025,
+      "venue": "Technical report · arXiv",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2512.20848"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2512.20848"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        9
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.20848",
+        "https://arxiv.org/pdf/2512.20848",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:-f6ydRqryjwC"
+      ]
+    },
+    {
+      "id": "publication-8",
+      "title": "How Many Images Does It Take? Estimating Imitation Thresholds in Text-to-Image Models",
+      "authors": [
+        "Sahil Verma",
+        "Royi Rassin",
+        "Arnav Das",
+        "Gantavya Bhatt",
+        "Preethi Seshadri",
+        "Chirag Shah",
+        "Jeff Bilmes",
+        "Hannaneh Hajishirzi",
+        "Yanai Elazar"
+      ],
+      "date": "2025-12",
+      "year": 2025,
+      "venue": "Transactions on Machine Learning Research",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2410.15002"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2410.15002"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/vsahil/MIMETIC-2"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        13,
+        14
+      ],
+      "sources": [
+        "https://people.ece.uw.edu/bilmes/p/pgs/b2hd-verma2025imitationthresholds.html",
+        "https://arxiv.org/abs/2410.15002",
+        "https://arxiv.org/pdf/2410.15002",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:HDshCWvjkbEC"
+      ],
+      "note": "Earlier workshop version: How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold.",
+      "legacy_publication_index": 7
+    },
+    {
+      "id": "publication-4",
+      "title": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+      "authors": [
+        "Hritik Bansal*",
+        "Ashima Suvarna*",
+        "Gantavya Bhatt*",
+        "Nanyun Peng",
+        "Kai-Wei Chang",
+        "Aditya Grover"
+      ],
+      "date": "2025-07",
+      "year": 2025,
+      "venue": "Findings of ACL 2025",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://aclanthology.org/2025.findings-acl.39/"
+        },
+        {
+          "label": "PDF",
+          "url": "https://aclanthology.org/2025.findings-acl.39.pdf"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Hritikbansal/jpo"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        16
+      ],
+      "sources": [
+        "https://aclanthology.org/2025.findings-acl.39/",
+        "https://aclanthology.org/2025.findings-acl.39.pdf",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:qxL8FJ1GzNcC"
+      ],
+      "legacy_publication_index": 3
+    },
+    {
+      "id": "publication-3",
+      "title": "COBRA: COmBinatorial Retrieval Augmentation for Few-Shot Adaptation",
+      "authors": [
+        "Arnav M. Das*",
+        "Gantavya Bhatt*",
+        "Lilly Kumari",
+        "Sahil Verma",
+        "Jeff Bilmes"
+      ],
+      "date": "2025-06",
+      "year": 2025,
+      "venue": "CVPR 2025",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.pdf"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2412.17684"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        10
+      ],
+      "sources": [
+        "https://openaccess.thecvf.com/content/CVPR2025/html/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2025/papers/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.pdf",
+        "https://arxiv.org/abs/2412.17684",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:9ZlFYXVOiuMC"
+      ],
+      "legacy_publication_index": 2
+    },
+    {
+      "id": "publication-5",
+      "title": "Deep Submodular Peripteral Networks",
+      "authors": [
+        "Gantavya Bhatt*",
+        "Arnav M. Das*",
+        "Jeffrey A. Bilmes"
+      ],
+      "date": "2024-12-10",
+      "year": 2024,
+      "venue": "NeurIPS 2024 · Spotlight",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/677e39f949e8b92065957a8976345aba-Abstract-Conference.html"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2403.08199"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        11
+      ],
+      "sources": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/677e39f949e8b92065957a8976345aba-Abstract-Conference.html",
+        "https://arxiv.org/abs/2403.08199",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:M3ejUd6NZC8C"
+      ],
+      "legacy_publication_index": 4
+    },
+    {
+      "id": "publication-7",
+      "title": "Effective Backdoor Mitigation in Vision-Language Models Depends on the Pre-training Objective",
+      "authors": [
+        "Sahil Verma",
+        "Gantavya Bhatt",
+        "Avi Schwarzschild",
+        "Soumye Singhal",
+        "Arnav Das",
+        "Chirag Shah",
+        "John P Dickerson",
+        "Pin-Yu Chen",
+        "Jeff Bilmes"
+      ],
+      "date": "2024-12",
+      "year": 2024,
+      "venue": "Transactions on Machine Learning Research",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2311.14948"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2311.14948"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/vsahil/attack-cleanclip"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        12
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2311.14948",
+        "https://arxiv.org/pdf/2311.14948",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:IWHjjKOFINEC"
+      ],
+      "note": "BUGS workshop, NeurIPS 2023 · Best Paper Award.",
+      "legacy_publication_index": 6
+    },
+    {
+      "id": "publication-6",
+      "title": "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models",
+      "authors": [
+        "Gantavya Bhatt*",
+        "Yifang Chen*",
+        "Arnav Das*",
+        "Jifan Zhang*",
+        "Sang Truong",
+        "Stephen Mussmann",
+        "Yinglun Zhu",
+        "Jeff Bilmes",
+        "Simon Shaolei Du",
+        "Kevin Jamieson",
+        "Jordan P Ash",
+        "Robert D Nowak"
+      ],
+      "date": "2024-08",
+      "year": 2024,
+      "venue": "Findings of ACL 2024",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://aclanthology.org/2024.findings-acl.390/"
+        },
+        {
+          "label": "PDF",
+          "url": "https://aclanthology.org/2024.findings-acl.390.pdf"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2401.06692"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        15,
+        17
+      ],
+      "sources": [
+        "https://aclanthology.org/2024.findings-acl.390/",
+        "https://aclanthology.org/2024.findings-acl.390.pdf",
+        "https://arxiv.org/abs/2401.06692",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:ULOm3_A8WrAC"
+      ],
+      "legacy_publication_index": 5
+    },
+    {
+      "id": "publication-9",
+      "title": "LabelBench: A Comprehensive Framework for Benchmarking Adaptive Label-Efficient Learning",
+      "authors": [
+        "Jifan Zhang*",
+        "Yifang Chen*",
+        "Gregory Canal",
+        "Arnav M. Das†",
+        "Gantavya Bhatt†",
+        "Stephen Mussmann",
+        "Yinglun Zhu",
+        "Jeffrey Bilmes",
+        "Simon S. Du",
+        "Kevin Jamieson",
+        "Robert D. Nowak"
+      ],
+      "date": "2024-03",
+      "year": 2024,
+      "venue": "Journal of Data-centric Machine Learning Research",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://data.mlr.press/assets/pdf/v01-7.pdf"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2306.09910"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/EfficientTraining/LabelBench"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        19
+      ],
+      "sources": [
+        "https://data.mlr.press/assets/pdf/v01-7.pdf",
+        "https://arxiv.org/abs/2306.09910",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:MXK_kJrjxJIC"
+      ],
+      "legacy_publication_index": 8
+    },
+    {
+      "id": "publication-10",
+      "title": "Accelerating Batch Active Learning Using Continual Learning Techniques",
+      "authors": [
+        "Arnav Mohanty Das",
+        "Gantavya Bhatt",
+        "Megh Manoj Bhalerao",
+        "Vianne R. Gao",
+        "Rui Yang",
+        "Jeff Bilmes"
+      ],
+      "date": "2023-12-02",
+      "year": 2023,
+      "venue": "Transactions on Machine Learning Research",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2305.06408"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2305.06408"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/bhattg/CAL"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        18
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2305.06408",
+        "https://openreview.net/pdf?id=T55dLSgsEf",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:Zph67rFs4hoC",
+        "https://arxiv.org/pdf/2305.06408"
+      ],
+      "legacy_publication_index": 9
+    },
+    {
+      "id": "publication-11",
+      "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+      "authors": [
+        "Akarsh Prabhakara",
+        "Tao Jin",
+        "Arnav Das",
+        "Gantavya Bhatt",
+        "Lilly Kumari",
+        "Elahe Soltanaghai",
+        "Jeff Bilmes",
+        "Swarun Kumar",
+        "Anthony Rowe"
+      ],
+      "date": "2023-10-02",
+      "year": 2023,
+      "venue": "ACM MobiCom 2023 · Demo",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3570361.3614077"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/akarsh-prabhakara/RadarHD"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        20
+      ],
+      "sources": [
+        "https://dl.acm.org/doi/10.1145/3570361.3614077",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:5nxA0vEk-isC"
+      ],
+      "legacy_publication_index": 10
+    },
+    {
+      "id": "publication-12",
+      "title": "High Resolution Point Clouds from mmWave Radar",
+      "authors": [
+        "Akarsh Prabhakara",
+        "Tao Jin",
+        "Arnav Das",
+        "Gantavya Bhatt",
+        "Lilly Kumari",
+        "Elahe Soltanaghaei",
+        "Jeff Bilmes",
+        "Swarun Kumar",
+        "Anthony Rowe"
+      ],
+      "date": "2023-06",
+      "year": 2023,
+      "venue": "ICRA 2023",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10161429"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2206.09273"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/akarsh-prabhakara/RadarHD"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        21
+      ],
+      "sources": [
+        "https://ieeexplore.ieee.org/document/10161429",
+        "https://arxiv.org/pdf/2206.09273",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:Se3iqnhoufwC"
+      ],
+      "legacy_publication_index": 11
+    },
+    {
+      "id": "publication-13",
+      "title": "Matryoshka Representation Learning",
+      "authors": [
+        "Aditya Kusupati*",
+        "Gantavya Bhatt*",
+        "Aniket Rege*",
+        "Matthew Wallingford",
+        "Aditya Sinha",
+        "Vivek Ramanujan",
+        "William Howard-Snyder",
+        "Kaifeng Chen",
+        "Sham Kakade",
+        "Prateek Jain",
+        "Ali Farhadi"
+      ],
+      "date": "2022-12-06",
+      "year": 2022,
+      "venue": "NeurIPS 2022",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2205.13147"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/RAIVNLab/MRL"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        22
+      ],
+      "sources": [
+        "https://proceedings.neurips.cc/paper_files/paper/2022/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html",
+        "https://arxiv.org/abs/2205.13147",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:UebtZRa9Y70C"
+      ],
+      "legacy_publication_index": 12
+    },
+    {
+      "id": "publication-15",
+      "title": "Systematic Generalization in Neural Networks-based Multivariate Time Series Forecasting Models",
+      "authors": [
+        "Hritik Bansal*",
+        "Gantavya Bhatt*",
+        "Pankaj Malhotra",
+        "Prathosh AP"
+      ],
+      "date": "2021-07-18",
+      "year": 2021,
+      "venue": "IJCNN 2021",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/9534469/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2102.05602"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        23
+      ],
+      "sources": [
+        "https://ieeexplore.ieee.org/document/9534469/",
+        "https://arxiv.org/abs/2102.05602",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:_FxGoFyzp5QC"
+      ],
+      "legacy_publication_index": 14
+    },
+    {
+      "id": "publication-14",
+      "title": "Tighter m-DPP Coreset Sample Complexity Bounds",
+      "authors": [
+        "Gantavya Bhatt",
+        "Jeff Bilmes"
+      ],
+      "date": "2021-07",
+      "year": 2021,
+      "venue": "SubsetML workshop, ICML 2021 · Oral",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://icml.cc/virtual/2021/11181"
+        },
+        {
+          "label": "PDF",
+          "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        24
+      ],
+      "sources": [
+        "https://icml.cc/virtual/2021/11181",
+        "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:WF5omc3nYNoC"
+      ],
+      "legacy_publication_index": 13
+    },
+    {
+      "id": "publication-16",
+      "title": "Can RNNs trained on harder subject-verb agreement instances still perform well on easier ones?",
+      "authors": [
+        "Hritik Bansal*",
+        "Gantavya Bhatt*",
+        "Sumeet Agarwal"
+      ],
+      "date": "2021-02",
+      "year": 2021,
+      "venue": "SCiL 2021",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://aclanthology.org/2021.scil-1.37/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2010.04976"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        25
+      ],
+      "sources": [
+        "https://aclanthology.org/2021.scil-1.37/",
+        "https://arxiv.org/abs/2010.04976",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:YsMSGLbcyi4C"
+      ],
+      "legacy_publication_index": 15
+    },
+    {
+      "id": "publication-17",
+      "title": "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?",
+      "authors": [
+        "Gantavya Bhatt*",
+        "Hritik Bansal*",
+        "Rishubh Singh*",
+        "Sumeet Agarwal"
+      ],
+      "date": "2020-07",
+      "year": 2020,
+      "venue": "ACL 2020 · Student Research Workshop",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://aclanthology.org/2020.acl-srw.33/"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2005.08199"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020"
+        }
+      ],
+      "kind": "paper",
+      "scholar_records": [
+        26
+      ],
+      "sources": [
+        "https://aclanthology.org/2020.acl-srw.33/",
+        "https://arxiv.org/abs/2005.08199",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:UeHWp8X0CEIC"
+      ],
+      "legacy_publication_index": 16
+    },
+    {
+      "id": "kernel-lecture-notes",
+      "title": "Lecture notes: Efficient approximation of kernel functions",
+      "authors": [
+        "Amitabha Bagchi"
+      ],
+      "date": "2020-05-04",
+      "year": 2020,
+      "venue": "Lecture notes · 2020",
+      "links": [
+        {
+          "label": "Notes",
+          "url": "https://arxiv.org/abs/2005.01566"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2005.01566"
+        }
+      ],
+      "kind": "notes",
+      "scholar_records": [
+        27
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2005.01566",
+        "https://arxiv.org/pdf/2005.01566",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A18gBf4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=A18gBf4AAAAJ:2osOgNQ5qMEC"
+      ],
+      "note": "With contributions from Gantavya Bhatt and other contributors, credited in the notes."
+    }
+  ]
+}

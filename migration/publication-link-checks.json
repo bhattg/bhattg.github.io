@@ -1,0 +1,376 @@
+{
+  "checked_on": "2026-10-27",
+  "method": "HTTPS HEAD following redirects; access controls are recorded separately from broken URLs.",
+  "links": [
+    {
+      "url": "https://aclanthology.org/2020.acl-srw.33/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2020.acl-srw.33/",
+      "error": ""
+    },
+    {
+      "url": "https://aclanthology.org/2021.scil-1.37/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2021.scil-1.37/",
+      "error": ""
+    },
+    {
+      "url": "https://aclanthology.org/2024.findings-acl.390.pdf",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2024.findings-acl.390.pdf",
+      "error": ""
+    },
+    {
+      "url": "https://aclanthology.org/2024.findings-acl.390/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2024.findings-acl.390/",
+      "error": ""
+    },
+    {
+      "url": "https://aclanthology.org/2025.findings-acl.39.pdf",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.findings-acl.39.pdf",
+      "error": ""
+    },
+    {
+      "url": "https://aclanthology.org/2025.findings-acl.39/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.findings-acl.39/",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.01566",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2005.01566",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.08199",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2005.08199",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2010.04976",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2010.04976",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2102.05602",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2102.05602",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2205.13147",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2205.13147",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.06408",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2305.06408",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.09910",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2306.09910",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.14948",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2311.14948",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2401.06692",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2401.06692",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.08199",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2403.08199",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.15002",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2410.15002",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.17684",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.17684",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.20848",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.20848",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.20856",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.20856",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.12374",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.12374",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29448",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.29448",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.30339",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.30339",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.15007",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.15007",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.09739",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2607.09739",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2005.01566",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2005.01566",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.09273",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2206.09273",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.14948",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2311.14948",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.15002",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2410.15002",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.20848",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2512.20848",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.20856",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2512.20856",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2604.12374",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2604.12374",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2605.29448",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2605.29448",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2605.30339",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2605.30339",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2606.15007",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2606.15007",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2607.09739",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2607.09739",
+      "error": ""
+    },
+    {
+      "url": "https://data.mlr.press/assets/pdf/v01-7.pdf",
+      "status": 200,
+      "final_url": "https://data.mlr.press/assets/pdf/v01-7.pdf",
+      "error": ""
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3570361.3614077",
+      "status": 403,
+      "final_url": "https://dl.acm.org/doi/10.1145/3570361.3614077",
+      "error": ""
+    },
+    {
+      "url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1sBWsOacdgV4kCEB6MurFIBVOdma5RSgO/view",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/EfficientTraining/LabelBench",
+      "status": 200,
+      "final_url": "https://github.com/EfficientTraining/LabelBench",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+      "status": 200,
+      "final_url": "https://github.com/Hritikbansal/MultivariateTimeSeries_Generalization",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+      "status": 200,
+      "final_url": "https://github.com/Hritikbansal/RNNs_SVA_OOD",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Hritikbansal/jpo",
+      "status": 200,
+      "final_url": "https://github.com/Hritikbansal/jpo",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/RAIVNLab/MRL",
+      "status": 200,
+      "final_url": "https://github.com/RAIVNLab/MRL",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/akarsh-prabhakara/RadarHD",
+      "status": 200,
+      "final_url": "https://github.com/akarsh-prabhakara/RadarHD",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/bhattg/CAL",
+      "status": 200,
+      "final_url": "https://github.com/bhattg/CAL",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+      "status": 200,
+      "final_url": "https://github.com/bhattg/Decay-RNN-ACL-SRW2020",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/vsahil/MIMETIC-2",
+      "status": 200,
+      "final_url": "https://github.com/vsahil/MIMETIC-2",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/vsahil/attack-cleanclip",
+      "status": 200,
+      "final_url": "https://github.com/vsahil/attack-cleanclip",
+      "error": ""
+    },
+    {
+      "url": "https://icml.cc/virtual/2021/11181",
+      "status": 200,
+      "final_url": "https://icml.cc/virtual/2021/11181",
+      "error": ""
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10161429",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/10161429",
+      "error": ""
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9534469/",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9534469/",
+      "error": ""
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.html",
+      "status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.html",
+      "error": ""
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.pdf",
+      "status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Das_COBRA_COmBinatorial_Retrieval_Augmentation_for_Few-Shot_Adaptation_CVPR_2025_paper.pdf",
+      "error": ""
+    },
+    {
+      "url": "https://openreview.net/pdf?id=T55dLSgsEf",
+      "status": 403,
+      "final_url": "https://openreview.net/pdf?id=T55dLSgsEf",
+      "error": "",
+      "retired_from_catalog": true,
+      "replacement": "https://arxiv.org/pdf/2305.06408"
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/8291acb610ddc260d554da5a3d273ae9-Paper-Conference.pdf",
+      "status": 200,
+      "final_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/8291acb610ddc260d554da5a3d273ae9-Paper-Conference.pdf",
+      "error": ""
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8291acb610ddc260d554da5a3d273ae9-Abstract-Conference.html",
+      "status": 200,
+      "final_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8291acb610ddc260d554da5a3d273ae9-Abstract-Conference.html",
+      "error": ""
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html",
+      "status": 200,
+      "final_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html",
+      "error": ""
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/677e39f949e8b92065957a8976345aba-Abstract-Conference.html",
+      "status": 200,
+      "final_url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/677e39f949e8b92065957a8976345aba-Abstract-Conference.html",
+      "error": ""
+    },
+    {
+      "url": "https://research.nvidia.com/labs/cosmos-lab/flatsounds/",
+      "status": 200,
+      "final_url": "https://research.nvidia.com/labs/cosmos-lab/flatsounds/",
+      "error": ""
+    },
+    {
+      "url": "https://arxiv.org/pdf/2305.06408",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2305.06408",
+      "error": "",
+      "method": "HTTPS HEAD after replacement"
+    }
+  ],
+  "interpretation": "No 404/410 destinations found. ACM returned 403 and IEEE returned 202 to automated HEAD checks. These are verified publisher records, retained alongside open arXiv copies where available. The OpenReview PDF for continual active learning was replaced by its open arXiv copy after automated access was blocked."
+}
